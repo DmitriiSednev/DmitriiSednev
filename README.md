@@ -36,4 +36,13 @@
 
 ---
 
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitriiSednev/DmitriiSednev/output/github-snake-dark.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DmitriiSednev/DmitriiSednev/output/github-snake.svg">
+</picture>
+
+---
+
 <sub>The digest above is refreshed every hour by a GitHub Action — trending Hugging Face models and the freshest arXiv NLP/LLM papers, so this profile always shows today's AI landscape.</sub>
