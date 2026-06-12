@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 599 | ⬇️ 20,669 |
-| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 1,916 | ⬇️ 149,206 |
-| [google/gemma-4-12B-it](https://huggingface.co/google/gemma-4-12B-it) `any-to-any` | ❤️ 961 | ⬇️ 911,544 |
-| [CohereLabs/North-Mini-Code-1.0](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) `text-generation` | ❤️ 331 | ⬇️ 4,054 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 304 | ⬇️ 0 |
+| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 611 | ⬇️ 20,669 |
+| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 1,921 | ⬇️ 149,206 |
+| [google/gemma-4-12B-it](https://huggingface.co/google/gemma-4-12B-it) `any-to-any` | ❤️ 964 | ⬇️ 911,544 |
+| [CohereLabs/North-Mini-Code-1.0](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) `text-generation` | ❤️ 334 | ⬇️ 4,054 |
+| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 326 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents](http://arxiv.org/abs/2606.13663v1) · `2026-06-11`
 - [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Dis...](http://arxiv.org/abs/2606.13662v1) · `2026-06-11`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-12 23:21 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-13 01:42 MSK</sub>
 
 <!--DIGEST:END-->
 
