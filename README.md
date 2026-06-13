@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 650 | ⬇️ 92,080 |
-| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 1,939 | ⬇️ 69,443 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 428 | ⬇️ 1,689 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 341 | ⬇️ 1,031 |
-| [CohereLabs/North-Mini-Code-1.0](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) `text-generation` | ❤️ 340 | ⬇️ 6,533 |
+| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 664 | ⬇️ 92,080 |
+| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 1,946 | ⬇️ 69,443 |
+| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 452 | ⬇️ 1,689 |
+| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 363 | ⬇️ 1,031 |
+| [CohereLabs/North-Mini-Code-1.0](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) `text-generation` | ❤️ 342 | ⬇️ 6,533 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents](http://arxiv.org/abs/2606.13663v1) · `2026-06-11`
 - [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Dis...](http://arxiv.org/abs/2606.13662v1) · `2026-06-11`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-13 14:59 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-13 17:20 MSK</sub>
 
 <!--DIGEST:END-->
 
