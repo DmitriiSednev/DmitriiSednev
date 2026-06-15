@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 790 | ⬇️ 198,912 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 624 | ⬇️ 15,145 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 485 | ⬇️ 6,643 |
-| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 1,999 | ⬇️ 75,201 |
-| [CohereLabs/North-Mini-Code-1.0](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) `text-generation` | ❤️ 368 | ⬇️ 9,932 |
+| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 810 | ⬇️ 198,912 |
+| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 656 | ⬇️ 15,145 |
+| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 515 | ⬇️ 6,643 |
+| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 2,014 | ⬇️ 75,201 |
+| [CohereLabs/North-Mini-Code-1.0](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) `text-generation` | ❤️ 374 | ⬇️ 9,932 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1) · `2026-06-11`
-- [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1) · `2026-06-11`
-- [Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data A...](http://arxiv.org/abs/2606.13668v1) · `2026-06-11`
-- [HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents](http://arxiv.org/abs/2606.13663v1) · `2026-06-11`
-- [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Dis...](http://arxiv.org/abs/2606.13662v1) · `2026-06-11`
+- [Gaze Heads: How VLMs Look at What They Describe](http://arxiv.org/abs/2606.14703v1) · `2026-06-12`
+- [ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](http://arxiv.org/abs/2606.14697v1) · `2026-06-12`
+- [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](http://arxiv.org/abs/2606.14695v1) · `2026-06-12`
+- [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v1) · `2026-06-12`
+- [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Ori...](http://arxiv.org/abs/2606.14691v1) · `2026-06-12`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-15 03:20 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-15 09:33 MSK</sub>
 
 <!--DIGEST:END-->
 
