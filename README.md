@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 810 | ⬇️ 198,912 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 656 | ⬇️ 15,145 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 515 | ⬇️ 6,643 |
-| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 2,014 | ⬇️ 75,201 |
-| [CohereLabs/North-Mini-Code-1.0](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) `text-generation` | ❤️ 374 | ⬇️ 9,932 |
+| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 838 | ⬇️ 311,788 |
+| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 701 | ⬇️ 56,750 |
+| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 683 | ⬇️ 14,312 |
+| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 2,035 | ⬇️ 86,968 |
+| [CohereLabs/North-Mini-Code-1.0](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) `text-generation` | ❤️ 376 | ⬇️ 11,145 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v1) · `2026-06-12`
 - [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Ori...](http://arxiv.org/abs/2606.14691v1) · `2026-06-12`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-15 09:33 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-15 16:23 MSK</sub>
 
 <!--DIGEST:END-->
 
