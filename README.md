@@ -16,11 +16,7 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 893 | ⬇️ 311,788 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 854 | ⬇️ 14,312 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 753 | ⬇️ 56,750 |
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 721 | ⬇️ 20,207 |
-| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 2,062 | ⬇️ 86,968 |
+| _Hugging Face API unavailable: HTTP Error 429: Too Many Requests_ | | |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +26,7 @@
 - [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1) · `2026-06-15`
 - [DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of De...](http://arxiv.org/abs/2606.17029v1) · `2026-06-15`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-16 08:24 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-16 14:29 MSK</sub>
 
 <!--DIGEST:END-->
 
