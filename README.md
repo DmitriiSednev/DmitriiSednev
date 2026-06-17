@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 1,151 | ⬇️ 60,921 |
-| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 944 | ⬇️ 375,974 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,009 | ⬇️ 25,064 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 799 | ⬇️ 102,206 |
-| [nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) `image-text-to-text` | ❤️ 2,101 | ⬇️ 98,698 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 1,209 | ⬇️ 60,921 |
+| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 951 | ⬇️ 375,974 |
+| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,025 | ⬇️ 25,064 |
+| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 810 | ⬇️ 102,206 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 568 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [The Value Axis: Language Models Encode Whether They're on the Right Track](http://arxiv.org/abs/2606.17056v1) · `2026-06-15`
-- [Context-Aware RL for Agentic and Multimodal LLMs](http://arxiv.org/abs/2606.17053v1) · `2026-06-15`
-- [Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio](http://arxiv.org/abs/2606.17041v1) · `2026-06-15`
-- [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1) · `2026-06-15`
-- [DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of De...](http://arxiv.org/abs/2606.17029v1) · `2026-06-15`
+- [Variable-Width Transformers](http://arxiv.org/abs/2606.18246v1) · `2026-06-16`
+- [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](http://arxiv.org/abs/2606.18237v1) · `2026-06-16`
+- [Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with St...](http://arxiv.org/abs/2606.18222v1) · `2026-06-16`
+- [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](http://arxiv.org/abs/2606.18216v1) · `2026-06-16`
+- [Looped World Models](http://arxiv.org/abs/2606.18208v1) · `2026-06-16`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-17 02:42 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-17 08:04 MSK</sub>
 
 <!--DIGEST:END-->
 
