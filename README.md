@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 1,394 | ⬇️ 146,784 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,056 | ⬇️ 42,198 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 909 | ⬇️ 666 |
-| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 969 | ⬇️ 460,173 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 838 | ⬇️ 172,727 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 1,433 | ⬇️ 146,784 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 963 | ⬇️ 666 |
+| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,058 | ⬇️ 42,198 |
+| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 840 | ⬇️ 172,727 |
+| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 974 | ⬇️ 460,173 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](http://arxiv.org/abs/2606.18216v1) · `2026-06-16`
 - [Looped World Models](http://arxiv.org/abs/2606.18208v1) · `2026-06-16`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-17 20:15 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-17 23:26 MSK</sub>
 
 <!--DIGEST:END-->
 
