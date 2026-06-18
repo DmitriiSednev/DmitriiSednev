@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 1,468 | ⬇️ 146,784 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 1,007 | ⬇️ 666 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,061 | ⬇️ 42,198 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 844 | ⬇️ 172,727 |
-| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 976 | ⬇️ 460,173 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 1,520 | ⬇️ 146,784 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 1,087 | ⬇️ 666 |
+| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,070 | ⬇️ 42,198 |
+| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 850 | ⬇️ 172,727 |
+| [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) `image-text-to-text` | ❤️ 981 | ⬇️ 460,173 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Variable-Width Transformers](http://arxiv.org/abs/2606.18246v1) · `2026-06-16`
-- [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](http://arxiv.org/abs/2606.18237v1) · `2026-06-16`
-- [Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with St...](http://arxiv.org/abs/2606.18222v1) · `2026-06-16`
-- [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](http://arxiv.org/abs/2606.18216v1) · `2026-06-16`
-- [Looped World Models](http://arxiv.org/abs/2606.18208v1) · `2026-06-16`
+- [Native Active Perception as Reasoning for Omni-Modal Understanding](http://arxiv.org/abs/2606.19341v1) · `2026-06-17`
+- [Learning User Simulators with Turing Rewards](http://arxiv.org/abs/2606.19336v1) · `2026-06-17`
+- [Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States](http://arxiv.org/abs/2606.19334v1) · `2026-06-17`
+- [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation](http://arxiv.org/abs/2606.19327v1) · `2026-06-17`
+- [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](http://arxiv.org/abs/2606.19308v1) · `2026-06-17`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-18 03:23 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-18 09:04 MSK</sub>
 
 <!--DIGEST:END-->
 
