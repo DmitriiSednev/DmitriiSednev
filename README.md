@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 1,801 | ⬇️ 268,102 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 1,482 | ⬇️ 11,871 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,121 | ⬇️ 67,836 |
-| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 899 | ⬇️ 274,865 |
-| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 436 | ⬇️ 12,148 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 1,819 | ⬇️ 268,102 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 1,509 | ⬇️ 11,871 |
+| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,128 | ⬇️ 67,836 |
+| [moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code) `image-text-to-text` | ❤️ 902 | ⬇️ 274,865 |
+| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 449 | ⬇️ 12,148 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedbac...](http://arxiv.org/abs/2606.20482v1) · `2026-06-18`
 - [Scalable Training of Spatially Grounded 2D Vision-Language Models for Radiology](http://arxiv.org/abs/2606.20477v1) · `2026-06-18`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-19 20:24 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-19 23:00 MSK</sub>
 
 <!--DIGEST:END-->
 
