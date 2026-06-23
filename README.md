@@ -16,17 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,054 | ⬇️ 33,589 |
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,177 | ⬇️ 414,734 |
-| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 616 | ⬇️ 32,385 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 389 | ⬇️ 50,314 |
-| [MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) `image-text-to-text` | ❤️ 1,209 | ⬇️ 119,967 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,087 | ⬇️ 33,589 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,190 | ⬇️ 414,734 |
+| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 624 | ⬇️ 32,385 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 401 | ⬇️ 50,314 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 278 | ⬇️ 47 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- _arXiv API unavailable: HTTP Error 429: Unknown Error_
+- [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](http://arxiv.org/abs/2606.23687v1) · `2026-06-22`
+- [Can LLMs Reliably Self-Report Adversarial Prefills, and How?](http://arxiv.org/abs/2606.23671v1) · `2026-06-22`
+- [Tapered Language Models](http://arxiv.org/abs/2606.23670v1) · `2026-06-22`
+- [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](http://arxiv.org/abs/2606.23654v1) · `2026-06-22`
+- [Evaluation Awareness Is Not One Capability: Evidence from Open Language Models](http://arxiv.org/abs/2606.23583v1) · `2026-06-22`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-23 07:15 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-23 11:35 MSK</sub>
 
 <!--DIGEST:END-->
 
