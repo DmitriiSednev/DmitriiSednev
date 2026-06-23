@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,143 | ⬇️ 40,127 |
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,208 | ⬇️ 456,117 |
-| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 646 | ⬇️ 41,170 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 424 | ⬇️ 96,459 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 385 | ⬇️ 8,396 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,158 | ⬇️ 40,127 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,218 | ⬇️ 456,117 |
+| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 651 | ⬇️ 41,170 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 408 | ⬇️ 8,396 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 430 | ⬇️ 96,459 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](http://arxiv.org/abs/2606.23654v1) · `2026-06-22`
 - [Evaluation Awareness Is Not One Capability: Evidence from Open Language Models](http://arxiv.org/abs/2606.23583v1) · `2026-06-22`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-23 19:04 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-23 21:08 MSK</sub>
 
 <!--DIGEST:END-->
 
