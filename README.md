@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,193 | ⬇️ 40,127 |
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,237 | ⬇️ 456,117 |
-| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 664 | ⬇️ 41,170 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 469 | ⬇️ 8,396 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 445 | ⬇️ 96,459 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,218 | ⬇️ 40,127 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,247 | ⬇️ 456,117 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 516 | ⬇️ 8,396 |
+| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 670 | ⬇️ 41,170 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 458 | ⬇️ 96,459 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](http://arxiv.org/abs/2606.23687v1) · `2026-06-22`
-- [Can LLMs Reliably Self-Report Adversarial Prefills, and How?](http://arxiv.org/abs/2606.23671v1) · `2026-06-22`
-- [Tapered Language Models](http://arxiv.org/abs/2606.23670v1) · `2026-06-22`
-- [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](http://arxiv.org/abs/2606.23654v1) · `2026-06-22`
-- [Evaluation Awareness Is Not One Capability: Evidence from Open Language Models](http://arxiv.org/abs/2606.23583v1) · `2026-06-22`
+- [Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Deco...](http://arxiv.org/abs/2606.24841v1) · `2026-06-23`
+- [Less is More: Quality-Aware Training Data Selection for Scientific Summarization](http://arxiv.org/abs/2606.24828v1) · `2026-06-23`
+- [L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models](http://arxiv.org/abs/2606.24825v1) · `2026-06-23`
+- [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](http://arxiv.org/abs/2606.24820v1) · `2026-06-23`
+- [Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E...](http://arxiv.org/abs/2606.24783v1) · `2026-06-23`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-24 03:05 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-24 07:20 MSK</sub>
 
 <!--DIGEST:END-->
 
