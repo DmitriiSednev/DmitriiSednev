@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,247 | ⬇️ 40,127 |
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,257 | ⬇️ 456,117 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 566 | ⬇️ 8,396 |
-| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 673 | ⬇️ 41,170 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 467 | ⬇️ 96,459 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,271 | ⬇️ 40,127 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,265 | ⬇️ 456,117 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 610 | ⬇️ 8,396 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 480 | ⬇️ 96,459 |
+| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 680 | ⬇️ 41,170 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](http://arxiv.org/abs/2606.24820v1) · `2026-06-23`
 - [Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E...](http://arxiv.org/abs/2606.24783v1) · `2026-06-23`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-24 11:29 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-24 14:52 MSK</sub>
 
 <!--DIGEST:END-->
 
