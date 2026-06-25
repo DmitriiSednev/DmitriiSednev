@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,351 | ⬇️ 57,186 |
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,295 | ⬇️ 483,139 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 721 | ⬇️ 45,687 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 529 | ⬇️ 138,704 |
-| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 691 | ⬇️ 49,569 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,369 | ⬇️ 57,186 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 753 | ⬇️ 45,687 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,303 | ⬇️ 483,139 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 541 | ⬇️ 138,704 |
+| [WeiboAI/VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B) `text-generation` | ❤️ 692 | ⬇️ 49,569 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Deco...](http://arxiv.org/abs/2606.24841v1) · `2026-06-23`
-- [Less is More: Quality-Aware Training Data Selection for Scientific Summarization](http://arxiv.org/abs/2606.24828v1) · `2026-06-23`
-- [L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models](http://arxiv.org/abs/2606.24825v1) · `2026-06-23`
-- [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](http://arxiv.org/abs/2606.24820v1) · `2026-06-23`
-- [Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E...](http://arxiv.org/abs/2606.24783v1) · `2026-06-23`
+- [Real-Time Voice AI Hears but Does Not Listen](http://arxiv.org/abs/2606.26083v1) · `2026-06-24`
+- [Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Languag...](http://arxiv.org/abs/2606.26079v1) · `2026-06-24`
+- [When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rh...](http://arxiv.org/abs/2606.26062v1) · `2026-06-24`
+- [Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](http://arxiv.org/abs/2606.26050v1) · `2026-06-24`
+- [How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Mod...](http://arxiv.org/abs/2606.26041v1) · `2026-06-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-25 02:15 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-25 07:18 MSK</sub>
 
 <!--DIGEST:END-->
 
