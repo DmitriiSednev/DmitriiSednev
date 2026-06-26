@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,475 | ⬇️ 67,107 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 890 | ⬇️ 70,743 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 613 | ⬇️ 165,187 |
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,362 | ⬇️ 495,813 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `text-generation` | ❤️ 473 | ⬇️ 134,294 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,499 | ⬇️ 67,107 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 912 | ⬇️ 70,743 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 626 | ⬇️ 165,187 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,368 | ⬇️ 495,813 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `text-generation` | ❤️ 500 | ⬇️ 134,294 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Real-Time Voice AI Hears but Does Not Listen](http://arxiv.org/abs/2606.26083v1) · `2026-06-24`
-- [Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Languag...](http://arxiv.org/abs/2606.26079v1) · `2026-06-24`
-- [When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rh...](http://arxiv.org/abs/2606.26062v1) · `2026-06-24`
-- [Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](http://arxiv.org/abs/2606.26050v1) · `2026-06-24`
-- [How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Mod...](http://arxiv.org/abs/2606.26041v1) · `2026-06-24`
+- [DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1) · `2026-06-25`
+- [Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Ex...](http://arxiv.org/abs/2606.27347v1) · `2026-06-25`
+- [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Ut...](http://arxiv.org/abs/2606.27330v1) · `2026-06-25`
+- [LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the Germa...](http://arxiv.org/abs/2606.27316v1) · `2026-06-25`
+- [Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguist...](http://arxiv.org/abs/2606.27314v1) · `2026-06-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-26 03:19 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-26 08:17 MSK</sub>
 
 <!--DIGEST:END-->
 
