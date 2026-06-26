@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,470 | ⬇️ 67,107 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 876 | ⬇️ 70,743 |
-| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,360 | ⬇️ 495,813 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 608 | ⬇️ 165,187 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `text-generation` | ❤️ 471 | ⬇️ 134,294 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,475 | ⬇️ 67,107 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 890 | ⬇️ 70,743 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 613 | ⬇️ 165,187 |
+| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) `text-generation` | ❤️ 2,362 | ⬇️ 495,813 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `text-generation` | ❤️ 473 | ⬇️ 134,294 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining](http://arxiv.org/abs/2606.26050v1) · `2026-06-24`
 - [How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Mod...](http://arxiv.org/abs/2606.26041v1) · `2026-06-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-26 01:39 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-26 03:19 MSK</sub>
 
 <!--DIGEST:END-->
 
