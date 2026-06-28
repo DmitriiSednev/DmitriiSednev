@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,216 | ⬇️ 295,064 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,787 | ⬇️ 118,651 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 760 | ⬇️ 831,529 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 786 | ⬇️ 225,822 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M) `text-generation` | ❤️ 521 | ⬇️ 52,492 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,223 | ⬇️ 295,064 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,799 | ⬇️ 118,651 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 775 | ⬇️ 831,529 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 790 | ⬇️ 225,822 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M) `text-generation` | ❤️ 523 | ⬇️ 52,492 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the Germa...](http://arxiv.org/abs/2606.27316v1) · `2026-06-25`
 - [Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguist...](http://arxiv.org/abs/2606.27314v1) · `2026-06-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-28 23:19 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-29 01:10 MSK</sub>
 
 <!--DIGEST:END-->
 
