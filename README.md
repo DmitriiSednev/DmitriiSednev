@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,229 | ⬇️ 295,064 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,814 | ⬇️ 118,651 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 791 | ⬇️ 831,529 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 792 | ⬇️ 225,822 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M) `text-generation` | ❤️ 525 | ⬇️ 52,492 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,263 | ⬇️ 295,064 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 2,849 | ⬇️ 118,651 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 823 | ⬇️ 831,529 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 807 | ⬇️ 225,822 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M) `text-generation` | ❤️ 532 | ⬇️ 52,492 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1) · `2026-06-25`
-- [Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Ex...](http://arxiv.org/abs/2606.27347v1) · `2026-06-25`
-- [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Ut...](http://arxiv.org/abs/2606.27330v1) · `2026-06-25`
-- [LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the Germa...](http://arxiv.org/abs/2606.27316v1) · `2026-06-25`
-- [Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguist...](http://arxiv.org/abs/2606.27314v1) · `2026-06-25`
+- [Towards Automating Scientific Review with Google's Paper Assistant Tool](http://arxiv.org/abs/2606.28277v1) · `2026-06-26`
+- [Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in V...](http://arxiv.org/abs/2606.28273v1) · `2026-06-26`
+- [HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotio...](http://arxiv.org/abs/2606.28249v1) · `2026-06-26`
+- [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty P...](http://arxiv.org/abs/2606.28186v1) · `2026-06-26`
+- [From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path B...](http://arxiv.org/abs/2606.28127v1) · `2026-06-26`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-29 03:17 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-06-29 09:00 MSK</sub>
 
 <!--DIGEST:END-->
 
