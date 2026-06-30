@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,478 | ⬇️ 429,056 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,038 | ⬇️ 970,663 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,025 | ⬇️ 142,547 |
-| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 536 | ⬇️ 157,418 |
-| [Qwen/Qwen-AgentWorld-35B-A3B](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) `text-generation` | ❤️ 461 | ⬇️ 28,480 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,484 | ⬇️ 429,056 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,047 | ⬇️ 970,663 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,037 | ⬇️ 142,547 |
+| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 543 | ⬇️ 157,418 |
+| [Qwen/Qwen-AgentWorld-35B-A3B](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) `text-generation` | ❤️ 464 | ⬇️ 28,480 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Attractor States Emerge in Multi-Turn LLM Conversations](http://arxiv.org/abs/2606.30571v1) · `2026-06-29`
 - [Morphing into Hybrid Attention Models](http://arxiv.org/abs/2606.30562v1) · `2026-06-29`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-06-30 23:14 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-01 01:20 MSK</sub>
 
 <!--DIGEST:END-->
 
