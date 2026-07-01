@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,509 | ⬇️ 429,056 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,072 | ⬇️ 970,663 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,078 | ⬇️ 142,547 |
-| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 559 | ⬇️ 157,418 |
-| [Qwen/Qwen-AgentWorld-35B-A3B](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) `text-generation` | ❤️ 468 | ⬇️ 28,480 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,527 | ⬇️ 630,246 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,096 | ⬇️ 1,113,871 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,104 | ⬇️ 159,967 |
+| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 573 | ⬇️ 233,701 |
+| [Qwen/Qwen-AgentWorld-35B-A3B](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) `text-generation` | ❤️ 478 | ⬇️ 34,371 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](http://arxiv.org/abs/2606.32029v1) · `2026-06-30`
 - [Generative Skill Composition for LLM Agents](http://arxiv.org/abs/2606.32025v1) · `2026-06-30`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-01 08:48 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-01 13:06 MSK</sub>
 
 <!--DIGEST:END-->
 
