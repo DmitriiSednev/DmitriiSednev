@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,573 | ⬇️ 630,246 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,149 | ⬇️ 1,113,871 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,168 | ⬇️ 159,967 |
-| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 609 | ⬇️ 233,701 |
-| [deepreinforce-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF) `text-generation` | ❤️ 365 | ⬇️ 191,409 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,586 | ⬇️ 630,246 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,172 | ⬇️ 1,113,871 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,180 | ⬇️ 159,967 |
+| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 617 | ⬇️ 233,701 |
+| [deepreinforce-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF) `text-generation` | ❤️ 371 | ⬇️ 191,409 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixe...](http://arxiv.org/abs/2606.32038v1) · `2026-06-30`
-- [QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](http://arxiv.org/abs/2606.32034v1) · `2026-06-30`
-- [Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Express...](http://arxiv.org/abs/2606.32032v1) · `2026-06-30`
-- [When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](http://arxiv.org/abs/2606.32029v1) · `2026-06-30`
-- [Generative Skill Composition for LLM Agents](http://arxiv.org/abs/2606.32025v1) · `2026-06-30`
+- [Measuring the Gap Between Human and LLM Research Ideas](http://arxiv.org/abs/2607.01233v1) · `2026-07-01`
+- [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Tr...](http://arxiv.org/abs/2607.01232v1) · `2026-07-01`
+- [AutoMem: Automated Learning of Memory as a Cognitive Skill](http://arxiv.org/abs/2607.01224v1) · `2026-07-01`
+- [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](http://arxiv.org/abs/2607.01223v1) · `2026-07-01`
+- [The State-Prediction Separation Hypothesis](http://arxiv.org/abs/2607.01218v1) · `2026-07-01`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-02 03:17 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-02 08:05 MSK</sub>
 
 <!--DIGEST:END-->
 
