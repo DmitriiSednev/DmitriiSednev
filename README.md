@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,248 | ⬇️ 1,250,562 |
 | [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,651 | ⬇️ 758,489 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,242 | ⬇️ 1,250,562 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,248 | ⬇️ 176,154 |
-| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 650 | ⬇️ 284,585 |
-| [deepreinforce-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF) `text-generation` | ❤️ 393 | ⬇️ 255,123 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,251 | ⬇️ 176,154 |
+| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 655 | ⬇️ 284,585 |
+| [deepreinforce-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF) `text-generation` | ❤️ 396 | ⬇️ 255,123 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](http://arxiv.org/abs/2607.01223v1) · `2026-07-01`
 - [The State-Prediction Separation Hypothesis](http://arxiv.org/abs/2607.01218v1) · `2026-07-01`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-03 01:14 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-03 03:15 MSK</sub>
 
 <!--DIGEST:END-->
 
