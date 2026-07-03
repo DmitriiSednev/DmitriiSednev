@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,248 | ⬇️ 1,250,562 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,651 | ⬇️ 758,489 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,251 | ⬇️ 176,154 |
-| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 655 | ⬇️ 284,585 |
-| [deepreinforce-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF) `text-generation` | ❤️ 396 | ⬇️ 255,123 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,272 | ⬇️ 1,250,562 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,657 | ⬇️ 758,489 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,266 | ⬇️ 176,154 |
+| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 660 | ⬇️ 284,585 |
+| [deepreinforce-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF) `text-generation` | ❤️ 397 | ⬇️ 255,123 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Measuring the Gap Between Human and LLM Research Ideas](http://arxiv.org/abs/2607.01233v1) · `2026-07-01`
-- [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Tr...](http://arxiv.org/abs/2607.01232v1) · `2026-07-01`
-- [AutoMem: Automated Learning of Memory as a Cognitive Skill](http://arxiv.org/abs/2607.01224v1) · `2026-07-01`
-- [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](http://arxiv.org/abs/2607.01223v1) · `2026-07-01`
-- [The State-Prediction Separation Hypothesis](http://arxiv.org/abs/2607.01218v1) · `2026-07-01`
+- [LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](http://arxiv.org/abs/2607.02513v1) · `2026-07-02`
+- [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](http://arxiv.org/abs/2607.02512v1) · `2026-07-02`
+- [Online Safety Monitoring for LLMs](http://arxiv.org/abs/2607.02510v1) · `2026-07-02`
+- [What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emer...](http://arxiv.org/abs/2607.02507v1) · `2026-07-02`
+- [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](http://arxiv.org/abs/2607.02504v1) · `2026-07-02`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-03 03:15 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-03 07:51 MSK</sub>
 
 <!--DIGEST:END-->
 
