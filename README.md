@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,440 | ⬇️ 1,464,047 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,383 | ⬇️ 208,920 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,705 | ⬇️ 988,379 |
-| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 701 | ⬇️ 359,659 |
-| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 1,004 | ⬇️ 342,752 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,445 | ⬇️ 1,464,047 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,389 | ⬇️ 208,920 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,708 | ⬇️ 988,379 |
+| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 705 | ⬇️ 359,659 |
+| [yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) `text-generation` | ❤️ 1,006 | ⬇️ 342,752 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emer...](http://arxiv.org/abs/2607.02507v1) · `2026-07-02`
 - [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](http://arxiv.org/abs/2607.02504v1) · `2026-07-02`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-04 21:09 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-04 23:14 MSK</sub>
 
 <!--DIGEST:END-->
 
