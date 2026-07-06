@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,602 | ⬇️ 1,617,508 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,507 | ⬇️ 231,218 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,772 | ⬇️ 1,070,230 |
-| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 327 | ⬇️ 8,766 |
-| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 748 | ⬇️ 436,780 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,616 | ⬇️ 1,617,508 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,517 | ⬇️ 231,218 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,781 | ⬇️ 1,070,230 |
+| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 333 | ⬇️ 8,766 |
+| [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) `text-generation` | ❤️ 750 | ⬇️ 436,780 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emer...](http://arxiv.org/abs/2607.02507v1) · `2026-07-02`
 - [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](http://arxiv.org/abs/2607.02504v1) · `2026-07-02`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-06 16:56 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-06 20:09 MSK</sub>
 
 <!--DIGEST:END-->
 
