@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,635 | ⬇️ 1,617,508 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,530 | ⬇️ 231,218 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,791 | ⬇️ 1,070,230 |
-| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 345 | ⬇️ 8,766 |
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 325 | ⬇️ 2 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,660 | ⬇️ 1,617,508 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,542 | ⬇️ 231,218 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,799 | ⬇️ 1,070,230 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 359 | ⬇️ 2 |
+| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 347 | ⬇️ 8,766 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](http://arxiv.org/abs/2607.02513v1) · `2026-07-02`
-- [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](http://arxiv.org/abs/2607.02512v1) · `2026-07-02`
-- [Online Safety Monitoring for LLMs](http://arxiv.org/abs/2607.02510v1) · `2026-07-02`
-- [What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emer...](http://arxiv.org/abs/2607.02507v1) · `2026-07-02`
-- [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](http://arxiv.org/abs/2607.02504v1) · `2026-07-02`
+- [Weak-to-Strong Generalization via Direct On-Policy Distillation](http://arxiv.org/abs/2607.05394v1) · `2026-07-06`
+- [LLM-as-a-Verifier: A General-Purpose Verification Framework](http://arxiv.org/abs/2607.05391v1) · `2026-07-06`
+- [What Does a Discrete Diffusion Model Learn?](http://arxiv.org/abs/2607.05381v1) · `2026-07-06`
+- [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](http://arxiv.org/abs/2607.05369v1) · `2026-07-06`
+- [SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Langua...](http://arxiv.org/abs/2607.05365v1) · `2026-07-06`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-07 03:16 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-07 08:00 MSK</sub>
 
 <!--DIGEST:END-->
 
