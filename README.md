@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,751 | ⬇️ 1,683,711 |
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 484 | ⬇️ 121 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,589 | ⬇️ 281,584 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,831 | ⬇️ 1,084,945 |
-| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 372 | ⬇️ 14,723 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,771 | ⬇️ 1,683,711 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 497 | ⬇️ 121 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,604 | ⬇️ 281,584 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,836 | ⬇️ 1,084,945 |
+| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 377 | ⬇️ 14,723 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Weak-to-Strong Generalization via Direct On-Policy Distillation](http://arxiv.org/abs/2607.05394v1) · `2026-07-06`
-- [LLM-as-a-Verifier: A General-Purpose Verification Framework](http://arxiv.org/abs/2607.05391v1) · `2026-07-06`
-- [What Does a Discrete Diffusion Model Learn?](http://arxiv.org/abs/2607.05381v1) · `2026-07-06`
-- [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](http://arxiv.org/abs/2607.05369v1) · `2026-07-06`
-- [SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Langua...](http://arxiv.org/abs/2607.05365v1) · `2026-07-06`
+- [Rethinking Indic AI from a Lens of Cultural Heritage Preservation](http://arxiv.org/abs/2607.06544v1) · `2026-07-07`
+- [On the feasibility of dependency parsing of non-human sequences without a gold standard...](http://arxiv.org/abs/2607.06542v1) · `2026-07-07`
+- [Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for...](http://arxiv.org/abs/2607.06540v1) · `2026-07-07`
+- [Life Style Levels: Neighborhood Delineation using Geospatial Data](http://arxiv.org/abs/2607.06529v1) · `2026-07-07`
+- [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-...](http://arxiv.org/abs/2607.06527v1) · `2026-07-07`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-08 03:07 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-08 07:22 MSK</sub>
 
 <!--DIGEST:END-->
 
