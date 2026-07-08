@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,830 | ⬇️ 1,683,711 |
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 549 | ⬇️ 121 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,650 | ⬇️ 281,584 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,833 | ⬇️ 1,683,711 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 552 | ⬇️ 121 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,655 | ⬇️ 281,584 |
 | [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,862 | ⬇️ 1,084,945 |
-| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 394 | ⬇️ 14,723 |
+| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 396 | ⬇️ 14,723 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Life Style Levels: Neighborhood Delineation using Geospatial Data](http://arxiv.org/abs/2607.06529v1) · `2026-07-07`
 - [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-...](http://arxiv.org/abs/2607.06527v1) · `2026-07-07`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-08 20:47 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-08 22:47 MSK</sub>
 
 <!--DIGEST:END-->
 
