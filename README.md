@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 597 | ⬇️ 5,572 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,920 | ⬇️ 1,875,602 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,717 | ⬇️ 362,300 |
-| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 425 | ⬇️ 23,112 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,898 | ⬇️ 1,246,042 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 600 | ⬇️ 5,572 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,922 | ⬇️ 1,875,602 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,720 | ⬇️ 362,300 |
+| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 428 | ⬇️ 23,112 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,900 | ⬇️ 1,246,042 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning](http://arxiv.org/abs/2607.07690v1) · `2026-07-08`
 - [Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems](http://arxiv.org/abs/2607.07674v1) · `2026-07-08`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-09 23:00 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-10 00:36 MSK</sub>
 
 <!--DIGEST:END-->
 
