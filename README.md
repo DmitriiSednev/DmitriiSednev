@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 650 | ⬇️ 6,923 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,955 | ⬇️ 1,909,705 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,765 | ⬇️ 392,655 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 654 | ⬇️ 6,923 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,960 | ⬇️ 1,909,705 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,769 | ⬇️ 392,655 |
 | [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 460 | ⬇️ 25,772 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,917 | ⬇️ 1,319,683 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,920 | ⬇️ 1,319,683 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-...](http://arxiv.org/abs/2607.08700v1) · `2026-07-09`
 - [WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](http://arxiv.org/abs/2607.08662v1) · `2026-07-09`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-10 20:03 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-10 21:39 MSK</sub>
 
 <!--DIGEST:END-->
 
