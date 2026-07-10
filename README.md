@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 606 | ⬇️ 5,572 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,924 | ⬇️ 1,875,602 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,722 | ⬇️ 362,300 |
-| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 429 | ⬇️ 23,112 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,901 | ⬇️ 1,246,042 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 617 | ⬇️ 5,572 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 1,938 | ⬇️ 1,875,602 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,734 | ⬇️ 362,300 |
+| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 439 | ⬇️ 23,112 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 1,904 | ⬇️ 1,246,042 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep ...](http://arxiv.org/abs/2607.07708v1) · `2026-07-08`
-- [Co-LMLM: Continuous-Query Limited Memory Language Models](http://arxiv.org/abs/2607.07707v1) · `2026-07-08`
-- [From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction ...](http://arxiv.org/abs/2607.07702v1) · `2026-07-08`
-- [Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning](http://arxiv.org/abs/2607.07690v1) · `2026-07-08`
-- [Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems](http://arxiv.org/abs/2607.07674v1) · `2026-07-08`
+- [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](http://arxiv.org/abs/2607.08768v1) · `2026-07-09`
+- [Validity of LLMs as data annotators: AMALIA on authority](http://arxiv.org/abs/2607.08731v1) · `2026-07-09`
+- [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](http://arxiv.org/abs/2607.08716v1) · `2026-07-09`
+- [Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-...](http://arxiv.org/abs/2607.08700v1) · `2026-07-09`
+- [WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](http://arxiv.org/abs/2607.08662v1) · `2026-07-09`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-10 02:20 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-10 07:05 MSK</sub>
 
 <!--DIGEST:END-->
 
