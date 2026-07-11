@@ -16,10 +16,10 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 692 | ⬇️ 8,210 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,001 | ⬇️ 1,944,961 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,815 | ⬇️ 421,270 |
-| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 484 | ⬇️ 28,141 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 693 | ⬇️ 8,210 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,002 | ⬇️ 1,944,961 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,820 | ⬇️ 421,270 |
+| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 486 | ⬇️ 28,141 |
 | [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 224 | ⬇️ 4,128 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
@@ -30,7 +30,7 @@
 - [Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-...](http://arxiv.org/abs/2607.08700v1) · `2026-07-09`
 - [WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](http://arxiv.org/abs/2607.08662v1) · `2026-07-09`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-11 19:05 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-11 20:10 MSK</sub>
 
 <!--DIGEST:END-->
 
