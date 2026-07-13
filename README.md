@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 744 | ⬇️ 9,157 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,064 | ⬇️ 1,985,221 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,881 | ⬇️ 464,914 |
-| [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 288 | ⬇️ 4,909 |
-| [conradlocke/krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit) | ❤️ 231 | ⬇️ 0 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 748 | ⬇️ 9,157 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,070 | ⬇️ 1,985,221 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,886 | ⬇️ 464,914 |
+| [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 292 | ⬇️ 4,909 |
+| [conradlocke/krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit) | ❤️ 235 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali...](http://arxiv.org/abs/2607.09598v1) · `2026-07-10`
 - [Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Ap...](http://arxiv.org/abs/2607.09576v1) · `2026-07-10`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-13 17:54 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-13 20:20 MSK</sub>
 
 <!--DIGEST:END-->
 
