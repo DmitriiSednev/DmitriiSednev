@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 718 | ⬇️ 8,655 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,045 | ⬇️ 1,967,677 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,855 | ⬇️ 441,413 |
-| [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 265 | ⬇️ 4,463 |
-| [InternScience/Agents-A1](https://huggingface.co/InternScience/Agents-A1) `text-generation` | ❤️ 509 | ⬇️ 29,038 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 729 | ⬇️ 8,655 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,050 | ⬇️ 1,967,677 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,860 | ⬇️ 441,413 |
+| [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 268 | ⬇️ 4,463 |
+| [conradlocke/krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit) | ❤️ 216 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](http://arxiv.org/abs/2607.08768v1) · `2026-07-09`
-- [Validity of LLMs as data annotators: AMALIA on authority](http://arxiv.org/abs/2607.08731v1) · `2026-07-09`
-- [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](http://arxiv.org/abs/2607.08716v1) · `2026-07-09`
-- [Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-...](http://arxiv.org/abs/2607.08700v1) · `2026-07-09`
-- [WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](http://arxiv.org/abs/2607.08662v1) · `2026-07-09`
+- [Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incre...](http://arxiv.org/abs/2607.09623v1) · `2026-07-10`
+- [Toward Real-Time Sentence-Level Sign Language Translation](http://arxiv.org/abs/2607.09611v1) · `2026-07-10`
+- [Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](http://arxiv.org/abs/2607.09600v1) · `2026-07-10`
+- [Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali...](http://arxiv.org/abs/2607.09598v1) · `2026-07-10`
+- [Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Ap...](http://arxiv.org/abs/2607.09576v1) · `2026-07-10`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-13 03:03 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-13 06:49 MSK</sub>
 
 <!--DIGEST:END-->
 
