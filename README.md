@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,110 | ⬇️ 2,006,265 |
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 771 | ⬇️ 10,406 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,933 | ⬇️ 489,611 |
-| [conradlocke/krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit) | ❤️ 272 | ⬇️ 0 |
-| [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 325 | ⬇️ 6,208 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,117 | ⬇️ 2,006,265 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 774 | ⬇️ 10,406 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,934 | ⬇️ 489,611 |
+| [conradlocke/krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit) | ❤️ 276 | ⬇️ 0 |
+| [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 330 | ⬇️ 6,208 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Ver...](http://arxiv.org/abs/2607.11849v1) · `2026-07-13`
 - [Introducing Human-Centeredness in AI-Assisted Lexicography](http://arxiv.org/abs/2607.11808v1) · `2026-07-13`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-14 14:39 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-14 17:05 MSK</sub>
 
 <!--DIGEST:END-->
 
