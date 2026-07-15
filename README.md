@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,162 | ⬇️ 2,006,265 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,949 | ⬇️ 489,611 |
-| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 783 | ⬇️ 10,406 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,169 | ⬇️ 2,006,265 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,952 | ⬇️ 489,611 |
+| [tencent/Hy3](https://huggingface.co/tencent/Hy3) `text-generation` | ❤️ 785 | ⬇️ 10,406 |
 | [conradlocke/krea2-identity-edit](https://huggingface.co/conradlocke/krea2-identity-edit) | ❤️ 291 | ⬇️ 0 |
-| [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 345 | ⬇️ 6,208 |
+| [bottlecapai/ThinkingCap-Qwen3.6-27B](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) `image-text-to-text` | ❤️ 352 | ⬇️ 6,208 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations](http://arxiv.org/abs/2607.12893v1) · `2026-07-14`
 - [LLM Judges Can Be Too Generous When There Is No Reference Answer](http://arxiv.org/abs/2607.12885v1) · `2026-07-14`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-15 06:21 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-15 09:23 MSK</sub>
 
 <!--DIGEST:END-->
 
