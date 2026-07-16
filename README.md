@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 773 | ⬇️ 4 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 576 | ⬇️ 74,007 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 329 | ⬇️ 559,267 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,229 | ⬇️ 2,042,670 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,026 | ⬇️ 513,061 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 785 | ⬇️ 4 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 585 | ⬇️ 74,007 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 333 | ⬇️ 559,267 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,231 | ⬇️ 2,042,670 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,027 | ⬇️ 513,061 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Constraint-Aware Counterfactual Editing for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2607.13977v1) · `2026-07-15`
 - [DeltaMerge-LowRes: Composing Language and Task Deltas for Low-Resource Adaptation](http://arxiv.org/abs/2607.13967v1) · `2026-07-15`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-16 23:07 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-17 01:10 MSK</sub>
 
 <!--DIGEST:END-->
 
