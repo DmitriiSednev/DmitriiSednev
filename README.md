@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 459 | ⬇️ 23 |
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 317 | ⬇️ 0 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,212 | ⬇️ 2,006,265 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 3,994 | ⬇️ 489,611 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 262 | ⬇️ 513 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 478 | ⬇️ 23 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 422 | ⬇️ 0 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,218 | ⬇️ 2,006,265 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 272 | ⬇️ 513 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,003 | ⬇️ 489,611 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](http://arxiv.org/abs/2607.13034v1) · `2026-07-14`
-- [PalmClaw: A Native On-Device Agent Framework for Mobile Phones](http://arxiv.org/abs/2607.13027v1) · `2026-07-14`
-- [The Illusion of Robustness: Aggregate Accuracy Hides Prediction Flips under Task-Irrele...](http://arxiv.org/abs/2607.12963v1) · `2026-07-14`
-- [MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations](http://arxiv.org/abs/2607.12893v1) · `2026-07-14`
-- [LLM Judges Can Be Too Generous When There Is No Reference Answer](http://arxiv.org/abs/2607.12885v1) · `2026-07-14`
+- [Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters](http://arxiv.org/abs/2607.14051v1) · `2026-07-15`
+- [Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation](http://arxiv.org/abs/2607.14040v1) · `2026-07-15`
+- [Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0](http://arxiv.org/abs/2607.14004v1) · `2026-07-15`
+- [Constraint-Aware Counterfactual Editing for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2607.13977v1) · `2026-07-15`
+- [DeltaMerge-LowRes: Composing Language and Task Deltas for Low-Resource Adaptation](http://arxiv.org/abs/2607.13967v1) · `2026-07-15`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-16 03:07 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-16 06:31 MSK</sub>
 
 <!--DIGEST:END-->
 
