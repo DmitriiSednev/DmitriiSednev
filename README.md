@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 798 | ⬇️ 4 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 596 | ⬇️ 74,007 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 336 | ⬇️ 559,267 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,235 | ⬇️ 2,042,670 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,029 | ⬇️ 513,061 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 827 | ⬇️ 4 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 610 | ⬇️ 74,007 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 344 | ⬇️ 559,267 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,240 | ⬇️ 2,042,670 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,030 | ⬇️ 513,061 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters](http://arxiv.org/abs/2607.14051v1) · `2026-07-15`
-- [Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation](http://arxiv.org/abs/2607.14040v1) · `2026-07-15`
-- [Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0](http://arxiv.org/abs/2607.14004v1) · `2026-07-15`
-- [Constraint-Aware Counterfactual Editing for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2607.13977v1) · `2026-07-15`
-- [DeltaMerge-LowRes: Composing Language and Task Deltas for Low-Resource Adaptation](http://arxiv.org/abs/2607.13967v1) · `2026-07-15`
+- [Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](http://arxiv.org/abs/2607.15277v1) · `2026-07-16`
+- [SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1) · `2026-07-16`
+- [Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1) · `2026-07-16`
+- [Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step...](http://arxiv.org/abs/2607.15253v1) · `2026-07-16`
+- [Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA](http://arxiv.org/abs/2607.15241v1) · `2026-07-16`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-17 03:06 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-17 06:32 MSK</sub>
 
 <!--DIGEST:END-->
 
