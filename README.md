@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,043 | ⬇️ 12,456 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 719 | ⬇️ 301,893 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 434 | ⬇️ 1,218,815 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,307 | ⬇️ 2,112,869 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,118 | ⬇️ 541,662 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,052 | ⬇️ 12,456 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 724 | ⬇️ 301,893 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 440 | ⬇️ 1,218,815 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,123 | ⬇️ 541,662 |
+| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,311 | ⬇️ 2,112,869 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step...](http://arxiv.org/abs/2607.15253v1) · `2026-07-16`
 - [Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA](http://arxiv.org/abs/2607.15241v1) · `2026-07-16`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-18 22:16 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-19 00:00 MSK</sub>
 
 <!--DIGEST:END-->
 
