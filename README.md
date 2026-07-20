@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,145 | ⬇️ 13,462 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 790 | ⬇️ 338,945 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 490 | ⬇️ 1,262,894 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,166 | ⬇️ 536,177 |
-| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) `image-text-to-text` | ❤️ 2,343 | ⬇️ 2,118,995 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,160 | ⬇️ 13,462 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 796 | ⬇️ 338,945 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 503 | ⬇️ 1,262,894 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,172 | ⬇️ 536,177 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,205 | ⬇️ 2,122,848 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](http://arxiv.org/abs/2607.15277v1) · `2026-07-16`
-- [SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1) · `2026-07-16`
-- [Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1) · `2026-07-16`
-- [Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step...](http://arxiv.org/abs/2607.15253v1) · `2026-07-16`
-- [Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA](http://arxiv.org/abs/2607.15241v1) · `2026-07-16`
+- [An Exam for Active Observers](http://arxiv.org/abs/2607.16165v1) · `2026-07-17`
+- [ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinfor...](http://arxiv.org/abs/2607.16131v1) · `2026-07-17`
+- [Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Unde...](http://arxiv.org/abs/2607.16117v1) · `2026-07-17`
+- [Understanding Reasoning from Pretraining to Post-Training](http://arxiv.org/abs/2607.16097v1) · `2026-07-17`
+- [Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers](http://arxiv.org/abs/2607.16085v1) · `2026-07-17`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 03:04 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 06:56 MSK</sub>
 
 <!--DIGEST:END-->
 
