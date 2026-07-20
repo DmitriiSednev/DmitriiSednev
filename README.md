@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,214 | ⬇️ 13,462 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 832 | ⬇️ 338,945 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 528 | ⬇️ 1,262,894 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,363 | ⬇️ 2,122,848 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,205 | ⬇️ 531,947 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,233 | ⬇️ 13,462 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 841 | ⬇️ 338,945 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 533 | ⬇️ 1,262,894 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,393 | ⬇️ 2,122,848 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,211 | ⬇️ 531,947 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Understanding Reasoning from Pretraining to Post-Training](http://arxiv.org/abs/2607.16097v1) · `2026-07-17`
 - [Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers](http://arxiv.org/abs/2607.16085v1) · `2026-07-17`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 19:39 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-20 22:00 MSK</sub>
 
 <!--DIGEST:END-->
 
