@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,262 | ⬇️ 13,462 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 850 | ⬇️ 338,945 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 541 | ⬇️ 1,262,894 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,427 | ⬇️ 2,122,848 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,220 | ⬇️ 531,947 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,276 | ⬇️ 13,462 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 857 | ⬇️ 338,945 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 543 | ⬇️ 1,262,894 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,458 | ⬇️ 2,122,848 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,229 | ⬇️ 531,947 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [An Exam for Active Observers](http://arxiv.org/abs/2607.16165v1) · `2026-07-17`
-- [ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinfor...](http://arxiv.org/abs/2607.16131v1) · `2026-07-17`
-- [Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Unde...](http://arxiv.org/abs/2607.16117v1) · `2026-07-17`
-- [Understanding Reasoning from Pretraining to Post-Training](http://arxiv.org/abs/2607.16097v1) · `2026-07-17`
-- [Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers](http://arxiv.org/abs/2607.16085v1) · `2026-07-17`
+- [Automated Discovery Has No Universally Superior Harness](http://arxiv.org/abs/2607.18235v1) · `2026-07-20`
+- [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of ...](http://arxiv.org/abs/2607.18232v1) · `2026-07-20`
+- [Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Pr...](http://arxiv.org/abs/2607.18228v1) · `2026-07-20`
+- [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](http://arxiv.org/abs/2607.18213v1) · `2026-07-20`
+- [PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reaso...](http://arxiv.org/abs/2607.18199v1) · `2026-07-20`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-21 03:04 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-21 06:36 MSK</sub>
 
 <!--DIGEST:END-->
 
