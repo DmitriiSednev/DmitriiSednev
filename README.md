@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,438 | ⬇️ 16,441 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,693 | ⬇️ 2,237,351 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 934 | ⬇️ 432,196 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 372 | ⬇️ 3,056 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 591 | ⬇️ 1,404,962 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,444 | ⬇️ 16,441 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,697 | ⬇️ 2,237,351 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 936 | ⬇️ 432,196 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 378 | ⬇️ 3,056 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 592 | ⬇️ 1,404,962 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Fac...](http://arxiv.org/abs/2607.19322v1) · `2026-07-21`
 - [CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Int...](http://arxiv.org/abs/2607.19317v1) · `2026-07-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 23:17 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-23 01:12 MSK</sub>
 
 <!--DIGEST:END-->
 
