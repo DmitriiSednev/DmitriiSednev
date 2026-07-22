@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,358 | ⬇️ 16,441 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 897 | ⬇️ 432,196 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,602 | ⬇️ 2,237,351 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,370 | ⬇️ 16,441 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 900 | ⬇️ 432,196 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,617 | ⬇️ 2,237,351 |
 | [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 571 | ⬇️ 1,404,962 |
-| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,275 | ⬇️ 545,109 |
+| [reteetzad/Kimi-K3](https://huggingface.co/reteetzad/Kimi-K3) | ❤️ 345 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Automated Discovery Has No Universally Superior Harness](http://arxiv.org/abs/2607.18235v1) · `2026-07-20`
-- [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of ...](http://arxiv.org/abs/2607.18232v1) · `2026-07-20`
-- [Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Pr...](http://arxiv.org/abs/2607.18228v1) · `2026-07-20`
-- [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](http://arxiv.org/abs/2607.18213v1) · `2026-07-20`
-- [PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reaso...](http://arxiv.org/abs/2607.18199v1) · `2026-07-20`
+- [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evi...](http://arxiv.org/abs/2607.19345v1) · `2026-07-21`
+- [Agents in the Wild: Where Research Meets Deployment](http://arxiv.org/abs/2607.19336v1) · `2026-07-21`
+- [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v1) · `2026-07-21`
+- [Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Fac...](http://arxiv.org/abs/2607.19322v1) · `2026-07-21`
+- [CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Int...](http://arxiv.org/abs/2607.19317v1) · `2026-07-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 03:00 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 06:33 MSK</sub>
 
 <!--DIGEST:END-->
 
