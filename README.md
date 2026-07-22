@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,382 | ⬇️ 16,441 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 905 | ⬇️ 432,196 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,629 | ⬇️ 2,237,351 |
-| [reteetzad/Kimi-K3](https://huggingface.co/reteetzad/Kimi-K3) | ❤️ 541 | ⬇️ 0 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 573 | ⬇️ 1,404,962 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,392 | ⬇️ 16,441 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,640 | ⬇️ 2,237,351 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 908 | ⬇️ 432,196 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 577 | ⬇️ 1,404,962 |
+| [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) `text-generation` | ❤️ 4,300 | ⬇️ 545,109 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Fac...](http://arxiv.org/abs/2607.19322v1) · `2026-07-21`
 - [CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Int...](http://arxiv.org/abs/2607.19317v1) · `2026-07-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 09:38 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 12:33 MSK</sub>
 
 <!--DIGEST:END-->
 
