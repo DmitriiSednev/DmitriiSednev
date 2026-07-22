@@ -16,17 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,412 | ⬇️ 16,441 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,659 | ⬇️ 2,237,351 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 919 | ⬇️ 432,196 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 585 | ⬇️ 1,404,962 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 314 | ⬇️ 3,056 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,426 | ⬇️ 16,441 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,678 | ⬇️ 2,237,351 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 924 | ⬇️ 432,196 |
+| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 587 | ⬇️ 1,404,962 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 345 | ⬇️ 3,056 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- _arXiv API unavailable: HTTP Error 429: Unknown Error_
+- [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evi...](http://arxiv.org/abs/2607.19345v1) · `2026-07-21`
+- [Agents in the Wild: Where Research Meets Deployment](http://arxiv.org/abs/2607.19336v1) · `2026-07-21`
+- [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v1) · `2026-07-21`
+- [Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Fac...](http://arxiv.org/abs/2607.19322v1) · `2026-07-21`
+- [CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Int...](http://arxiv.org/abs/2607.19317v1) · `2026-07-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 17:16 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-22 19:38 MSK</sub>
 
 <!--DIGEST:END-->
 
