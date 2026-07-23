@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,447 | ⬇️ 16,441 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,706 | ⬇️ 2,237,351 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 941 | ⬇️ 432,196 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 386 | ⬇️ 3,056 |
-| [prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf) `text-generation` | ❤️ 595 | ⬇️ 1,404,962 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,463 | ⬇️ 16,441 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,766 | ⬇️ 2,237,351 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 952 | ⬇️ 432,196 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 411 | ⬇️ 3,056 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 334 | ⬇️ 62,842 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evi...](http://arxiv.org/abs/2607.19345v1) · `2026-07-21`
-- [Agents in the Wild: Where Research Meets Deployment](http://arxiv.org/abs/2607.19336v1) · `2026-07-21`
-- [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v1) · `2026-07-21`
-- [Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Fac...](http://arxiv.org/abs/2607.19322v1) · `2026-07-21`
-- [CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Int...](http://arxiv.org/abs/2607.19317v1) · `2026-07-21`
+- [LKValues: Aligning Large Language Models with Sri Lankan Societal Values](http://arxiv.org/abs/2607.20410v1) · `2026-07-22`
+- [Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Exp...](http://arxiv.org/abs/2607.20379v1) · `2026-07-22`
+- [Notes to Self: Can LLMs Benefit from Experiential Abstractions?](http://arxiv.org/abs/2607.20372v1) · `2026-07-22`
+- [Test-Time Training for Modality Order Consistency in Vision-Language Models](http://arxiv.org/abs/2607.20351v1) · `2026-07-22`
+- [Generative AI floods and dilutes the market for books](http://arxiv.org/abs/2607.20349v1) · `2026-07-22`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-23 03:09 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-23 07:23 MSK</sub>
 
 <!--DIGEST:END-->
 
