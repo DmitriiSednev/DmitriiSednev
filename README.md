@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,478 | ⬇️ 24,669 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,800 | ⬇️ 2,414,259 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 445 | ⬇️ 13,285 |
-| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 960 | ⬇️ 576,083 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 359 | ⬇️ 334,847 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,485 | ⬇️ 24,669 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,815 | ⬇️ 2,414,259 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 452 | ⬇️ 13,285 |
+| [prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) `text-generation` | ❤️ 964 | ⬇️ 576,083 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 367 | ⬇️ 334,847 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Test-Time Training for Modality Order Consistency in Vision-Language Models](http://arxiv.org/abs/2607.20351v1) · `2026-07-22`
 - [Generative AI floods and dilutes the market for books](http://arxiv.org/abs/2607.20349v1) · `2026-07-22`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-23 13:32 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-23 15:45 MSK</sub>
 
 <!--DIGEST:END-->
 
