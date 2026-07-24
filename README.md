@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,000 | ⬇️ 2,500,391 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 590 | ⬇️ 28,992 |
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,541 | ⬇️ 27,883 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 536 | ⬇️ 1,106 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 470 | ⬇️ 407,421 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,004 | ⬇️ 2,500,391 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 598 | ⬇️ 28,992 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,542 | ⬇️ 27,883 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 538 | ⬇️ 1,106 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 474 | ⬇️ 407,421 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [The Boundaries of Automation: A Theory of Persistent Human Participation](http://arxiv.org/abs/2607.21547v1) · `2026-07-23`
 - [DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages](http://arxiv.org/abs/2607.21540v1) · `2026-07-23`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-24 23:35 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-25 01:13 MSK</sub>
 
 <!--DIGEST:END-->
 
