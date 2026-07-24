@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,879 | ⬇️ 2,414,259 |
-| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,504 | ⬇️ 24,669 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 512 | ⬇️ 13,285 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 394 | ⬇️ 334,847 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 407 | ⬇️ 362 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 2,904 | ⬇️ 2,414,259 |
+| [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,509 | ⬇️ 24,669 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 524 | ⬇️ 13,285 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 471 | ⬇️ 362 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 411 | ⬇️ 334,847 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [LKValues: Aligning Large Language Models with Sri Lankan Societal Values](http://arxiv.org/abs/2607.20410v1) · `2026-07-22`
-- [Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Exp...](http://arxiv.org/abs/2607.20379v1) · `2026-07-22`
-- [Notes to Self: Can LLMs Benefit from Experiential Abstractions?](http://arxiv.org/abs/2607.20372v1) · `2026-07-22`
-- [Test-Time Training for Modality Order Consistency in Vision-Language Models](http://arxiv.org/abs/2607.20351v1) · `2026-07-22`
-- [Generative AI floods and dilutes the market for books](http://arxiv.org/abs/2607.20349v1) · `2026-07-22`
+- [Surprisal Theory is Tautological (without Rational Grounding)](http://arxiv.org/abs/2607.21574v1) · `2026-07-23`
+- [MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Educa...](http://arxiv.org/abs/2607.21570v1) · `2026-07-23`
+- [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v1) · `2026-07-23`
+- [The Boundaries of Automation: A Theory of Persistent Human Participation](http://arxiv.org/abs/2607.21547v1) · `2026-07-23`
+- [DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages](http://arxiv.org/abs/2607.21540v1) · `2026-07-23`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-24 03:07 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-24 07:22 MSK</sub>
 
 <!--DIGEST:END-->
 
