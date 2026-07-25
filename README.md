@@ -16,21 +16,17 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,097 | ⬇️ 2,564,264 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,101 | ⬇️ 2,564,264 |
 | [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 657 | ⬇️ 45,260 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 557 | ⬇️ 2,784 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 535 | ⬇️ 483,845 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 559 | ⬇️ 2,784 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 538 | ⬇️ 483,845 |
 | [thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling) `image-text-to-text` | ❤️ 1,566 | ⬇️ 31,575 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Surprisal Theory is Tautological (without Rational Grounding)](http://arxiv.org/abs/2607.21574v1) · `2026-07-23`
-- [MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Educa...](http://arxiv.org/abs/2607.21570v1) · `2026-07-23`
-- [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v1) · `2026-07-23`
-- [The Boundaries of Automation: A Theory of Persistent Human Participation](http://arxiv.org/abs/2607.21547v1) · `2026-07-23`
-- [DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages](http://arxiv.org/abs/2607.21540v1) · `2026-07-23`
+- _arXiv API unavailable: HTTP Error 429: Unknown Error_
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 01:03 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-26 02:03 MSK</sub>
 
 <!--DIGEST:END-->
 
