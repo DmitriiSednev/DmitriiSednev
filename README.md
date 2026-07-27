@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,245 | ⬇️ 2,593,460 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 710 | ⬇️ 56,445 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 611 | ⬇️ 3,305 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 662 | ⬇️ 552,026 |
-| [Nanbeige/Nanbeige4.2-3B](https://huggingface.co/Nanbeige/Nanbeige4.2-3B) `text-generation` | ❤️ 454 | ⬇️ 14,049 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,266 | ⬇️ 2,645,773 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 724 | ⬇️ 63,605 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 683 | ⬇️ 634,146 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 614 | ⬇️ 3,761 |
+| [Nanbeige/Nanbeige4.2-3B](https://huggingface.co/Nanbeige/Nanbeige4.2-3B) `text-generation` | ❤️ 466 | ⬇️ 16,518 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation usi...](http://arxiv.org/abs/2607.22376v1) · `2026-07-24`
 - [Cross-Tokenizer On-Policy Distillation via Byte-Prefix Marginalization](http://arxiv.org/abs/2607.22334v1) · `2026-07-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-27 10:42 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-27 14:34 MSK</sub>
 
 <!--DIGEST:END-->
 
