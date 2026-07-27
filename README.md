@@ -16,17 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,220 | ⬇️ 2,593,460 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 704 | ⬇️ 56,445 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 600 | ⬇️ 3,305 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 644 | ⬇️ 552,026 |
-| [Nanbeige/Nanbeige4.2-3B](https://huggingface.co/Nanbeige/Nanbeige4.2-3B) `text-generation` | ❤️ 450 | ⬇️ 14,049 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,245 | ⬇️ 2,593,460 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 710 | ⬇️ 56,445 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 611 | ⬇️ 3,305 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 662 | ⬇️ 552,026 |
+| [Nanbeige/Nanbeige4.2-3B](https://huggingface.co/Nanbeige/Nanbeige4.2-3B) `text-generation` | ❤️ 454 | ⬇️ 14,049 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- _arXiv API unavailable: The read operation timed out_
+- [Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills](http://arxiv.org/abs/2607.22529v1) · `2026-07-24`
+- [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of P...](http://arxiv.org/abs/2607.22513v1) · `2026-07-24`
+- [grapheme-kit: Grapheme-Level Metrics and Text Processing for Multilingual NLP](http://arxiv.org/abs/2607.22456v1) · `2026-07-24`
+- [A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation usi...](http://arxiv.org/abs/2607.22376v1) · `2026-07-24`
+- [Cross-Tokenizer On-Policy Distillation via Byte-Prefix Marginalization](http://arxiv.org/abs/2607.22334v1) · `2026-07-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-27 06:55 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-27 10:42 MSK</sub>
 
 <!--DIGEST:END-->
 
