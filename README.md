@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 6,039 | ⬇️ 2,850 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,329 | ⬇️ 2,645,773 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 754 | ⬇️ 63,605 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 747 | ⬇️ 634,146 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 628 | ⬇️ 3,761 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 6,660 | ⬇️ 2,850 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,344 | ⬇️ 2,645,773 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 764 | ⬇️ 63,605 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 762 | ⬇️ 634,146 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 633 | ⬇️ 3,761 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills](http://arxiv.org/abs/2607.22529v1) · `2026-07-24`
-- [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of P...](http://arxiv.org/abs/2607.22513v1) · `2026-07-24`
-- [grapheme-kit: Grapheme-Level Metrics and Text Processing for Multilingual NLP](http://arxiv.org/abs/2607.22456v1) · `2026-07-24`
-- [A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation usi...](http://arxiv.org/abs/2607.22376v1) · `2026-07-24`
-- [Cross-Tokenizer On-Policy Distillation via Byte-Prefix Marginalization](http://arxiv.org/abs/2607.22334v1) · `2026-07-24`
+- [ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](http://arxiv.org/abs/2607.24743v1) · `2026-07-27`
+- [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via...](http://arxiv.org/abs/2607.24720v1) · `2026-07-27`
+- [DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data](http://arxiv.org/abs/2607.24717v1) · `2026-07-27`
+- [Beyond Scale and Generation: Understanding Language Model-based Entity Matching](http://arxiv.org/abs/2607.24688v1) · `2026-07-27`
+- [Kimi K3: Open Frontier Intelligence](http://arxiv.org/abs/2607.24653v1) · `2026-07-27`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-28 03:08 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-28 07:17 MSK</sub>
 
 <!--DIGEST:END-->
 
