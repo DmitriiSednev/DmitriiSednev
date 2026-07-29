@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 7,924 | ⬇️ 99,214 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,407 | ⬇️ 2,694,935 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 798 | ⬇️ 67,286 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 841 | ⬇️ 736,692 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 644 | ⬇️ 4,804 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 8,097 | ⬇️ 99,214 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,425 | ⬇️ 2,694,935 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 802 | ⬇️ 67,286 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 858 | ⬇️ 736,692 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 648 | ⬇️ 4,804 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](http://arxiv.org/abs/2607.24743v1) · `2026-07-27`
-- [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via...](http://arxiv.org/abs/2607.24720v1) · `2026-07-27`
-- [DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data](http://arxiv.org/abs/2607.24717v1) · `2026-07-27`
-- [Beyond Scale and Generation: Understanding Language Model-based Entity Matching](http://arxiv.org/abs/2607.24688v1) · `2026-07-27`
-- [Kimi K3: Open Frontier Intelligence](http://arxiv.org/abs/2607.24653v1) · `2026-07-27`
+- [Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1) · `2026-07-28`
+- [UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams](http://arxiv.org/abs/2607.26017v1) · `2026-07-28`
+- [Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](http://arxiv.org/abs/2607.26015v1) · `2026-07-28`
+- [Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs](http://arxiv.org/abs/2607.25959v1) · `2026-07-28`
+- [Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections](http://arxiv.org/abs/2607.25953v1) · `2026-07-28`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-29 02:10 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-29 06:28 MSK</sub>
 
 <!--DIGEST:END-->
 
