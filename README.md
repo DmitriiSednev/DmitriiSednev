@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 8,629 | ⬇️ 99,214 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,514 | ⬇️ 2,694,935 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 936 | ⬇️ 736,692 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 825 | ⬇️ 67,286 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 693 | ⬇️ 4,804 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 8,695 | ⬇️ 99,214 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,517 | ⬇️ 2,694,935 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 950 | ⬇️ 736,692 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 828 | ⬇️ 67,286 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 700 | ⬇️ 4,804 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1) · `2026-07-28`
-- [UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams](http://arxiv.org/abs/2607.26017v1) · `2026-07-28`
-- [Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](http://arxiv.org/abs/2607.26015v1) · `2026-07-28`
-- [Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs](http://arxiv.org/abs/2607.25959v1) · `2026-07-28`
-- [Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections](http://arxiv.org/abs/2607.25953v1) · `2026-07-28`
+- [Mental World Modeling](http://arxiv.org/abs/2607.27201v1) · `2026-07-29`
+- [APEX-Accounting](http://arxiv.org/abs/2607.27189v1) · `2026-07-29`
+- [Pangram 4 Technical Report](http://arxiv.org/abs/2607.27183v1) · `2026-07-29`
+- [DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual,...](http://arxiv.org/abs/2607.27178v1) · `2026-07-29`
+- [SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Pr...](http://arxiv.org/abs/2607.27167v1) · `2026-07-29`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-30 03:05 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-30 06:19 MSK</sub>
 
 <!--DIGEST:END-->
 
