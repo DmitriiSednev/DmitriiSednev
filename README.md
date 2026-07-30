@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 8,611 | ⬇️ 99,214 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,510 | ⬇️ 2,694,935 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 927 | ⬇️ 736,692 |
-| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 692 | ⬇️ 4,804 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 8,629 | ⬇️ 99,214 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,514 | ⬇️ 2,694,935 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 936 | ⬇️ 736,692 |
 | [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 825 | ⬇️ 67,286 |
+| [upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B) `text-generation` | ❤️ 693 | ⬇️ 4,804 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs](http://arxiv.org/abs/2607.25959v1) · `2026-07-28`
 - [Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections](http://arxiv.org/abs/2607.25953v1) · `2026-07-28`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-30 01:09 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-30 03:05 MSK</sub>
 
 <!--DIGEST:END-->
 
