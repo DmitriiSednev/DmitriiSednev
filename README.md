@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 8,748 | ⬇️ 99,214 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,526 | ⬇️ 2,694,935 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 964 | ⬇️ 736,692 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 831 | ⬇️ 67,286 |
-| [Kwaipilot/KAT-Coder-V2.5-Dev](https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev) `text-generation` | ❤️ 324 | ⬇️ 6,275 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 8,815 | ⬇️ 387,822 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,543 | ⬇️ 2,598,659 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 977 | ⬇️ 955,767 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 834 | ⬇️ 73,246 |
+| [Kwaipilot/KAT-Coder-V2.5-Dev](https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev) `text-generation` | ❤️ 329 | ⬇️ 9,225 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual,...](http://arxiv.org/abs/2607.27178v1) · `2026-07-29`
 - [SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Pr...](http://arxiv.org/abs/2607.27167v1) · `2026-07-29`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-30 09:35 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-30 12:36 MSK</sub>
 
 <!--DIGEST:END-->
 
