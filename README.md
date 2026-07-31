@@ -16,10 +16,10 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 9,256 | ⬇️ 493,481 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 905 | ⬇️ 0 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 1,133 | ⬇️ 1,119,057 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,657 | ⬇️ 2,513,603 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 9,269 | ⬇️ 493,481 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 944 | ⬇️ 0 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 1,140 | ⬇️ 1,119,057 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,660 | ⬇️ 2,513,603 |
 | [owensong/Inflect-Micro-v2](https://huggingface.co/owensong/Inflect-Micro-v2) `text-to-speech` | ❤️ 347 | ⬇️ 1,449 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
@@ -30,7 +30,7 @@
 - [Inducing language models to assert their own consciousness restores human beliefs and v...](http://arxiv.org/abs/2607.28607v1) · `2026-07-30`
 - [Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments](http://arxiv.org/abs/2607.28591v1) · `2026-07-30`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-01 00:16 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-01 02:11 MSK</sub>
 
 <!--DIGEST:END-->
 
