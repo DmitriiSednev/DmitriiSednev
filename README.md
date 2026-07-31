@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 8,993 | ⬇️ 387,822 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 1,030 | ⬇️ 955,767 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,580 | ⬇️ 2,598,659 |
-| [owensong/Inflect-Micro-v2](https://huggingface.co/owensong/Inflect-Micro-v2) `text-to-speech` | ❤️ 319 | ⬇️ 1,100 |
-| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 846 | ⬇️ 73,246 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 9,053 | ⬇️ 387,822 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 1,047 | ⬇️ 955,767 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,591 | ⬇️ 2,598,659 |
+| [owensong/Inflect-Micro-v2](https://huggingface.co/owensong/Inflect-Micro-v2) `text-to-speech` | ❤️ 324 | ⬇️ 1,100 |
+| [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) `text-generation` | ❤️ 849 | ⬇️ 73,246 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Mental World Modeling](http://arxiv.org/abs/2607.27201v1) · `2026-07-29`
-- [APEX-Accounting](http://arxiv.org/abs/2607.27189v1) · `2026-07-29`
-- [Pangram 4 Technical Report](http://arxiv.org/abs/2607.27183v1) · `2026-07-29`
-- [DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual,...](http://arxiv.org/abs/2607.27178v1) · `2026-07-29`
-- [SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Pr...](http://arxiv.org/abs/2607.27167v1) · `2026-07-29`
+- [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](http://arxiv.org/abs/2607.28618v1) · `2026-07-30`
+- [AISPA: User-Centric System Prompt Auditing for Large Language Model Applications](http://arxiv.org/abs/2607.28617v1) · `2026-07-30`
+- [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Mo...](http://arxiv.org/abs/2607.28609v1) · `2026-07-30`
+- [Inducing language models to assert their own consciousness restores human beliefs and v...](http://arxiv.org/abs/2607.28607v1) · `2026-07-30`
+- [Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments](http://arxiv.org/abs/2607.28591v1) · `2026-07-30`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-07-31 03:11 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-07-31 07:30 MSK</sub>
 
 <!--DIGEST:END-->
 
