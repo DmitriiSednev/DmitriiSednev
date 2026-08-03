@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 9,634 | ⬇️ 837,202 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 1,697 | ⬇️ 156,173 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 1,335 | ⬇️ 1,372,285 |
-| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,776 | ⬇️ 2,536,284 |
-| [unsloth/DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF) | ❤️ 337 | ⬇️ 48,707 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 9,687 | ⬇️ 837,202 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 1,817 | ⬇️ 156,173 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 1,361 | ⬇️ 1,372,285 |
+| [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) `image-text-to-text` | ❤️ 3,798 | ⬇️ 2,536,284 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 414 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](http://arxiv.org/abs/2607.28618v1) · `2026-07-30`
-- [AISPA: User-Centric System Prompt Auditing for Large Language Model Applications](http://arxiv.org/abs/2607.28617v1) · `2026-07-30`
-- [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Mo...](http://arxiv.org/abs/2607.28609v1) · `2026-07-30`
-- [Inducing language models to assert their own consciousness restores human beliefs and v...](http://arxiv.org/abs/2607.28607v1) · `2026-07-30`
-- [Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments](http://arxiv.org/abs/2607.28591v1) · `2026-07-30`
+- [TokTier: Exact Stateful Tokenization for Agentic LLM Serving](http://arxiv.org/abs/2607.29678v1) · `2026-07-31`
+- [Evolving language compositionality in a frequency-structured meaning space](http://arxiv.org/abs/2607.29642v1) · `2026-07-31`
+- [WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning](http://arxiv.org/abs/2607.29613v1) · `2026-07-31`
+- [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large L...](http://arxiv.org/abs/2607.29602v1) · `2026-07-31`
+- [ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compres...](http://arxiv.org/abs/2607.29591v1) · `2026-07-31`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 03:07 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-03 07:37 MSK</sub>
 
 <!--DIGEST:END-->
 
