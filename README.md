@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 2,288 | ⬇️ 433,284 |
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 1,987 | ⬇️ 0 |
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 10,006 | ⬇️ 1,125,935 |
-| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 592 | ⬇️ 2 |
-| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 1,509 | ⬇️ 1,633,405 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 2,325 | ⬇️ 433,284 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 2,056 | ⬇️ 0 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 10,020 | ⬇️ 1,125,935 |
+| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 623 | ⬇️ 2 |
+| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) `image-text-to-text` | ❤️ 1,520 | ⬇️ 1,633,405 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language...](http://arxiv.org/abs/2608.02602v1) · `2026-08-03`
-- [GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Late...](http://arxiv.org/abs/2608.02585v1) · `2026-08-03`
-- [UEmbed: Unified Sparse and Dense Multimodal Embeddings](http://arxiv.org/abs/2608.02583v1) · `2026-08-03`
-- [Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation](http://arxiv.org/abs/2608.02555v1) · `2026-08-03`
-- [Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation](http://arxiv.org/abs/2608.02551v1) · `2026-08-03`
+- [ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs](http://arxiv.org/abs/2608.04010v1) · `2026-08-04`
+- [SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v1) · `2026-08-04`
+- [WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament](http://arxiv.org/abs/2608.04008v1) · `2026-08-04`
+- [TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](http://arxiv.org/abs/2608.04007v1) · `2026-08-04`
+- [PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](http://arxiv.org/abs/2608.04003v1) · `2026-08-04`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-05 02:11 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-05 06:24 MSK</sub>
 
 <!--DIGEST:END-->
 
