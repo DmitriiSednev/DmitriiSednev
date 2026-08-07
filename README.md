@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 2,792 | ⬇️ 12,102 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 2,671 | ⬇️ 617,900 |
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 10,218 | ⬇️ 1,258,043 |
-| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 863 | ⬇️ 2,295,377 |
-| [unsloth/DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF) | ❤️ 560 | ⬇️ 145,105 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 2,818 | ⬇️ 12,102 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 2,682 | ⬇️ 617,900 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 10,226 | ⬇️ 1,258,043 |
+| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 872 | ⬇️ 2,295,377 |
+| [unsloth/DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF) | ❤️ 564 | ⬇️ 145,105 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks](http://arxiv.org/abs/2608.06352v1) · `2026-08-06`
 - [RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning ...](http://arxiv.org/abs/2608.06347v1) · `2026-08-06`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-07 08:46 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-07 10:36 MSK</sub>
 
 <!--DIGEST:END-->
 
