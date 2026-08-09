@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,217 | ⬇️ 35,295 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 2,929 | ⬇️ 868,576 |
-| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,060 | ⬇️ 4,947,943 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,223 | ⬇️ 35,295 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 2,932 | ⬇️ 868,576 |
+| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,062 | ⬇️ 4,947,943 |
 | [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 10,392 | ⬇️ 1,456,459 |
-| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 541 | ⬇️ 0 |
+| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 542 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks](http://arxiv.org/abs/2608.06352v1) · `2026-08-06`
 - [RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning ...](http://arxiv.org/abs/2608.06347v1) · `2026-08-06`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-09 22:40 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-09 23:44 MSK</sub>
 
 <!--DIGEST:END-->
 
