@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,375 | ⬇️ 47,468 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,018 | ⬇️ 954,441 |
-| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,122 | ⬇️ 6,009,639 |
-| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 579 | ⬇️ 0 |
-| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 10,450 | ⬇️ 1,510,032 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,383 | ⬇️ 47,468 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,027 | ⬇️ 954,441 |
+| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,126 | ⬇️ 6,009,639 |
+| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 583 | ⬇️ 0 |
+| [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) `image-text-to-text` | ❤️ 10,454 | ⬇️ 1,510,032 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Se...](http://arxiv.org/abs/2608.07439v1) · `2026-08-07`
 - [PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LL...](http://arxiv.org/abs/2608.07438v1) · `2026-08-07`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-10 18:08 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-10 20:01 MSK</sub>
 
 <!--DIGEST:END-->
 
