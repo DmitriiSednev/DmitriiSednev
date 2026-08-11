@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,441 | ⬇️ 47,468 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,064 | ⬇️ 954,441 |
-| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 758 | ⬇️ 0 |
-| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,150 | ⬇️ 6,009,639 |
-| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 601 | ⬇️ 0 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,449 | ⬇️ 47,468 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,077 | ⬇️ 954,441 |
+| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 796 | ⬇️ 0 |
+| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,156 | ⬇️ 6,009,639 |
+| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 603 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](http://arxiv.org/abs/2608.07460v1) · `2026-08-07`
-- [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](http://arxiv.org/abs/2608.07458v1) · `2026-08-07`
-- [SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent](http://arxiv.org/abs/2608.07449v1) · `2026-08-07`
-- [An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Se...](http://arxiv.org/abs/2608.07439v1) · `2026-08-07`
-- [PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LL...](http://arxiv.org/abs/2608.07438v1) · `2026-08-07`
+- [Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Groun...](http://arxiv.org/abs/2608.09930v1) · `2026-08-10`
+- [Multimodal Model Diffing for Feature Discovery and Control](http://arxiv.org/abs/2608.09928v1) · `2026-08-10`
+- [From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](http://arxiv.org/abs/2608.09925v1) · `2026-08-10`
+- [Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness](http://arxiv.org/abs/2608.09900v1) · `2026-08-10`
+- [Consilience for Verifier-Free Test-Time Scaling](http://arxiv.org/abs/2608.09898v1) · `2026-08-10`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-11 05:20 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-11 07:34 MSK</sub>
 
 <!--DIGEST:END-->
 
