@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,614 | ⬇️ 59,368 |
-| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,137 | ⬇️ 0 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,175 | ⬇️ 1,048,685 |
-| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 661 | ⬇️ 0 |
-| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,222 | ⬇️ 6,798,796 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,634 | ⬇️ 59,368 |
+| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,153 | ⬇️ 0 |
+| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 668 | ⬇️ 0 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,184 | ⬇️ 1,048,685 |
+| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,228 | ⬇️ 6,798,796 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](http://arxiv.org/abs/2608.11171v1) · `2026-08-11`
 - [MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Objec...](http://arxiv.org/abs/2608.11167v1) · `2026-08-11`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 09:21 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 11:25 MSK</sub>
 
 <!--DIGEST:END-->
 
