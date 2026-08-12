@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,566 | ⬇️ 59,368 |
-| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,086 | ⬇️ 0 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,148 | ⬇️ 1,048,685 |
-| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 648 | ⬇️ 0 |
-| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,211 | ⬇️ 6,798,796 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,589 | ⬇️ 59,368 |
+| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,108 | ⬇️ 0 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,159 | ⬇️ 1,048,685 |
+| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 655 | ⬇️ 0 |
+| [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3) | ❤️ 1,216 | ⬇️ 6,798,796 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Groun...](http://arxiv.org/abs/2608.09930v1) · `2026-08-10`
-- [Multimodal Model Diffing for Feature Discovery and Control](http://arxiv.org/abs/2608.09928v1) · `2026-08-10`
-- [From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](http://arxiv.org/abs/2608.09925v1) · `2026-08-10`
-- [Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness](http://arxiv.org/abs/2608.09900v1) · `2026-08-10`
-- [Consilience for Verifier-Free Test-Time Scaling](http://arxiv.org/abs/2608.09898v1) · `2026-08-10`
+- [ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in...](http://arxiv.org/abs/2608.11200v1) · `2026-08-11`
+- [Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders](http://arxiv.org/abs/2608.11197v1) · `2026-08-11`
+- [Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Disti...](http://arxiv.org/abs/2608.11191v1) · `2026-08-11`
+- [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](http://arxiv.org/abs/2608.11171v1) · `2026-08-11`
+- [MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Objec...](http://arxiv.org/abs/2608.11167v1) · `2026-08-11`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 02:51 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-12 05:35 MSK</sub>
 
 <!--DIGEST:END-->
 
