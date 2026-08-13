@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,328 | ⬇️ 0 |
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,748 | ⬇️ 1,575,808 |
-| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 600 | ⬇️ 978 |
-| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 705 | ⬇️ 0 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,257 | ⬇️ 1,048,685 |
+| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,343 | ⬇️ 0 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,764 | ⬇️ 1,575,808 |
+| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 635 | ⬇️ 978 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,268 | ⬇️ 1,048,685 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 606 | ⬇️ 57,287 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](http://arxiv.org/abs/2608.12278v1) · `2026-08-12`
 - [A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Pu...](http://arxiv.org/abs/2608.12269v1) · `2026-08-12`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-13 09:22 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-13 11:38 MSK</sub>
 
 <!--DIGEST:END-->
 
