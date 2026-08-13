@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,284 | ⬇️ 0 |
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,708 | ⬇️ 83,484 |
-| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 695 | ⬇️ 0 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,234 | ⬇️ 1,048,685 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 558 | ⬇️ 39 |
+| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,303 | ⬇️ 0 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,720 | ⬇️ 83,484 |
+| [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) `text-to-video` | ❤️ 701 | ⬇️ 0 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,244 | ⬇️ 1,048,685 |
+| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 532 | ⬇️ 978 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in...](http://arxiv.org/abs/2608.11200v1) · `2026-08-11`
-- [Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders](http://arxiv.org/abs/2608.11197v1) · `2026-08-11`
-- [Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Disti...](http://arxiv.org/abs/2608.11191v1) · `2026-08-11`
-- [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](http://arxiv.org/abs/2608.11171v1) · `2026-08-11`
-- [MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Objec...](http://arxiv.org/abs/2608.11167v1) · `2026-08-11`
+- [AVA-Encoder: Towards Agent-Native Video Representation Learning](http://arxiv.org/abs/2608.12313v1) · `2026-08-12`
+- [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](http://arxiv.org/abs/2608.12307v1) · `2026-08-12`
+- [Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Se...](http://arxiv.org/abs/2608.12283v1) · `2026-08-12`
+- [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](http://arxiv.org/abs/2608.12278v1) · `2026-08-12`
+- [A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Pu...](http://arxiv.org/abs/2608.12269v1) · `2026-08-12`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-13 02:51 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-13 05:36 MSK</sub>
 
 <!--DIGEST:END-->
 
