@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,454 | ⬇️ 121,042 |
-| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,861 | ⬇️ 1,605,940 |
-| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 838 | ⬇️ 1,012 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 760 | ⬇️ 57,287 |
-| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,347 | ⬇️ 1,431,587 |
+| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,462 | ⬇️ 165,300 |
+| [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) `image-text-to-video` | ❤️ 3,865 | ⬇️ 1,997,541 |
+| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 848 | ⬇️ 3,832 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 771 | ⬇️ 207,830 |
+| [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) `text-generation` | ❤️ 3,352 | ⬇️ 1,606,491 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representati...](http://arxiv.org/abs/2608.13538v1) · `2026-08-13`
 - [DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only P...](http://arxiv.org/abs/2608.13517v1) · `2026-08-13`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-14 11:22 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-14 13:12 MSK</sub>
 
 <!--DIGEST:END-->
 
