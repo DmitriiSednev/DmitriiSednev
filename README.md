@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 10,302 | ⬇️ 267,725 |
-| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,634 | ⬇️ 292,973 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 1,463 | ⬇️ 1,945,635 |
-| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 1,012 | ⬇️ 7,932 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 1,030 | ⬇️ 424,099 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 10,337 | ⬇️ 267,725 |
+| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,635 | ⬇️ 292,973 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 1,477 | ⬇️ 1,945,635 |
+| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 1,013 | ⬇️ 7,932 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 1,033 | ⬇️ 424,099 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1) · `2026-08-13`
-- [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) · `2026-08-13`
-- [LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure](http://arxiv.org/abs/2608.13545v1) · `2026-08-13`
-- [SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representati...](http://arxiv.org/abs/2608.13538v1) · `2026-08-13`
-- [DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only P...](http://arxiv.org/abs/2608.13517v1) · `2026-08-13`
+- [Split the Labor: Separating Evidence Interpretation from Decision Aggregation](http://arxiv.org/abs/2608.14509v1) · `2026-08-14`
+- [You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Fro...](http://arxiv.org/abs/2608.14465v1) · `2026-08-14`
+- [Information Satisfaction: A Reader-Centered Axis for Summarization Evaluation](http://arxiv.org/abs/2608.14457v1) · `2026-08-14`
+- [Whose doctor does the AI recommend? An algorithm audit of reputation and demographic si...](http://arxiv.org/abs/2608.14399v1) · `2026-08-14`
+- [LLMs Don't Pay for the Jump](http://arxiv.org/abs/2608.14397v1) · `2026-08-14`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-17 04:49 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-17 06:07 MSK</sub>
 
 <!--DIGEST:END-->
 
