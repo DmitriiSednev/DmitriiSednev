@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 10,408 | ⬇️ 267,725 |
-| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,639 | ⬇️ 292,973 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 1,514 | ⬇️ 1,945,635 |
-| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 1,018 | ⬇️ 7,932 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 1,042 | ⬇️ 424,099 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 10,462 | ⬇️ 267,725 |
+| [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B) `image-text-to-text` | ❤️ 1,640 | ⬇️ 292,973 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 1,524 | ⬇️ 1,945,635 |
+| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 1,019 | ⬇️ 7,932 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 1,050 | ⬇️ 465,529 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Whose doctor does the AI recommend? An algorithm audit of reputation and demographic si...](http://arxiv.org/abs/2608.14399v1) · `2026-08-14`
 - [LLMs Don't Pay for the Jump](http://arxiv.org/abs/2608.14397v1) · `2026-08-14`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-17 10:10 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-17 11:53 MSK</sub>
 
 <!--DIGEST:END-->
 
