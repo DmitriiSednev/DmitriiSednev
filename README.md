@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 11,386 | ⬇️ 1,006,235 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 1,918 | ⬇️ 4,318,134 |
-| [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3) `text-to-audio` | ❤️ 1,014 | ⬇️ 13,138 |
-| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 1,085 | ⬇️ 12,699 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 1,281 | ⬇️ 555,993 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 11,395 | ⬇️ 1,006,235 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 1,935 | ⬇️ 4,318,134 |
+| [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3) `text-to-audio` | ❤️ 1,018 | ⬇️ 13,138 |
+| [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) `text-generation` | ❤️ 1,086 | ⬇️ 12,699 |
+| [deepseek-ai/DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) `text-generation` | ❤️ 621 | ⬇️ 37,583 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive ...](http://arxiv.org/abs/2608.18041v1) · `2026-08-18`
 - [Chain-of-Experience for Continual LLM Improvement](http://arxiv.org/abs/2608.18027v1) · `2026-08-18`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-19 18:38 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-19 19:39 MSK</sub>
 
 <!--DIGEST:END-->
 
