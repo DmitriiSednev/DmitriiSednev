@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 11,487 | ⬇️ 1,006,235 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,087 | ⬇️ 4,318,134 |
-| [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3) `text-to-audio` | ❤️ 1,039 | ⬇️ 13,138 |
-| [deepseek-ai/DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) `text-generation` | ❤️ 634 | ⬇️ 37,583 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 11,503 | ⬇️ 1,006,235 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,107 | ⬇️ 4,318,134 |
+| [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3) `text-to-audio` | ❤️ 1,047 | ⬇️ 13,138 |
+| [deepseek-ai/DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) `text-generation` | ❤️ 640 | ⬇️ 37,583 |
 | [Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) `image-text-to-text` | ❤️ 601 | ⬇️ 1,063,646 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Indep...](http://arxiv.org/abs/2608.18072v1) · `2026-08-18`
-- [On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification](http://arxiv.org/abs/2608.18066v1) · `2026-08-18`
-- [TokEval: A Tokenizer Evaluation Suite](http://arxiv.org/abs/2608.18062v1) · `2026-08-18`
-- [Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive ...](http://arxiv.org/abs/2608.18041v1) · `2026-08-18`
-- [Chain-of-Experience for Continual LLM Improvement](http://arxiv.org/abs/2608.18027v1) · `2026-08-18`
+- [SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1) · `2026-08-19`
+- [Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Rea...](http://arxiv.org/abs/2608.19181v1) · `2026-08-19`
+- [ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos](http://arxiv.org/abs/2608.19165v1) · `2026-08-19`
+- [Comment-level Topic Drift Analysis in the Reddit Corpus](http://arxiv.org/abs/2608.19133v1) · `2026-08-19`
+- [Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distil...](http://arxiv.org/abs/2608.19098v1) · `2026-08-19`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 04:44 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 06:04 MSK</sub>
 
 <!--DIGEST:END-->
 
