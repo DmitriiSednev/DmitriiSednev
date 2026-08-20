@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 11,679 | ⬇️ 1,373,584 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,296 | ⬇️ 5,126,652 |
-| [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3) `text-to-audio` | ❤️ 1,088 | ⬇️ 14,471 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 11,683 | ⬇️ 1,373,584 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,308 | ⬇️ 5,126,652 |
+| [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3) `text-to-audio` | ❤️ 1,089 | ⬇️ 14,471 |
 | [Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) `image-text-to-text` | ❤️ 626 | ⬇️ 1,517,643 |
-| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 663 | ⬇️ 76,109 |
+| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 664 | ⬇️ 76,109 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Comment-level Topic Drift Analysis in the Reddit Corpus](http://arxiv.org/abs/2608.19133v1) · `2026-08-19`
 - [Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distil...](http://arxiv.org/abs/2608.19098v1) · `2026-08-19`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 19:44 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-20 20:37 MSK</sub>
 
 <!--DIGEST:END-->
 
