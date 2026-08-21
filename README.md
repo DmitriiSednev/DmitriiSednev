@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 11,752 | ⬇️ 1,373,584 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,365 | ⬇️ 5,126,652 |
-| [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3) `text-to-audio` | ❤️ 1,106 | ⬇️ 14,471 |
-| [Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) `image-text-to-text` | ❤️ 633 | ⬇️ 1,517,643 |
-| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 714 | ⬇️ 2,628 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 11,764 | ⬇️ 1,373,584 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,372 | ⬇️ 5,126,652 |
+| [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3) `text-to-audio` | ❤️ 1,114 | ⬇️ 14,471 |
+| [Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) `image-text-to-text` | ❤️ 634 | ⬇️ 1,517,643 |
+| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 718 | ⬇️ 2,628 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1) · `2026-08-19`
-- [Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Rea...](http://arxiv.org/abs/2608.19181v1) · `2026-08-19`
-- [ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos](http://arxiv.org/abs/2608.19165v1) · `2026-08-19`
-- [Comment-level Topic Drift Analysis in the Reddit Corpus](http://arxiv.org/abs/2608.19133v1) · `2026-08-19`
-- [Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distil...](http://arxiv.org/abs/2608.19098v1) · `2026-08-19`
+- [ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](http://arxiv.org/abs/2608.20338v1) · `2026-08-20`
+- [G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report ...](http://arxiv.org/abs/2608.20331v1) · `2026-08-20`
+- [An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-S...](http://arxiv.org/abs/2608.20320v1) · `2026-08-20`
+- [Inducing Task Models from Computer-Use Traces](http://arxiv.org/abs/2608.20319v1) · `2026-08-20`
+- [AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](http://arxiv.org/abs/2608.20318v1) · `2026-08-20`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 04:50 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-21 06:10 MSK</sub>
 
 <!--DIGEST:END-->
 
