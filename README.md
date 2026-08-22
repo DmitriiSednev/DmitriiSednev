@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,009 | ⬇️ 1,726,651 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,538 | ⬇️ 5,804,917 |
-| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 884 | ⬇️ 107,520 |
-| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 840 | ⬇️ 18,193 |
-| [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) `text-generation` | ❤️ 580 | ⬇️ 1,126,222 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,015 | ⬇️ 1,726,651 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,541 | ⬇️ 5,804,917 |
+| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 892 | ⬇️ 107,520 |
+| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 842 | ⬇️ 18,193 |
+| [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) `text-generation` | ❤️ 584 | ⬇️ 1,126,222 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Inducing Task Models from Computer-Use Traces](http://arxiv.org/abs/2608.20319v1) · `2026-08-20`
 - [AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](http://arxiv.org/abs/2608.20318v1) · `2026-08-20`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-22 10:37 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-22 11:39 MSK</sub>
 
 <!--DIGEST:END-->
 
