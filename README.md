@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,383 | ⬇️ 2,358,347 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,763 | ⬇️ 6,674,515 |
-| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 986 | ⬇️ 47,098 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 655 | ⬇️ 244,834 |
-| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,061 | ⬇️ 190,062 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,402 | ⬇️ 2,645,226 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,767 | ⬇️ 7,009,063 |
+| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 989 | ⬇️ 57,947 |
+| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 660 | ⬇️ 312,627 |
+| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,066 | ⬇️ 224,114 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning](http://arxiv.org/abs/2608.21265v1) · `2026-08-21`
 - [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Que...](http://arxiv.org/abs/2608.21252v1) · `2026-08-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 11:57 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 12:57 MSK</sub>
 
 <!--DIGEST:END-->
 
