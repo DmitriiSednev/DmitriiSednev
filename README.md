@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,308 | ⬇️ 2,358,347 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,737 | ⬇️ 6,674,515 |
-| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 952 | ⬇️ 47,098 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 627 | ⬇️ 244,834 |
-| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,045 | ⬇️ 190,062 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,322 | ⬇️ 2,358,347 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,739 | ⬇️ 6,674,515 |
+| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 959 | ⬇️ 47,098 |
+| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 634 | ⬇️ 244,834 |
+| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,051 | ⬇️ 190,062 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](http://arxiv.org/abs/2608.20338v1) · `2026-08-20`
-- [G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report ...](http://arxiv.org/abs/2608.20331v1) · `2026-08-20`
-- [An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-S...](http://arxiv.org/abs/2608.20320v1) · `2026-08-20`
-- [Inducing Task Models from Computer-Use Traces](http://arxiv.org/abs/2608.20319v1) · `2026-08-20`
-- [AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](http://arxiv.org/abs/2608.20318v1) · `2026-08-20`
+- [TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems](http://arxiv.org/abs/2608.21343v1) · `2026-08-21`
+- [Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy](http://arxiv.org/abs/2608.21325v1) · `2026-08-21`
+- [Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structura...](http://arxiv.org/abs/2608.21315v1) · `2026-08-21`
+- [Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning](http://arxiv.org/abs/2608.21265v1) · `2026-08-21`
+- [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Que...](http://arxiv.org/abs/2608.21252v1) · `2026-08-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 02:28 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-24 04:50 MSK</sub>
 
 <!--DIGEST:END-->
 
