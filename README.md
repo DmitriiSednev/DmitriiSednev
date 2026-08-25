@@ -16,10 +16,10 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,685 | ⬇️ 2,945,415 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,896 | ⬇️ 7,334,695 |
-| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 1,088 | ⬇️ 68,855 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 741 | ⬇️ 389,747 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,688 | ⬇️ 2,945,415 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,901 | ⬇️ 7,334,695 |
+| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 1,090 | ⬇️ 68,855 |
+| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 742 | ⬇️ 389,747 |
 | [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,140 | ⬇️ 249,744 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
@@ -30,7 +30,7 @@
 - [ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](http://arxiv.org/abs/2608.23551v1) · `2026-08-24`
 - [When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliat...](http://arxiv.org/abs/2608.23507v1) · `2026-08-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-25 22:38 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-25 23:38 MSK</sub>
 
 <!--DIGEST:END-->
 
