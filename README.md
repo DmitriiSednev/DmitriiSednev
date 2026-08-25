@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,517 | ⬇️ 2,645,226 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,839 | ⬇️ 7,009,063 |
-| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 1,030 | ⬇️ 57,947 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 697 | ⬇️ 312,627 |
-| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,098 | ⬇️ 224,114 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,527 | ⬇️ 2,645,226 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,842 | ⬇️ 7,009,063 |
+| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 1,035 | ⬇️ 57,947 |
+| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 699 | ⬇️ 312,627 |
+| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,100 | ⬇️ 224,114 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems](http://arxiv.org/abs/2608.21343v1) · `2026-08-21`
-- [Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy](http://arxiv.org/abs/2608.21325v1) · `2026-08-21`
-- [Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structura...](http://arxiv.org/abs/2608.21315v1) · `2026-08-21`
-- [Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning](http://arxiv.org/abs/2608.21265v1) · `2026-08-21`
-- [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Que...](http://arxiv.org/abs/2608.21252v1) · `2026-08-21`
+- [How to Train a Critic Stably and Efficiently](http://arxiv.org/abs/2608.23566v1) · `2026-08-24`
+- [SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack M...](http://arxiv.org/abs/2608.23564v1) · `2026-08-24`
+- [Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552v1) · `2026-08-24`
+- [ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](http://arxiv.org/abs/2608.23551v1) · `2026-08-24`
+- [When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliat...](http://arxiv.org/abs/2608.23507v1) · `2026-08-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-25 04:45 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-25 06:06 MSK</sub>
 
 <!--DIGEST:END-->
 
