@@ -16,17 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,718 | ⬇️ 2,945,415 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,918 | ⬇️ 7,334,695 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 752 | ⬇️ 389,747 |
-| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 1,098 | ⬇️ 68,855 |
-| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,148 | ⬇️ 249,744 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,730 | ⬇️ 2,945,415 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,922 | ⬇️ 7,334,695 |
+| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 758 | ⬇️ 389,747 |
+| [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX) `image-text-to-text` | ❤️ 1,102 | ⬇️ 68,855 |
+| [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) `image-text-to-text` | ❤️ 1,153 | ⬇️ 249,744 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- _arXiv API unavailable: HTTP Error 429: Unknown Error_
+- [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1) · `2026-08-25`
+- [BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](http://arxiv.org/abs/2608.24848v1) · `2026-08-25`
+- [Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Work...](http://arxiv.org/abs/2608.24842v1) · `2026-08-25`
+- [Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch](http://arxiv.org/abs/2608.24809v1) · `2026-08-25`
+- [Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text](http://arxiv.org/abs/2608.24780v1) · `2026-08-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-26 04:50 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-26 06:13 MSK</sub>
 
 <!--DIGEST:END-->
 
