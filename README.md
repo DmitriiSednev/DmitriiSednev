@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 3,394 | ⬇️ 2,551 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,848 | ⬇️ 3,298,569 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,969 | ⬇️ 7,638,591 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 791 | ⬇️ 468,746 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 519 | ⬇️ 0 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 3,500 | ⬇️ 2,551 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,865 | ⬇️ 3,298,569 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,985 | ⬇️ 7,638,591 |
+| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 799 | ⬇️ 468,746 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 682 | ⬇️ 0 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch](http://arxiv.org/abs/2608.24809v1) · `2026-08-25`
 - [Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text](http://arxiv.org/abs/2608.24780v1) · `2026-08-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-26 19:24 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-26 22:11 MSK</sub>
 
 <!--DIGEST:END-->
 
