@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 3,593 | ⬇️ 2,551 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,893 | ⬇️ 3,298,569 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 2,993 | ⬇️ 7,638,591 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 780 | ⬇️ 0 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 810 | ⬇️ 468,746 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 3,797 | ⬇️ 4,810 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,136 | ⬇️ 34 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,957 | ⬇️ 3,457,687 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 3,023 | ⬇️ 7,758,790 |
+| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 825 | ⬇️ 509,270 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1) · `2026-08-25`
-- [BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](http://arxiv.org/abs/2608.24848v1) · `2026-08-25`
-- [Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Work...](http://arxiv.org/abs/2608.24842v1) · `2026-08-25`
-- [Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch](http://arxiv.org/abs/2608.24809v1) · `2026-08-25`
-- [Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text](http://arxiv.org/abs/2608.24780v1) · `2026-08-25`
+- [PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compl...](http://arxiv.org/abs/2608.26091v1) · `2026-08-26`
+- [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) · `2026-08-26`
+- [Prefix Sliding for efficient test-time scaling](http://arxiv.org/abs/2608.26070v1) · `2026-08-26`
+- [Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study](http://arxiv.org/abs/2608.26060v1) · `2026-08-26`
+- [$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](http://arxiv.org/abs/2608.26053v1) · `2026-08-26`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-27 02:20 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-27 12:25 MSK</sub>
 
 <!--DIGEST:END-->
 
