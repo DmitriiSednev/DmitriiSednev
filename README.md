@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 3,797 | ⬇️ 4,810 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,136 | ⬇️ 34 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 12,957 | ⬇️ 3,457,687 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 3,023 | ⬇️ 7,758,790 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 825 | ⬇️ 509,270 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 3,920 | ⬇️ 4,810 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,291 | ⬇️ 34 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,022 | ⬇️ 3,457,687 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 3,065 | ⬇️ 7,758,790 |
+| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 842 | ⬇️ 509,270 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study](http://arxiv.org/abs/2608.26060v1) · `2026-08-26`
 - [$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](http://arxiv.org/abs/2608.26053v1) · `2026-08-26`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-27 12:25 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-27 23:18 MSK</sub>
 
 <!--DIGEST:END-->
 
