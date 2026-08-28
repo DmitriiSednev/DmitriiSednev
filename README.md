@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 3,920 | ⬇️ 4,810 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,291 | ⬇️ 34 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,022 | ⬇️ 3,457,687 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 3,065 | ⬇️ 7,758,790 |
-| [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) `text-generation` | ❤️ 842 | ⬇️ 509,270 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 3,993 | ⬇️ 4,810 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,358 | ⬇️ 34 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,056 | ⬇️ 3,457,687 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ❤️ 3,087 | ⬇️ 7,758,790 |
+| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 469 | ⬇️ 4,354 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compl...](http://arxiv.org/abs/2608.26091v1) · `2026-08-26`
-- [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) · `2026-08-26`
-- [Prefix Sliding for efficient test-time scaling](http://arxiv.org/abs/2608.26070v1) · `2026-08-26`
-- [Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study](http://arxiv.org/abs/2608.26060v1) · `2026-08-26`
-- [$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](http://arxiv.org/abs/2608.26053v1) · `2026-08-26`
+- [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure...](http://arxiv.org/abs/2608.27455v1) · `2026-08-27`
+- [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) · `2026-08-27`
+- [SWE-Prime: Fewer Trajectories, Better Performance](http://arxiv.org/abs/2608.27449v1) · `2026-08-27`
+- [TTPO: Test-Time Policy Optimization](http://arxiv.org/abs/2608.27448v1) · `2026-08-27`
+- [From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench](http://arxiv.org/abs/2608.27442v1) · `2026-08-27`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-27 23:18 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-28 08:16 MSK</sub>
 
 <!--DIGEST:END-->
 
