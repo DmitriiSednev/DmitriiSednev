@@ -16,17 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,287 | ⬇️ 52,341 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,617 | ⬇️ 189,793 |
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,266 | ⬇️ 8,804 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,249 | ⬇️ 4,028,839 |
-| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 564 | ⬇️ 188,061 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,305 | ⬇️ 52,341 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,636 | ⬇️ 189,793 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,290 | ⬇️ 8,804 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,275 | ⬇️ 4,028,839 |
+| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 572 | ⬇️ 188,061 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- _arXiv API unavailable: The read operation timed out_
+- [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure...](http://arxiv.org/abs/2608.27455v1) · `2026-08-27`
+- [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) · `2026-08-27`
+- [SWE-Prime: Fewer Trajectories, Better Performance](http://arxiv.org/abs/2608.27449v1) · `2026-08-27`
+- [TTPO: Test-Time Policy Optimization](http://arxiv.org/abs/2608.27448v1) · `2026-08-27`
+- [From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench](http://arxiv.org/abs/2608.27442v1) · `2026-08-27`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-30 03:07 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-30 09:30 MSK</sub>
 
 <!--DIGEST:END-->
 
