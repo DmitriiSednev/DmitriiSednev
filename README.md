@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,335 | ⬇️ 121,976 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,661 | ⬇️ 346,516 |
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,309 | ⬇️ 50,116 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,299 | ⬇️ 4,511,348 |
-| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 585 | ⬇️ 328,195 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,357 | ⬇️ 121,976 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,684 | ⬇️ 346,516 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,325 | ⬇️ 50,116 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,320 | ⬇️ 4,511,348 |
+| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 594 | ⬇️ 328,195 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [TTPO: Test-Time Policy Optimization](http://arxiv.org/abs/2608.27448v1) · `2026-08-27`
 - [From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench](http://arxiv.org/abs/2608.27442v1) · `2026-08-27`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-30 15:46 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-30 20:19 MSK</sub>
 
 <!--DIGEST:END-->
 
