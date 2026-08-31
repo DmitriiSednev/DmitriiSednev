@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,379 | ⬇️ 121,976 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,709 | ⬇️ 346,516 |
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,335 | ⬇️ 50,116 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,344 | ⬇️ 4,511,348 |
-| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 602 | ⬇️ 328,195 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,405 | ⬇️ 121,976 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `text-generation` | ❤️ 1,734 | ⬇️ 346,516 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,359 | ⬇️ 50,116 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,365 | ⬇️ 4,511,348 |
+| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 607 | ⬇️ 328,195 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure...](http://arxiv.org/abs/2608.27455v1) · `2026-08-27`
-- [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) · `2026-08-27`
-- [SWE-Prime: Fewer Trajectories, Better Performance](http://arxiv.org/abs/2608.27449v1) · `2026-08-27`
-- [TTPO: Test-Time Policy Optimization](http://arxiv.org/abs/2608.27448v1) · `2026-08-27`
-- [From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench](http://arxiv.org/abs/2608.27442v1) · `2026-08-27`
+- [A Formal Limitation on Learning Human Language From Textual Corpora](http://arxiv.org/abs/2608.28560v1) · `2026-08-28`
+- [When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI](http://arxiv.org/abs/2608.28518v1) · `2026-08-28`
+- [Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced...](http://arxiv.org/abs/2608.28508v1) · `2026-08-28`
+- [Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machi...](http://arxiv.org/abs/2608.28496v1) · `2026-08-28`
+- [NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry](http://arxiv.org/abs/2608.28481v1) · `2026-08-28`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-31 02:23 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-08-31 08:20 MSK</sub>
 
 <!--DIGEST:END-->
 
