@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,505 | ⬇️ 158,598 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,802 | ⬇️ 379,271 |
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,409 | ⬇️ 66,195 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,459 | ⬇️ 4,720,763 |
-| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 630 | ⬇️ 373,029 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,515 | ⬇️ 158,598 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,808 | ⬇️ 379,271 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,412 | ⬇️ 66,195 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,470 | ⬇️ 4,720,763 |
+| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 635 | ⬇️ 373,029 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machi...](http://arxiv.org/abs/2608.28496v1) · `2026-08-28`
 - [NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry](http://arxiv.org/abs/2608.28481v1) · `2026-08-28`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-08-31 22:56 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-01 02:44 MSK</sub>
 
 <!--DIGEST:END-->
 
