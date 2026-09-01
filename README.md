@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,536 | ⬇️ 158,598 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,821 | ⬇️ 379,271 |
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,424 | ⬇️ 66,195 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,487 | ⬇️ 4,720,763 |
-| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 639 | ⬇️ 373,029 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,561 | ⬇️ 207,941 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,836 | ⬇️ 441,348 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,433 | ⬇️ 94,403 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,510 | ⬇️ 4,960,483 |
+| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 645 | ⬇️ 431,339 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](http://arxiv.org/abs/2608.31119v1) · `2026-08-31`
 - [Aspire: Can Models Self-Evolve from Vague Goals?](http://arxiv.org/abs/2608.31111v1) · `2026-08-31`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-01 07:54 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-01 12:56 MSK</sub>
 
 <!--DIGEST:END-->
 
