@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,635 | ⬇️ 207,941 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,878 | ⬇️ 441,348 |
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,466 | ⬇️ 94,403 |
-| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 668 | ⬇️ 431,339 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,581 | ⬇️ 4,960,483 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,657 | ⬇️ 207,941 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,894 | ⬇️ 441,348 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,472 | ⬇️ 94,403 |
+| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 677 | ⬇️ 431,339 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,595 | ⬇️ 4,960,483 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Context-Aware Interleaved Batching for WhisperX](http://arxiv.org/abs/2608.31170v1) · `2026-08-31`
-- [Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augme...](http://arxiv.org/abs/2608.31139v1) · `2026-08-31`
-- [DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Scree...](http://arxiv.org/abs/2608.31128v1) · `2026-08-31`
-- [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](http://arxiv.org/abs/2608.31119v1) · `2026-08-31`
-- [Aspire: Can Models Self-Evolve from Vague Goals?](http://arxiv.org/abs/2608.31111v1) · `2026-08-31`
+- [Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](http://arxiv.org/abs/2609.01604v1) · `2026-09-01`
+- [Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation](http://arxiv.org/abs/2609.01603v1) · `2026-09-01`
+- [Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation](http://arxiv.org/abs/2609.01601v1) · `2026-09-01`
+- [CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Har...](http://arxiv.org/abs/2609.01600v1) · `2026-09-01`
+- [The Rise of Verbal Reinforcement Learning](http://arxiv.org/abs/2609.01597v1) · `2026-09-01`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-02 02:59 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-02 07:16 MSK</sub>
 
 <!--DIGEST:END-->
 
