@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,933 | ⬇️ 441,348 |
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,491 | ⬇️ 94,403 |
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,703 | ⬇️ 207,941 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,652 | ⬇️ 4,960,483 |
-| [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) `image-text-to-text` | ❤️ 709 | ⬇️ 431,339 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,506 | ⬇️ 94,403 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,945 | ⬇️ 441,348 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,718 | ⬇️ 207,941 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,670 | ⬇️ 4,960,483 |
+| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 492 | ⬇️ 17,893 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Har...](http://arxiv.org/abs/2609.01600v1) · `2026-09-01`
 - [The Rise of Verbal Reinforcement Learning](http://arxiv.org/abs/2609.01597v1) · `2026-09-01`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-02 17:20 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-02 21:33 MSK</sub>
 
 <!--DIGEST:END-->
 
