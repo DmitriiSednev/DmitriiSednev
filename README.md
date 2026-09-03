@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,515 | ⬇️ 94,403 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,966 | ⬇️ 441,348 |
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,733 | ⬇️ 207,941 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,683 | ⬇️ 4,960,483 |
-| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 503 | ⬇️ 17,893 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,526 | ⬇️ 94,403 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 1,975 | ⬇️ 441,348 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,743 | ⬇️ 207,941 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,708 | ⬇️ 4,960,483 |
+| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 511 | ⬇️ 17,893 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](http://arxiv.org/abs/2609.01604v1) · `2026-09-01`
-- [Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation](http://arxiv.org/abs/2609.01603v1) · `2026-09-01`
-- [Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation](http://arxiv.org/abs/2609.01601v1) · `2026-09-01`
-- [CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Har...](http://arxiv.org/abs/2609.01600v1) · `2026-09-01`
-- [The Rise of Verbal Reinforcement Learning](http://arxiv.org/abs/2609.01597v1) · `2026-09-01`
+- [User Feedback Provides a Unique Signal that LLMs Can not Detect](http://arxiv.org/abs/2609.02859v1) · `2026-09-02`
+- [Post-Training Language Models for Gold-Medal Performance in Coding Competitions](http://arxiv.org/abs/2609.02849v1) · `2026-09-02`
+- [Dutch Books for Language Models](http://arxiv.org/abs/2609.02797v1) · `2026-09-02`
+- [DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation](http://arxiv.org/abs/2609.02796v1) · `2026-09-02`
+- [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](http://arxiv.org/abs/2609.02783v1) · `2026-09-02`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-03 03:02 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-03 07:11 MSK</sub>
 
 <!--DIGEST:END-->
 
