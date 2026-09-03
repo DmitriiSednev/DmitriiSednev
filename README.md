@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,602 | ⬇️ 151,021 |
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,796 | ⬇️ 263,287 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 2,010 | ⬇️ 517,902 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,814 | ⬇️ 5,254,882 |
-| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 539 | ⬇️ 54,571 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,604 | ⬇️ 151,021 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,801 | ⬇️ 263,287 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 2,015 | ⬇️ 517,902 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,826 | ⬇️ 5,254,882 |
+| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 544 | ⬇️ 54,571 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation](http://arxiv.org/abs/2609.02796v1) · `2026-09-02`
 - [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](http://arxiv.org/abs/2609.02783v1) · `2026-09-02`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-04 00:38 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-04 02:57 MSK</sub>
 
 <!--DIGEST:END-->
 
