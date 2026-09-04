@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,619 | ⬇️ 151,021 |
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,816 | ⬇️ 263,287 |
-| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 2,021 | ⬇️ 517,902 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,845 | ⬇️ 5,254,882 |
-| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 557 | ⬇️ 54,571 |
+| [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) `text-generation` | ❤️ 1,636 | ⬇️ 303,534 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,832 | ⬇️ 351,374 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 13,868 | ⬇️ 5,739,341 |
+| [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) `image-text-to-text` | ❤️ 2,030 | ⬇️ 654,957 |
+| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 564 | ⬇️ 133,024 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxi...](http://arxiv.org/abs/2609.04180v1) · `2026-09-03`
 - [Last Translation Benchmark](http://arxiv.org/abs/2609.04173v1) · `2026-09-03`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-04 07:18 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-04 12:29 MSK</sub>
 
 <!--DIGEST:END-->
 
