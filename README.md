@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 742 | ⬇️ 209,191 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,125 | ⬇️ 6,190,807 |
-| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 599 | ⬇️ 5,477 |
-| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 499 | ⬇️ 144,455 |
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,943 | ⬇️ 432,966 |
+| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 754 | ⬇️ 209,191 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,143 | ⬇️ 6,190,807 |
+| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 622 | ⬇️ 5,477 |
+| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 515 | ⬇️ 144,455 |
+| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,947 | ⬇️ 432,966 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1) · `2026-09-03`
-- [ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1) · `2026-09-03`
-- [Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-...](http://arxiv.org/abs/2609.04194v1) · `2026-09-03`
-- [Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxi...](http://arxiv.org/abs/2609.04180v1) · `2026-09-03`
-- [Last Translation Benchmark](http://arxiv.org/abs/2609.04173v1) · `2026-09-03`
+- [WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](http://arxiv.org/abs/2609.05405v1) · `2026-09-04`
+- [Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision La...](http://arxiv.org/abs/2609.05401v1) · `2026-09-04`
+- [Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis ...](http://arxiv.org/abs/2609.05395v1) · `2026-09-04`
+- [Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability](http://arxiv.org/abs/2609.05339v1) · `2026-09-04`
+- [Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer La...](http://arxiv.org/abs/2609.05333v1) · `2026-09-04`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-07 02:44 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-07 07:22 MSK</sub>
 
 <!--DIGEST:END-->
 
