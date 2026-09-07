@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 754 | ⬇️ 209,191 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,143 | ⬇️ 6,190,807 |
-| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 622 | ⬇️ 5,477 |
-| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 515 | ⬇️ 144,455 |
-| [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) `image-text-to-text` | ❤️ 4,947 | ⬇️ 432,966 |
+| [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) `image-text-to-text` | ❤️ 773 | ⬇️ 251,611 |
+| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 645 | ⬇️ 7,216 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,175 | ⬇️ 6,416,358 |
+| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 534 | ⬇️ 271,713 |
+| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 486 | ⬇️ 403,292 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability](http://arxiv.org/abs/2609.05339v1) · `2026-09-04`
 - [Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer La...](http://arxiv.org/abs/2609.05333v1) · `2026-09-04`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-07 07:22 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-07 13:08 MSK</sub>
 
 <!--DIGEST:END-->
 
