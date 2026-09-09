@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 846 | ⬇️ 10,661 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 661 | ⬇️ 2,879 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,389 | ⬇️ 6,712,160 |
-| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 652 | ⬇️ 479,597 |
-| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 632 | ⬇️ 444,052 |
+| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 863 | ⬇️ 10,661 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 738 | ⬇️ 2,879 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,407 | ⬇️ 6,712,160 |
+| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 665 | ⬇️ 479,597 |
+| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 644 | ⬇️ 444,052 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](http://arxiv.org/abs/2609.05405v1) · `2026-09-04`
-- [Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision La...](http://arxiv.org/abs/2609.05401v1) · `2026-09-04`
-- [Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis ...](http://arxiv.org/abs/2609.05395v1) · `2026-09-04`
-- [Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability](http://arxiv.org/abs/2609.05339v1) · `2026-09-04`
-- [Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer La...](http://arxiv.org/abs/2609.05333v1) · `2026-09-04`
+- [Learning Length-Extrapolatable Recurrent Models](http://arxiv.org/abs/2609.09157v1) · `2026-09-08`
+- [ReCite: Agentic Reasoning for Faithful Citation](http://arxiv.org/abs/2609.09156v1) · `2026-09-08`
+- [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1) · `2026-09-08`
+- [Copying explains the collective behavior of AI agents in the wild](http://arxiv.org/abs/2609.09150v1) · `2026-09-08`
+- [Studying Image Tokenizers as Visual Languages in Unified Multimodal Models](http://arxiv.org/abs/2609.09143v1) · `2026-09-08`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-09 03:03 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-09 07:29 MSK</sub>
 
 <!--DIGEST:END-->
 
