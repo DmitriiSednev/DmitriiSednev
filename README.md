@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 998 | ⬇️ 10,661 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 887 | ⬇️ 2,879 |
-| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 730 | ⬇️ 479,597 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,511 | ⬇️ 6,712,160 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 3,260 | ⬇️ 1,644,796 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 913 | ⬇️ 2,879 |
+| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 1,001 | ⬇️ 10,661 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,525 | ⬇️ 6,712,160 |
+| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 733 | ⬇️ 479,597 |
+| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 689 | ⬇️ 444,052 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Copying explains the collective behavior of AI agents in the wild](http://arxiv.org/abs/2609.09150v1) · `2026-09-08`
 - [Studying Image Tokenizers as Visual Languages in Unified Multimodal Models](http://arxiv.org/abs/2609.09143v1) · `2026-09-08`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-10 00:37 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-10 03:04 MSK</sub>
 
 <!--DIGEST:END-->
 
