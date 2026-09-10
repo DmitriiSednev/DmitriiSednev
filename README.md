@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 963 | ⬇️ 2,879 |
-| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 1,016 | ⬇️ 10,661 |
-| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 741 | ⬇️ 479,597 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,532 | ⬇️ 6,712,160 |
-| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 696 | ⬇️ 444,052 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,012 | ⬇️ 42,289 |
+| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 1,029 | ⬇️ 15,930 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 641 | ⬇️ 6 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,564 | ⬇️ 7,322,476 |
+| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 753 | ⬇️ 614,850 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [ConvMem: Convolutional Memory for Long-Context Reasoning](http://arxiv.org/abs/2609.10441v1) · `2026-09-09`
 - [Do speech foundation models really learn words?](http://arxiv.org/abs/2609.10434v1) · `2026-09-09`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-10 07:29 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-10 12:34 MSK</sub>
 
 <!--DIGEST:END-->
 
