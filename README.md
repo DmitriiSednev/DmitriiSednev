@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 913 | ⬇️ 2,879 |
-| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 1,001 | ⬇️ 10,661 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,525 | ⬇️ 6,712,160 |
-| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 733 | ⬇️ 479,597 |
-| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 689 | ⬇️ 444,052 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 963 | ⬇️ 2,879 |
+| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 1,016 | ⬇️ 10,661 |
+| [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) `image-text-to-text` | ❤️ 741 | ⬇️ 479,597 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,532 | ⬇️ 6,712,160 |
+| [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) `time-series-forecasting` | ❤️ 696 | ⬇️ 444,052 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Learning Length-Extrapolatable Recurrent Models](http://arxiv.org/abs/2609.09157v1) · `2026-09-08`
-- [ReCite: Agentic Reasoning for Faithful Citation](http://arxiv.org/abs/2609.09156v1) · `2026-09-08`
-- [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1) · `2026-09-08`
-- [Copying explains the collective behavior of AI agents in the wild](http://arxiv.org/abs/2609.09150v1) · `2026-09-08`
-- [Studying Image Tokenizers as Visual Languages in Unified Multimodal Models](http://arxiv.org/abs/2609.09143v1) · `2026-09-08`
+- [IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications](http://arxiv.org/abs/2609.10539v1) · `2026-09-09`
+- [IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identi...](http://arxiv.org/abs/2609.10494v1) · `2026-09-09`
+- [Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Langu...](http://arxiv.org/abs/2609.10445v1) · `2026-09-09`
+- [ConvMem: Convolutional Memory for Long-Context Reasoning](http://arxiv.org/abs/2609.10441v1) · `2026-09-09`
+- [Do speech foundation models really learn words?](http://arxiv.org/abs/2609.10434v1) · `2026-09-09`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-10 03:04 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-10 07:29 MSK</sub>
 
 <!--DIGEST:END-->
 
