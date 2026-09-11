@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 1,678 | ⬇️ 75,774 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,164 | ⬇️ 67,550 |
-| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 1,087 | ⬇️ 17,712 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,720 | ⬇️ 7,563,763 |
-| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 679 | ⬇️ 3,121 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 1,735 | ⬇️ 75,774 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,180 | ⬇️ 67,550 |
+| [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B) `text-generation` | ❤️ 1,094 | ⬇️ 17,712 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 14,739 | ⬇️ 7,563,763 |
+| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 685 | ⬇️ 3,121 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Nuha-Speech: Building General-Purpose Arabic Speech-LLMs](http://arxiv.org/abs/2609.11892v1) · `2026-09-10`
 - [Domain-Specific Hallucination Detection in Large Language Models](http://arxiv.org/abs/2609.11878v1) · `2026-09-10`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-11 17:17 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-11 21:22 MSK</sub>
 
 <!--DIGEST:END-->
 
