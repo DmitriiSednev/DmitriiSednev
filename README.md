@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,412 | ⬇️ 288,414 |
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 1,750 | ⬇️ 8,109 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,386 | ⬇️ 206,774 |
-| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 777 | ⬇️ 4,543 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,107 | ⬇️ 7,703,400 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,440 | ⬇️ 288,414 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 1,916 | ⬇️ 8,109 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,390 | ⬇️ 206,774 |
+| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 778 | ⬇️ 4,543 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,131 | ⬇️ 7,703,400 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant](http://arxiv.org/abs/2609.13076v1) · `2026-09-11`
 - [MAxBench: A Multinomial Concept Recovery Benchmark](http://arxiv.org/abs/2609.13072v1) · `2026-09-11`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 21:31 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-15 01:24 MSK</sub>
 
 <!--DIGEST:END-->
 
