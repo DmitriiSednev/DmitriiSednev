@@ -16,17 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,347 | ⬇️ 288,414 |
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 1,520 | ⬇️ 8,109 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,370 | ⬇️ 206,774 |
-| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 775 | ⬇️ 4,543 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,080 | ⬇️ 7,703,400 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,412 | ⬇️ 288,414 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 1,750 | ⬇️ 8,109 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,386 | ⬇️ 206,774 |
+| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 777 | ⬇️ 4,543 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,107 | ⬇️ 7,703,400 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- _arXiv API unavailable: HTTP Error 429: Unknown Error_
+- [Type Diversity Enables Transformers to Generalise Compositionally](http://arxiv.org/abs/2609.13144v1) · `2026-09-11`
+- [SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](http://arxiv.org/abs/2609.13141v1) · `2026-09-11`
+- [Continue, Adapt, or Yield: In-Turn Adaptation to Overlapping Speech in Full-Duplex Agents](http://arxiv.org/abs/2609.13117v1) · `2026-09-11`
+- [MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant](http://arxiv.org/abs/2609.13076v1) · `2026-09-11`
+- [MAxBench: A Multinomial Concept Recovery Benchmark](http://arxiv.org/abs/2609.13072v1) · `2026-09-11`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 15:34 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 21:31 MSK</sub>
 
 <!--DIGEST:END-->
 
