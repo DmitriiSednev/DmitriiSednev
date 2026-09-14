@@ -16,17 +16,17 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,270 | ⬇️ 244,457 |
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 1,232 | ⬇️ 3,552 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,355 | ⬇️ 150,110 |
-| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 767 | ⬇️ 3,970 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,040 | ⬇️ 7,768,964 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,347 | ⬇️ 288,414 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 1,520 | ⬇️ 8,109 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,370 | ⬇️ 206,774 |
+| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 775 | ⬇️ 4,543 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,080 | ⬇️ 7,703,400 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
 - _arXiv API unavailable: HTTP Error 429: Unknown Error_
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 09:04 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-14 15:34 MSK</sub>
 
 <!--DIGEST:END-->
 
