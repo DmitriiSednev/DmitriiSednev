@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,440 | ⬇️ 288,414 |
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 1,916 | ⬇️ 8,109 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,390 | ⬇️ 206,774 |
-| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 778 | ⬇️ 4,543 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,131 | ⬇️ 7,703,400 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,453 | ⬇️ 288,414 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 2,021 | ⬇️ 8,109 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,395 | ⬇️ 206,774 |
+| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 781 | ⬇️ 4,543 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,145 | ⬇️ 7,703,400 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Type Diversity Enables Transformers to Generalise Compositionally](http://arxiv.org/abs/2609.13144v1) · `2026-09-11`
-- [SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](http://arxiv.org/abs/2609.13141v1) · `2026-09-11`
-- [Continue, Adapt, or Yield: In-Turn Adaptation to Overlapping Speech in Full-Duplex Agents](http://arxiv.org/abs/2609.13117v1) · `2026-09-11`
-- [MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant](http://arxiv.org/abs/2609.13076v1) · `2026-09-11`
-- [MAxBench: A Multinomial Concept Recovery Benchmark](http://arxiv.org/abs/2609.13072v1) · `2026-09-11`
+- [SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Repara...](http://arxiv.org/abs/2609.14320v1) · `2026-09-13`
+- [E2A-Bench: Benchmarking Evidence-to-Action Reliability in Financial Chart Reasoning](http://arxiv.org/abs/2609.14302v1) · `2026-09-13`
+- [Editorial routing shapes how computational results are qualified in AI-assisted scienti...](http://arxiv.org/abs/2609.14288v1) · `2026-09-13`
+- [DenMark: Robust Semantic Watermarking for Diffusion Language Models](http://arxiv.org/abs/2609.14257v1) · `2026-09-13`
+- [Document Topic Alignment Metrics for Evaluating Topic Models of Short-Text Public Healt...](http://arxiv.org/abs/2609.14256v1) · `2026-09-13`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-15 01:24 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-15 04:21 MSK</sub>
 
 <!--DIGEST:END-->
 
