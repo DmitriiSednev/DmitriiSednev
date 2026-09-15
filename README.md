@@ -16,21 +16,17 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,526 | ⬇️ 288,414 |
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 2,234 | ⬇️ 8,109 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,413 | ⬇️ 206,774 |
-| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 786 | ⬇️ 4,543 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,176 | ⬇️ 7,703,400 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,589 | ⬇️ 325,712 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 2,418 | ⬇️ 17,853 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,425 | ⬇️ 271,754 |
+| [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini) `text-generation` | ❤️ 800 | ⬇️ 5,202 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,206 | ⬇️ 7,702,543 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Bellman Policy Optimization](http://arxiv.org/abs/2609.15987v1) · `2026-09-14`
-- [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Th...](http://arxiv.org/abs/2609.15983v1) · `2026-09-14`
-- [The Router Within: Eliciting Native Skill Routing from a Frozen LLM](http://arxiv.org/abs/2609.15982v1) · `2026-09-14`
-- [Disentangling Representation Evolution in Transformers through Directional Decomposition](http://arxiv.org/abs/2609.15975v1) · `2026-09-14`
-- [Discovery Foundation Models: Toward Open-Ended Discovery Intelligence](http://arxiv.org/abs/2609.15973v1) · `2026-09-14`
+- _arXiv API unavailable: HTTP Error 429: Unknown Error_
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-15 10:36 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-15 16:26 MSK</sub>
 
 <!--DIGEST:END-->
 
