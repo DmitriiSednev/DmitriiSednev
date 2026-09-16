@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,769 | ⬇️ 366,459 |
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 2,978 | ⬇️ 27,759 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,486 | ⬇️ 324,322 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,331 | ⬇️ 7,667,556 |
-| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 595 | ⬇️ 9,391 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,810 | ⬇️ 366,459 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,028 | ⬇️ 27,759 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,494 | ⬇️ 324,322 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,360 | ⬇️ 7,667,556 |
+| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 611 | ⬇️ 9,391 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs](http://arxiv.org/abs/2609.17509v1) · `2026-09-15`
 - [Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1) · `2026-09-15`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-16 14:22 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-16 19:43 MSK</sub>
 
 <!--DIGEST:END-->
 
