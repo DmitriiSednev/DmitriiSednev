@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,858 | ⬇️ 366,459 |
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,083 | ⬇️ 27,759 |
-| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 639 | ⬇️ 9,391 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,403 | ⬇️ 7,667,556 |
-| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,505 | ⬇️ 324,322 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,208 | ⬇️ 27,759 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 2,903 | ⬇️ 366,459 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,449 | ⬇️ 7,667,556 |
+| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 673 | ⬇️ 9,391 |
+| [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B) `text-generation` | ❤️ 1,524 | ⬇️ 324,322 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1) · `2026-09-15`
-- [When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](http://arxiv.org/abs/2609.17516v1) · `2026-09-15`
-- [What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across A...](http://arxiv.org/abs/2609.17515v1) · `2026-09-15`
-- [LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs](http://arxiv.org/abs/2609.17509v1) · `2026-09-15`
-- [Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1) · `2026-09-15`
+- [Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1) · `2026-09-16`
+- [A Zeroth-Order Paradigm for LLM Preference Alignment](http://arxiv.org/abs/2609.19144v1) · `2026-09-16`
+- [PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection](http://arxiv.org/abs/2609.19143v1) · `2026-09-16`
+- [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](http://arxiv.org/abs/2609.19134v1) · `2026-09-16`
+- [Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Pai...](http://arxiv.org/abs/2609.19113v1) · `2026-09-16`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-17 04:17 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-17 10:32 MSK</sub>
 
 <!--DIGEST:END-->
 
