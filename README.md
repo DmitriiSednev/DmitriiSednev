@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,375 | ⬇️ 52,519 |
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,117 | ⬇️ 429,865 |
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 719 | ⬇️ 405,609 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,610 | ⬇️ 7,358,662 |
-| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 777 | ⬇️ 13,668 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,384 | ⬇️ 52,519 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,140 | ⬇️ 429,865 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 825 | ⬇️ 405,609 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,634 | ⬇️ 7,358,662 |
+| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 786 | ⬇️ 13,668 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1) · `2026-09-17`
 - [JEPA-Anything: Learning Predictive Models across Different Worlds](http://arxiv.org/abs/2609.20800v1) · `2026-09-17`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-18 17:54 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-18 21:18 MSK</sub>
 
 <!--DIGEST:END-->
 
