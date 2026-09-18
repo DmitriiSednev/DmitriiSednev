@@ -16,21 +16,17 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,301 | ⬇️ 37,131 |
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,004 | ⬇️ 390,657 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,531 | ⬇️ 7,456,257 |
-| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 719 | ⬇️ 11,626 |
-| [TokenRhythm/NeoHorse-1-4B](https://huggingface.co/TokenRhythm/NeoHorse-1-4B) `text-generation` | ❤️ 2,311 | ⬇️ 19,789 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,319 | ⬇️ 37,131 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,039 | ⬇️ 390,657 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,558 | ⬇️ 7,456,257 |
+| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 738 | ⬇️ 11,626 |
+| [TokenRhythm/NeoHorse-1-4B](https://huggingface.co/TokenRhythm/NeoHorse-1-4B) `text-generation` | ❤️ 2,350 | ⬇️ 19,789 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1) · `2026-09-16`
-- [A Zeroth-Order Paradigm for LLM Preference Alignment](http://arxiv.org/abs/2609.19144v1) · `2026-09-16`
-- [PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection](http://arxiv.org/abs/2609.19143v1) · `2026-09-16`
-- [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](http://arxiv.org/abs/2609.19134v1) · `2026-09-16`
-- [Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Pai...](http://arxiv.org/abs/2609.19113v1) · `2026-09-16`
+- _arXiv API unavailable: HTTP Error 406: Not Acceptable_
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-18 03:07 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-18 08:47 MSK</sub>
 
 <!--DIGEST:END-->
 
