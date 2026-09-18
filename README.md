@@ -16,17 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,319 | ⬇️ 37,131 |
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,039 | ⬇️ 390,657 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,558 | ⬇️ 7,456,257 |
-| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 738 | ⬇️ 11,626 |
-| [TokenRhythm/NeoHorse-1-4B](https://huggingface.co/TokenRhythm/NeoHorse-1-4B) `text-generation` | ❤️ 2,350 | ⬇️ 19,789 |
+| [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) `text-generation` | ❤️ 3,358 | ⬇️ 52,519 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,080 | ⬇️ 429,865 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,589 | ⬇️ 7,358,662 |
+| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 760 | ⬇️ 13,668 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 579 | ⬇️ 405,609 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- _arXiv API unavailable: HTTP Error 406: Not Acceptable_
+- [Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1) · `2026-09-17`
+- [Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1) · `2026-09-17`
+- [Unifying Models of Intergroup Hostility in Online Discourse](http://arxiv.org/abs/2609.20808v1) · `2026-09-17`
+- [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1) · `2026-09-17`
+- [JEPA-Anything: Learning Predictive Models across Different Worlds](http://arxiv.org/abs/2609.20800v1) · `2026-09-17`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-18 08:47 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-18 14:03 MSK</sub>
 
 <!--DIGEST:END-->
 
