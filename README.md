@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,165 | ⬇️ 1,516,960 |
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,285 | ⬇️ 482,270 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,748 | ⬇️ 7,365,368 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 616 | ⬇️ 7,278 |
-| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 865 | ⬇️ 15,446 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,189 | ⬇️ 1,516,960 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,293 | ⬇️ 482,270 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 15,754 | ⬇️ 7,365,368 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 619 | ⬇️ 7,278 |
+| [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) `text-to-audio` | ❤️ 869 | ⬇️ 15,446 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1) · `2026-09-17`
 - [JEPA-Anything: Learning Predictive Models across Different Worlds](http://arxiv.org/abs/2609.20800v1) · `2026-09-17`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-19 23:30 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-20 01:52 MSK</sub>
 
 <!--DIGEST:END-->
 
