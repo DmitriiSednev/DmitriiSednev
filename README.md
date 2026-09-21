@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,492 | ⬇️ 1,908,396 |
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 1,081 | ⬇️ 0 |
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,428 | ⬇️ 496,684 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 881 | ⬇️ 12,617 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 723 | ⬇️ 183 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,551 | ⬇️ 1,908,396 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 1,255 | ⬇️ 0 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 951 | ⬇️ 183 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,452 | ⬇️ 496,684 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 941 | ⬇️ 12,617 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1) · `2026-09-17`
-- [Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1) · `2026-09-17`
-- [Unifying Models of Intergroup Hostility in Online Discourse](http://arxiv.org/abs/2609.20808v1) · `2026-09-17`
-- [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1) · `2026-09-17`
-- [JEPA-Anything: Learning Predictive Models across Different Worlds](http://arxiv.org/abs/2609.20800v1) · `2026-09-17`
+- [Cross-sector generalization of accident-process role classification in occupational acc...](http://arxiv.org/abs/2609.22081v1) · `2026-09-18`
+- [Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and...](http://arxiv.org/abs/2609.22056v1) · `2026-09-18`
+- [An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Comple...](http://arxiv.org/abs/2609.22043v1) · `2026-09-18`
+- [QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Qu...](http://arxiv.org/abs/2609.22038v1) · `2026-09-18`
+- [DiaVLo: Diagnosing Behaviours of Vision-Language Models](http://arxiv.org/abs/2609.22008v1) · `2026-09-18`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-21 03:07 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-21 09:08 MSK</sub>
 
 <!--DIGEST:END-->
 
