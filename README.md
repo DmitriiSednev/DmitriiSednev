@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 1,721 | ⬇️ 0 |
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,728 | ⬇️ 2,227,879 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 1,427 | ⬇️ 6,523 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,117 | ⬇️ 18,394 |
-| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,524 | ⬇️ 512,120 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 1,896 | ⬇️ 0 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,751 | ⬇️ 2,227,879 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 1,505 | ⬇️ 6,523 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,158 | ⬇️ 18,394 |
+| [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) `image-text-to-text` | ❤️ 3,542 | ⬇️ 512,120 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Cross-sector generalization of accident-process role classification in occupational acc...](http://arxiv.org/abs/2609.22081v1) · `2026-09-18`
-- [Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and...](http://arxiv.org/abs/2609.22056v1) · `2026-09-18`
-- [An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Comple...](http://arxiv.org/abs/2609.22043v1) · `2026-09-18`
-- [QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Qu...](http://arxiv.org/abs/2609.22038v1) · `2026-09-18`
-- [DiaVLo: Diagnosing Behaviours of Vision-Language Models](http://arxiv.org/abs/2609.22008v1) · `2026-09-18`
+- [Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use](http://arxiv.org/abs/2609.24985v1) · `2026-09-21`
+- [onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token...](http://arxiv.org/abs/2609.24983v1) · `2026-09-21`
+- [Harness-Zero: Harness Distillation via Agent-as-Harness](http://arxiv.org/abs/2609.24974v1) · `2026-09-21`
+- [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](http://arxiv.org/abs/2609.24972v1) · `2026-09-21`
+- [DolphinBench: Mapping the Pareto Frontier of Agent Memory](http://arxiv.org/abs/2609.24971v1) · `2026-09-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 02:11 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-22 07:40 MSK</sub>
 
 <!--DIGEST:END-->
 
