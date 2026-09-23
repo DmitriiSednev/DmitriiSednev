@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 2,539 | ⬇️ 0 |
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,881 | ⬇️ 2,569,604 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 1,794 | ⬇️ 16,242 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,383 | ⬇️ 30,627 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,098 | ⬇️ 182,313 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 2,661 | ⬇️ 0 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 1,839 | ⬇️ 16,242 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,900 | ⬇️ 2,569,604 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,424 | ⬇️ 30,627 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,196 | ⬇️ 182,313 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use](http://arxiv.org/abs/2609.24985v1) · `2026-09-21`
-- [onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token...](http://arxiv.org/abs/2609.24983v1) · `2026-09-21`
-- [Harness-Zero: Harness Distillation via Agent-as-Harness](http://arxiv.org/abs/2609.24974v1) · `2026-09-21`
-- [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](http://arxiv.org/abs/2609.24972v1) · `2026-09-21`
-- [DolphinBench: Mapping the Pareto Frontier of Agent Memory](http://arxiv.org/abs/2609.24971v1) · `2026-09-21`
+- [Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffus...](http://arxiv.org/abs/2609.26796v1) · `2026-09-22`
+- [Agensh: Scaling Organizational Intelligence to 1,024 Agents](http://arxiv.org/abs/2609.26781v1) · `2026-09-22`
+- [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](http://arxiv.org/abs/2609.26780v1) · `2026-09-22`
+- [Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning](http://arxiv.org/abs/2609.26704v1) · `2026-09-22`
+- [Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Ev...](http://arxiv.org/abs/2609.26693v1) · `2026-09-22`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-23 03:17 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-23 08:49 MSK</sub>
 
 <!--DIGEST:END-->
 
