@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 3,090 | ⬇️ 0 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,021 | ⬇️ 28,407 |
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,951 | ⬇️ 2,815,979 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,576 | ⬇️ 39,009 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,429 | ⬇️ 350,678 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 3,152 | ⬇️ 0 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,064 | ⬇️ 28,407 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 1,961 | ⬇️ 2,815,979 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,628 | ⬇️ 39,009 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,470 | ⬇️ 350,678 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffus...](http://arxiv.org/abs/2609.26796v1) · `2026-09-22`
-- [Agensh: Scaling Organizational Intelligence to 1,024 Agents](http://arxiv.org/abs/2609.26781v1) · `2026-09-22`
-- [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](http://arxiv.org/abs/2609.26780v1) · `2026-09-22`
-- [Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning](http://arxiv.org/abs/2609.26704v1) · `2026-09-22`
-- [Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Ev...](http://arxiv.org/abs/2609.26693v1) · `2026-09-22`
+- [Contrastive Learning for Authorship Verification](http://arxiv.org/abs/2609.28471v1) · `2026-09-23`
+- [Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark](http://arxiv.org/abs/2609.28449v1) · `2026-09-23`
+- [Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning](http://arxiv.org/abs/2609.28442v1) · `2026-09-23`
+- [Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17...](http://arxiv.org/abs/2609.28430v1) · `2026-09-23`
+- [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](http://arxiv.org/abs/2609.28416v1) · `2026-09-23`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-24 02:35 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-24 07:33 MSK</sub>
 
 <!--DIGEST:END-->
 
