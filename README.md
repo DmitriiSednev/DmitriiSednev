@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 3,410 | ⬇️ 0 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,205 | ⬇️ 37,618 |
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 2,041 | ⬇️ 2,991,233 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,635 | ⬇️ 575,697 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,647 | ⬇️ 41,923 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 3,469 | ⬇️ 0 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,234 | ⬇️ 37,618 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,671 | ⬇️ 575,697 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 2,051 | ⬇️ 2,991,233 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,649 | ⬇️ 41,923 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [CORDIAL: Calibrating Ordinal LLM Outputs from Few Labels](http://arxiv.org/abs/2609.29807v1) · `2026-09-24`
-- [Learning to Ideate for Scientific Impact](http://arxiv.org/abs/2609.29802v1) · `2026-09-24`
-- [Adaptive Fisher-Whitened Cross-Covariance for Low-Resource Speech Recognition](http://arxiv.org/abs/2609.29800v1) · `2026-09-24`
-- [Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent...](http://arxiv.org/abs/2609.29798v1) · `2026-09-24`
-- [TimeBraid: Unifying Time Series and Language for Understanding and Forecasting](http://arxiv.org/abs/2609.29792v1) · `2026-09-24`
+- [Agentic Detection of Online Conspiracies](http://arxiv.org/abs/2609.30250v1) · `2026-09-24`
+- [JevOut: Natural Context Can Flip Decision Models](http://arxiv.org/abs/2609.30243v1) · `2026-09-24`
+- [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](http://arxiv.org/abs/2609.30238v1) · `2026-09-24`
+- [To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech](http://arxiv.org/abs/2609.30227v1) · `2026-09-24`
+- [PoEM: Predicting RL Outcomes from Existing Policies](http://arxiv.org/abs/2609.30226v1) · `2026-09-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-25 04:23 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-25 10:38 MSK</sub>
 
 <!--DIGEST:END-->
 
