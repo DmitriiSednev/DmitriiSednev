@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 3,381 | ⬇️ 0 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,182 | ⬇️ 37,618 |
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 2,034 | ⬇️ 2,991,233 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,620 | ⬇️ 575,697 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,646 | ⬇️ 41,923 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 3,410 | ⬇️ 0 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,205 | ⬇️ 37,618 |
+| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 2,041 | ⬇️ 2,991,233 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,635 | ⬇️ 575,697 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,647 | ⬇️ 41,923 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Contrastive Learning for Authorship Verification](http://arxiv.org/abs/2609.28471v1) · `2026-09-23`
-- [Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark](http://arxiv.org/abs/2609.28449v1) · `2026-09-23`
-- [Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning](http://arxiv.org/abs/2609.28442v1) · `2026-09-23`
-- [Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17...](http://arxiv.org/abs/2609.28430v1) · `2026-09-23`
-- [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](http://arxiv.org/abs/2609.28416v1) · `2026-09-23`
+- [CORDIAL: Calibrating Ordinal LLM Outputs from Few Labels](http://arxiv.org/abs/2609.29807v1) · `2026-09-24`
+- [Learning to Ideate for Scientific Impact](http://arxiv.org/abs/2609.29802v1) · `2026-09-24`
+- [Adaptive Fisher-Whitened Cross-Covariance for Low-Resource Speech Recognition](http://arxiv.org/abs/2609.29800v1) · `2026-09-24`
+- [Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent...](http://arxiv.org/abs/2609.29798v1) · `2026-09-24`
+- [TimeBraid: Unifying Time Series and Language for Understanding and Forecasting](http://arxiv.org/abs/2609.29792v1) · `2026-09-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-25 01:13 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-25 04:23 MSK</sub>
 
 <!--DIGEST:END-->
 
