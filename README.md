@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 3,902 | ⬇️ 0 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,400 | ⬇️ 48,361 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,938 | ⬇️ 876,673 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,726 | ⬇️ 43,947 |
-| [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) `text-generation` | ❤️ 2,139 | ⬇️ 3,247,527 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 3,950 | ⬇️ 0 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,422 | ⬇️ 48,361 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 1,978 | ⬇️ 876,673 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,744 | ⬇️ 43,947 |
+| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 851 | ⬇️ 7,859 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech](http://arxiv.org/abs/2609.30227v1) · `2026-09-24`
 - [PoEM: Predicting RL Outcomes from Existing Policies](http://arxiv.org/abs/2609.30226v1) · `2026-09-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-27 04:18 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-27 11:00 MSK</sub>
 
 <!--DIGEST:END-->
 
