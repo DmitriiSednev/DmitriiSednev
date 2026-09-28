@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,088 | ⬇️ 0 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,080 | ⬇️ 964,220 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,489 | ⬇️ 52,804 |
-| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,034 | ⬇️ 19,434 |
-| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,781 | ⬇️ 45,028 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,149 | ⬇️ 0 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,119 | ⬇️ 964,220 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,516 | ⬇️ 52,804 |
+| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,236 | ⬇️ 19,434 |
+| [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) `text-generation` | ❤️ 1,786 | ⬇️ 45,028 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Agentic Detection of Online Conspiracies](http://arxiv.org/abs/2609.30250v1) · `2026-09-24`
-- [JevOut: Natural Context Can Flip Decision Models](http://arxiv.org/abs/2609.30243v1) · `2026-09-24`
-- [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](http://arxiv.org/abs/2609.30238v1) · `2026-09-24`
-- [To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech](http://arxiv.org/abs/2609.30227v1) · `2026-09-24`
-- [PoEM: Predicting RL Outcomes from Existing Policies](http://arxiv.org/abs/2609.30226v1) · `2026-09-24`
+- [Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves...](http://arxiv.org/abs/2609.31619v1) · `2026-09-25`
+- [User Model Extraction via Belief Self-Distillation](http://arxiv.org/abs/2609.31603v1) · `2026-09-25`
+- [Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not...](http://arxiv.org/abs/2609.31587v1) · `2026-09-25`
+- [Strategically Diverse Sampling for Self-Training](http://arxiv.org/abs/2609.31571v1) · `2026-09-25`
+- [MexHat: A Dataset for Hate Speech Detection in Mexican Spanish Videos](http://arxiv.org/abs/2609.31553v1) · `2026-09-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-28 03:32 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-28 09:39 MSK</sub>
 
 <!--DIGEST:END-->
 
