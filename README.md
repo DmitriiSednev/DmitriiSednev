@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,539 | ⬇️ 0 |
-| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,553 | ⬇️ 23,674 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,462 | ⬇️ 1,152,523 |
-| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 893 | ⬇️ 30,354 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,670 | ⬇️ 64,362 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,593 | ⬇️ 0 |
+| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,575 | ⬇️ 26,749 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,497 | ⬇️ 1,232,685 |
+| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 976 | ⬇️ 30,383 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,689 | ⬇️ 70,687 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](http://arxiv.org/abs/2609.38155v1) · `2026-09-29`
 - [Pretraining Latent Information Feedback Transformers with Teacher Supervision](http://arxiv.org/abs/2609.38149v1) · `2026-09-29`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-30 09:35 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-30 16:34 MSK</sub>
 
 <!--DIGEST:END-->
 
