@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,493 | ⬇️ 0 |
-| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,480 | ⬇️ 23,674 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,414 | ⬇️ 1,152,523 |
-| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 864 | ⬇️ 30,354 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,651 | ⬇️ 64,362 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,507 | ⬇️ 0 |
+| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,514 | ⬇️ 23,674 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,435 | ⬇️ 1,152,523 |
+| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 868 | ⬇️ 30,354 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,656 | ⬇️ 64,362 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [How to Loop MoE: Flatten the Experts, Untie the Attention](http://arxiv.org/abs/2609.35751v1) · `2026-09-28`
 - [Towards Communication-Efficient Social Intelligence in Language Agents](http://arxiv.org/abs/2609.35749v1) · `2026-09-28`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-29 23:39 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-30 03:18 MSK</sub>
 
 <!--DIGEST:END-->
 
