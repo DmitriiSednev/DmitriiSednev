@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,507 | ⬇️ 0 |
-| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,514 | ⬇️ 23,674 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,435 | ⬇️ 1,152,523 |
-| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 868 | ⬇️ 30,354 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,656 | ⬇️ 64,362 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,539 | ⬇️ 0 |
+| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,553 | ⬇️ 23,674 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,462 | ⬇️ 1,152,523 |
+| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 893 | ⬇️ 30,354 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,670 | ⬇️ 64,362 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Telescopic Language Models](http://arxiv.org/abs/2609.35769v1) · `2026-09-28`
-- [Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales](http://arxiv.org/abs/2609.35765v1) · `2026-09-28`
-- [Scaling Long-Form Story Generation via Narrative State Tracking](http://arxiv.org/abs/2609.35759v1) · `2026-09-28`
-- [How to Loop MoE: Flatten the Experts, Untie the Attention](http://arxiv.org/abs/2609.35751v1) · `2026-09-28`
-- [Towards Communication-Efficient Social Intelligence in Language Agents](http://arxiv.org/abs/2609.35749v1) · `2026-09-28`
+- [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](http://arxiv.org/abs/2609.38177v1) · `2026-09-29`
+- [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](http://arxiv.org/abs/2609.38169v1) · `2026-09-29`
+- [EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](http://arxiv.org/abs/2609.38157v1) · `2026-09-29`
+- [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](http://arxiv.org/abs/2609.38155v1) · `2026-09-29`
+- [Pretraining Latent Information Feedback Transformers with Teacher Supervision](http://arxiv.org/abs/2609.38149v1) · `2026-09-29`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-09-30 03:18 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-09-30 09:35 MSK</sub>
 
 <!--DIGEST:END-->
 
