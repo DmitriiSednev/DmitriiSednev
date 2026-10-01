@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,979 | ⬇️ 26,749 |
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,722 | ⬇️ 0 |
-| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 1,121 | ⬇️ 30,383 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,611 | ⬇️ 1,232,685 |
-| [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) `text-ranking` | ❤️ 582 | ⬇️ 2,392 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,755 | ⬇️ 0 |
+| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 1,143 | ⬇️ 31,584 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,645 | ⬇️ 1,303,476 |
+| [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) `text-ranking` | ❤️ 584 | ⬇️ 2,720 |
+| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,748 | ⬇️ 76,938 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [MatLoom: Layered Text-to-Material Generation in a Compact Program Space](http://arxiv.org/abs/2609.40322v1) · `2026-09-30`
 - [Scaling Laws for Looped Mixture of Experts](http://arxiv.org/abs/2609.40316v1) · `2026-09-30`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-01 11:43 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-01 19:17 MSK</sub>
 
 <!--DIGEST:END-->
 
