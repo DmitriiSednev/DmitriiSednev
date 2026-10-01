@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,896 | ⬇️ 26,749 |
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,689 | ⬇️ 0 |
-| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 1,102 | ⬇️ 30,383 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,582 | ⬇️ 1,232,685 |
-| [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) `text-ranking` | ❤️ 574 | ⬇️ 2,392 |
+| [Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite) `automatic-speech-recognition` | ❤️ 1,979 | ⬇️ 26,749 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,722 | ⬇️ 0 |
+| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 1,121 | ⬇️ 30,383 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,611 | ⬇️ 1,232,685 |
+| [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) `text-ranking` | ❤️ 582 | ⬇️ 2,392 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](http://arxiv.org/abs/2609.38177v1) · `2026-09-29`
-- [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](http://arxiv.org/abs/2609.38169v1) · `2026-09-29`
-- [EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](http://arxiv.org/abs/2609.38157v1) · `2026-09-29`
-- [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](http://arxiv.org/abs/2609.38155v1) · `2026-09-29`
-- [Pretraining Latent Information Feedback Transformers with Teacher Supervision](http://arxiv.org/abs/2609.38149v1) · `2026-09-29`
+- [Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1) · `2026-09-30`
+- [Semifactual Credit-Augmented Policy Optimization](http://arxiv.org/abs/2609.40360v1) · `2026-09-30`
+- [EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](http://arxiv.org/abs/2609.40340v1) · `2026-09-30`
+- [MatLoom: Layered Text-to-Material Generation in a Compact Program Space](http://arxiv.org/abs/2609.40322v1) · `2026-09-30`
+- [Scaling Laws for Looped Mixture of Experts](http://arxiv.org/abs/2609.40316v1) · `2026-09-30`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-01 05:00 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-01 11:43 MSK</sub>
 
 <!--DIGEST:END-->
 
