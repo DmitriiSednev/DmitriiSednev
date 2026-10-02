@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,865 | ⬇️ 0 |
-| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 1,227 | ⬇️ 31,584 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,712 | ⬇️ 1,303,476 |
-| [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) `text-to-image` | ❤️ 2,793 | ⬇️ 76,938 |
-| [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) `text-ranking` | ❤️ 625 | ⬇️ 2,720 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 4,880 | ⬇️ 0 |
+| [XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR) `image-text-to-text` | ❤️ 1,237 | ⬇️ 31,584 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 2,738 | ⬇️ 1,303,476 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 458 | ⬇️ 18 |
+| [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) `text-ranking` | ❤️ 629 | ⬇️ 2,720 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1) · `2026-09-30`
-- [Semifactual Credit-Augmented Policy Optimization](http://arxiv.org/abs/2609.40360v1) · `2026-09-30`
-- [EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](http://arxiv.org/abs/2609.40340v1) · `2026-09-30`
-- [MatLoom: Layered Text-to-Material Generation in a Compact Program Space](http://arxiv.org/abs/2609.40322v1) · `2026-09-30`
-- [Scaling Laws for Looped Mixture of Experts](http://arxiv.org/abs/2609.40316v1) · `2026-09-30`
+- [KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runti...](http://arxiv.org/abs/2610.02206v1) · `2026-10-01`
+- [ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research](http://arxiv.org/abs/2610.02202v1) · `2026-10-01`
+- [Hierarchical Continuous Diffusion Language Models](http://arxiv.org/abs/2610.02193v1) · `2026-10-01`
+- [Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair](http://arxiv.org/abs/2610.02173v1) · `2026-10-01`
+- [AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents](http://arxiv.org/abs/2610.02163v1) · `2026-10-01`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-02 04:33 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-02 11:22 MSK</sub>
 
 <!--DIGEST:END-->
 
