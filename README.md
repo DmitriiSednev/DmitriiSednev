@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,131 | ⬇️ 4,214 |
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 5,130 | ⬇️ 3,752 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,056 | ⬇️ 1,553,744 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 6,239 | ⬇️ 1,626,951 |
-| [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) `image-text-to-text` | ❤️ 407 | ⬇️ 6,372 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,179 | ⬇️ 4,214 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 5,154 | ⬇️ 3,752 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,108 | ⬇️ 1,553,744 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 6,281 | ⬇️ 1,626,951 |
+| [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) `image-text-to-text` | ❤️ 422 | ⬇️ 6,372 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair](http://arxiv.org/abs/2610.02173v1) · `2026-10-01`
 - [AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents](http://arxiv.org/abs/2610.02163v1) · `2026-10-01`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-04 20:26 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-05 00:14 MSK</sub>
 
 <!--DIGEST:END-->
 
