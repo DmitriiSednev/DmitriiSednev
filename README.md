@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,259 | ⬇️ 4,214 |
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 5,176 | ⬇️ 3,752 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,163 | ⬇️ 1,553,744 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 6,348 | ⬇️ 1,626,951 |
-| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 439 | ⬇️ 1,135 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,347 | ⬇️ 5,416 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 5,209 | ⬇️ 11,733 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,210 | ⬇️ 1,638,838 |
+| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 564 | ⬇️ 2,453 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 6,423 | ⬇️ 1,645,444 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [World Embedding Benchmark](http://arxiv.org/abs/2610.03632v1) · `2026-10-02`
 - [FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL...](http://arxiv.org/abs/2610.03625v1) · `2026-10-02`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-05 09:51 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-05 18:52 MSK</sub>
 
 <!--DIGEST:END-->
 
