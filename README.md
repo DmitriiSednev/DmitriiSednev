@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,515 | ⬇️ 5,416 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,273 | ⬇️ 1,638,838 |
-| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 5,244 | ⬇️ 11,733 |
-| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 633 | ⬇️ 2,453 |
-| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 654 | ⬇️ 1,278,569 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,558 | ⬇️ 7,255 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,327 | ⬇️ 1,721,760 |
+| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 822 | ⬇️ 1,525,286 |
+| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 661 | ⬇️ 4,138 |
+| [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) `text-classification` | ❤️ 5,260 | ⬇️ 20,386 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Verb-ICL: Rethinking In-Context Learning for Structured Prediction](http://arxiv.org/abs/2610.04725v1) · `2026-10-03`
-- [WNet: Discrete Wavelets Transform for Efficient Token Mixing](http://arxiv.org/abs/2610.04720v1) · `2026-10-03`
-- [Not Self-Decidable: LLMs Cannot Draw the Boundary of What an Agent Verifier Can Check](http://arxiv.org/abs/2610.04699v1) · `2026-10-03`
-- [Penumbra: Sample-Efficient Adversarial Search for Regulatory Obligations](http://arxiv.org/abs/2610.04693v1) · `2026-10-03`
-- [SepRQ : Self-Supervised Speech Mixture Representation Learning via Mask-Free, Multi-Sca...](http://arxiv.org/abs/2610.04690v1) · `2026-10-03`
+- [Base Models Can Reason By Taking a Cue From Training Data](http://arxiv.org/abs/2610.06851v1) · `2026-10-05`
+- [Recursive Video In-Context Learning for Agentic Robot](http://arxiv.org/abs/2610.06843v1) · `2026-10-05`
+- [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](http://arxiv.org/abs/2610.06830v1) · `2026-10-05`
+- [CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](http://arxiv.org/abs/2610.06829v1) · `2026-10-05`
+- [PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data](http://arxiv.org/abs/2610.06825v1) · `2026-10-05`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-06 05:52 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-06 13:04 MSK</sub>
 
 <!--DIGEST:END-->
 
