@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,664 | ⬇️ 7,255 |
-| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 969 | ⬇️ 1,525,286 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,415 | ⬇️ 1,721,760 |
-| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 707 | ⬇️ 4,138 |
-| [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) `image-text-to-text` | ❤️ 586 | ⬇️ 10,638 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,679 | ⬇️ 7,255 |
+| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 976 | ⬇️ 1,525,286 |
+| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 712 | ⬇️ 4,138 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,430 | ⬇️ 1,721,760 |
+| [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) `image-text-to-text` | ❤️ 592 | ⬇️ 10,638 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](http://arxiv.org/abs/2610.06829v1) · `2026-10-05`
 - [PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data](http://arxiv.org/abs/2610.06825v1) · `2026-10-05`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-07 00:34 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-07 04:24 MSK</sub>
 
 <!--DIGEST:END-->
 
