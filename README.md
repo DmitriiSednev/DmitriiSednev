@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,679 | ⬇️ 7,255 |
-| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 976 | ⬇️ 1,525,286 |
-| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 712 | ⬇️ 4,138 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,430 | ⬇️ 1,721,760 |
-| [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) `image-text-to-text` | ❤️ 592 | ⬇️ 10,638 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,728 | ⬇️ 7,255 |
+| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 1,207 | ⬇️ 1,525,286 |
+| [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide) `text-classification` | ❤️ 872 | ⬇️ 854,574 |
+| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 741 | ⬇️ 4,138 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 688 | ⬇️ 364 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Base Models Can Reason By Taking a Cue From Training Data](http://arxiv.org/abs/2610.06851v1) · `2026-10-05`
-- [Recursive Video In-Context Learning for Agentic Robot](http://arxiv.org/abs/2610.06843v1) · `2026-10-05`
-- [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](http://arxiv.org/abs/2610.06830v1) · `2026-10-05`
-- [CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](http://arxiv.org/abs/2610.06829v1) · `2026-10-05`
-- [PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data](http://arxiv.org/abs/2610.06825v1) · `2026-10-05`
+- [IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](http://arxiv.org/abs/2610.08781v1) · `2026-10-06`
+- [Sherpa: Teaching LLMs to Teach Adaptively](http://arxiv.org/abs/2610.08778v1) · `2026-10-06`
+- [AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](http://arxiv.org/abs/2610.08773v1) · `2026-10-06`
+- [The Missing Minimal Pair: Stereotype Evaluation in LLMs](http://arxiv.org/abs/2610.08747v1) · `2026-10-06`
+- [Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling](http://arxiv.org/abs/2610.08738v1) · `2026-10-06`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-07 04:24 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-07 11:32 MSK</sub>
 
 <!--DIGEST:END-->
 
