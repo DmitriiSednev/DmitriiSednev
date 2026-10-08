@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 2,373 | ⬇️ 1,529,210 |
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,855 | ⬇️ 9,513 |
-| [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide) `text-classification` | ❤️ 1,526 | ⬇️ 895,867 |
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 1,067 | ⬇️ 7,562 |
-| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 791 | ⬇️ 5,775 |
+| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 2,735 | ⬇️ 1,533,034 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,868 | ⬇️ 10,874 |
+| [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide) `text-classification` | ❤️ 1,711 | ⬇️ 903,866 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 1,130 | ⬇️ 21,148 |
+| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 803 | ⬇️ 6,777 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models](http://arxiv.org/abs/2610.10508v1) · `2026-10-07`
 - [Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation o...](http://arxiv.org/abs/2610.10506v1) · `2026-10-07`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-08 11:48 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-08 19:21 MSK</sub>
 
 <!--DIGEST:END-->
 
