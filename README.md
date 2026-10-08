@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,804 | ⬇️ 9,513 |
-| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 1,862 | ⬇️ 1,529,210 |
-| [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide) `text-classification` | ❤️ 1,230 | ⬇️ 895,867 |
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 925 | ⬇️ 7,562 |
-| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 774 | ⬇️ 5,775 |
+| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 1,999 | ⬇️ 1,529,210 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,816 | ⬇️ 9,513 |
+| [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide) `text-classification` | ❤️ 1,331 | ⬇️ 895,867 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 961 | ⬇️ 7,562 |
+| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 775 | ⬇️ 5,775 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](http://arxiv.org/abs/2610.08781v1) · `2026-10-06`
-- [Sherpa: Teaching LLMs to Teach Adaptively](http://arxiv.org/abs/2610.08778v1) · `2026-10-06`
-- [AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](http://arxiv.org/abs/2610.08773v1) · `2026-10-06`
-- [The Missing Minimal Pair: Stereotype Evaluation in LLMs](http://arxiv.org/abs/2610.08747v1) · `2026-10-06`
-- [Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling](http://arxiv.org/abs/2610.08738v1) · `2026-10-06`
+- [Itgan at NADI 2026 shared task: Parameter-Efficient Whisper Adaptation for Robust, Mixe...](http://arxiv.org/abs/2610.09934v1) · `2026-10-07`
+- [Inverting Multi-Vector Visual Document Indices](http://arxiv.org/abs/2610.09920v1) · `2026-10-07`
+- [Constrained-Action AI Remediation for SIEM/XDR via a NeMo-Guardrails Proxy](http://arxiv.org/abs/2610.09906v1) · `2026-10-07`
+- [LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](http://arxiv.org/abs/2610.09872v1) · `2026-10-07`
+- [Training Advisors for LLM Agents from Task Outcomes](http://arxiv.org/abs/2610.09858v1) · `2026-10-07`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-08 00:55 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-08 04:47 MSK</sub>
 
 <!--DIGEST:END-->
 
