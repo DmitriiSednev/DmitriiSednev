@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 3,213 | ⬇️ 1,533,034 |
-| [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide) `text-classification` | ❤️ 2,004 | ⬇️ 903,866 |
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,905 | ⬇️ 10,874 |
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 1,252 | ⬇️ 21,148 |
-| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 822 | ⬇️ 6,777 |
+| [autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL) `image-text-to-text` | ❤️ 3,467 | ⬇️ 1,536,533 |
+| [autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide) `text-classification` | ❤️ 2,101 | ⬇️ 909,755 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 1,294 | ⬇️ 29,185 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 1,922 | ⬇️ 12,066 |
+| [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) `text-generation` | ❤️ 833 | ⬇️ 8,474 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills](http://arxiv.org/abs/2610.12403v1) · `2026-10-08`
 - [SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2610.12402v1) · `2026-10-08`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-09 11:51 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-09 19:05 MSK</sub>
 
 <!--DIGEST:END-->
 
