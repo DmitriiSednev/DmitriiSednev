@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 1,696 | ⬇️ 98,829 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,077 | ⬇️ 37,647 |
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 2,027 | ⬇️ 14,351 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) `text-to-image` | ❤️ 3,981 | ⬇️ 2,188,658 |
-| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 539 | ⬇️ 4,702 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 1,776 | ⬇️ 98,829 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,158 | ⬇️ 37,647 |
+| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 2,042 | ⬇️ 14,351 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,017 | ⬇️ 2,188,658 |
+| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 569 | ⬇️ 4,702 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?](http://arxiv.org/abs/2610.12427v1) · `2026-10-08`
-- [WOVEN: Weaving Visual World Modeling into Multimodal LLMs](http://arxiv.org/abs/2610.12417v1) · `2026-10-08`
-- [Predicting Alignment Generalization with Value Representations](http://arxiv.org/abs/2610.12410v1) · `2026-10-08`
-- [ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills](http://arxiv.org/abs/2610.12403v1) · `2026-10-08`
-- [SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2610.12402v1) · `2026-10-08`
+- [RSI-Anything: Unlocking Recursive Self-Improvement with World Models](http://arxiv.org/abs/2610.13912v1) · `2026-10-09`
+- [When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors](http://arxiv.org/abs/2610.13910v1) · `2026-10-09`
+- [Structural Automata for Neural Semantic Parsing](http://arxiv.org/abs/2610.13896v1) · `2026-10-09`
+- [Task Context Shapes Component Roles in Language Models](http://arxiv.org/abs/2610.13895v1) · `2026-10-09`
+- [Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Stu...](http://arxiv.org/abs/2610.13840v1) · `2026-10-09`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-12 03:25 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-12 10:14 MSK</sub>
 
 <!--DIGEST:END-->
 
