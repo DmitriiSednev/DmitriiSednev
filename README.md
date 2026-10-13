@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 1,989 | ⬇️ 115,763 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,362 | ⬇️ 46,070 |
-| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 663 | ⬇️ 6,787 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,130 | ⬇️ 2,188,658 |
-| [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) `image-text-to-text` | ❤️ 2,106 | ⬇️ 15,064 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,056 | ⬇️ 124,930 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,426 | ⬇️ 54,039 |
+| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 684 | ⬇️ 9,665 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,179 | ⬇️ 2,247,929 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 7,589 | ⬇️ 1,724,548 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Task Context Shapes Component Roles in Language Models](http://arxiv.org/abs/2610.13895v1) · `2026-10-09`
 - [Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Stu...](http://arxiv.org/abs/2610.13840v1) · `2026-10-09`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-13 10:36 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-13 18:51 MSK</sub>
 
 <!--DIGEST:END-->
 
