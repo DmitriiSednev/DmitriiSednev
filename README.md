@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,218 | ⬇️ 135,175 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,603 | ⬇️ 65,616 |
-| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 755 | ⬇️ 12,704 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,281 | ⬇️ 2,315,771 |
-| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 541 | ⬇️ 4,157 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,242 | ⬇️ 135,175 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,618 | ⬇️ 65,616 |
+| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 767 | ⬇️ 12,704 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,290 | ⬇️ 2,315,771 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 580 | ⬇️ 4,157 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Hybrid Reasoning Agents](http://arxiv.org/abs/2610.18861v1) · `2026-10-13`
 - [The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Re...](http://arxiv.org/abs/2610.18845v1) · `2026-10-13`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-14 20:01 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-14 23:34 MSK</sub>
 
 <!--DIGEST:END-->
 
