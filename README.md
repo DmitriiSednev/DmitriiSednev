@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,107 | ⬇️ 124,930 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,518 | ⬇️ 54,039 |
-| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 709 | ⬇️ 9,665 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,204 | ⬇️ 2,247,929 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 7,646 | ⬇️ 1,724,548 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,122 | ⬇️ 124,930 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,544 | ⬇️ 54,039 |
+| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 720 | ⬇️ 9,665 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,224 | ⬇️ 2,247,929 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 488 | ⬇️ 630 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [RSI-Anything: Unlocking Recursive Self-Improvement with World Models](http://arxiv.org/abs/2610.13912v1) · `2026-10-09`
-- [When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors](http://arxiv.org/abs/2610.13910v1) · `2026-10-09`
-- [Structural Automata for Neural Semantic Parsing](http://arxiv.org/abs/2610.13896v1) · `2026-10-09`
-- [Task Context Shapes Component Roles in Language Models](http://arxiv.org/abs/2610.13895v1) · `2026-10-09`
-- [Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Stu...](http://arxiv.org/abs/2610.13840v1) · `2026-10-09`
+- [ChunkAct: Action Chunking for Agentic Robotics](http://arxiv.org/abs/2610.18874v1) · `2026-10-13`
+- [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](http://arxiv.org/abs/2610.18868v1) · `2026-10-13`
+- [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](http://arxiv.org/abs/2610.18862v1) · `2026-10-13`
+- [Hybrid Reasoning Agents](http://arxiv.org/abs/2610.18861v1) · `2026-10-13`
+- [The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Re...](http://arxiv.org/abs/2610.18845v1) · `2026-10-13`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-14 04:06 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-14 09:04 MSK</sub>
 
 <!--DIGEST:END-->
 
