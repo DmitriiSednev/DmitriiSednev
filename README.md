@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,276 | ⬇️ 135,175 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,645 | ⬇️ 65,616 |
-| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 782 | ⬇️ 12,704 |
-| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 654 | ⬇️ 4,157 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,315 | ⬇️ 2,315,771 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,313 | ⬇️ 144,280 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,664 | ⬇️ 75,253 |
+| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 801 | ⬇️ 12,704 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 716 | ⬇️ 4,157 |
+| [autotrust/JEV-35B](https://huggingface.co/autotrust/JEV-35B) `text-classification` | ❤️ 856 | ⬇️ 27,970 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Scaling Discovery Requires Forgetting](http://arxiv.org/abs/2610.20563v1) · `2026-10-14`
 - [PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scena...](http://arxiv.org/abs/2610.20548v1) · `2026-10-14`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-15 07:23 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-15 12:45 MSK</sub>
 
 <!--DIGEST:END-->
 
