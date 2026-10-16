@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,403 | ⬇️ 144,280 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,734 | ⬇️ 75,253 |
-| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 880 | ⬇️ 15,315 |
-| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 794 | ⬇️ 9,278 |
-| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,388 | ⬇️ 2,415,278 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,431 | ⬇️ 144,280 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,766 | ⬇️ 75,253 |
+| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 897 | ⬇️ 15,315 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 804 | ⬇️ 9,278 |
+| [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) `text-to-image` | ❤️ 4,399 | ⬇️ 2,415,278 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Latent Compaction with Test-Time Training](http://arxiv.org/abs/2610.20582v1) · `2026-10-14`
-- [One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Age...](http://arxiv.org/abs/2610.20576v1) · `2026-10-14`
-- [Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese L...](http://arxiv.org/abs/2610.20570v1) · `2026-10-14`
-- [Scaling Discovery Requires Forgetting](http://arxiv.org/abs/2610.20563v1) · `2026-10-14`
-- [PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scena...](http://arxiv.org/abs/2610.20548v1) · `2026-10-14`
+- [OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling](http://arxiv.org/abs/2610.22355v1) · `2026-10-15`
+- [FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1) · `2026-10-15`
+- [MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](http://arxiv.org/abs/2610.22344v1) · `2026-10-15`
+- [Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Langu...](http://arxiv.org/abs/2610.22333v1) · `2026-10-15`
+- [Twice Upon a Time: Complementary Representations for Time-Series Reasoning](http://arxiv.org/abs/2610.22327v1) · `2026-10-15`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-16 04:10 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-16 10:01 MSK</sub>
 
 <!--DIGEST:END-->
 
