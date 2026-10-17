@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,517 | ⬇️ 151,258 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,836 | ⬇️ 85,612 |
-| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 853 | ⬇️ 17,553 |
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 561 | ⬇️ 6,158 |
-| [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) `text-to-image` | ❤️ 947 | ⬇️ 17,421 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,537 | ⬇️ 158,490 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,849 | ⬇️ 95,870 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 862 | ⬇️ 17,553 |
+| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 572 | ⬇️ 8,193 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 8,126 | ⬇️ 1,993,003 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Langu...](http://arxiv.org/abs/2610.22333v1) · `2026-10-15`
 - [Twice Upon a Time: Complementary Representations for Time-Series Reasoning](http://arxiv.org/abs/2610.22327v1) · `2026-10-15`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 07:10 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 12:10 MSK</sub>
 
 <!--DIGEST:END-->
 
