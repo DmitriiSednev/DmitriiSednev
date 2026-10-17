@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,560 | ⬇️ 158,490 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,870 | ⬇️ 95,870 |
-| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 877 | ⬇️ 36,252 |
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 585 | ⬇️ 8,193 |
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 554 | ⬇️ 0 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,573 | ⬇️ 158,490 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,877 | ⬇️ 95,870 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 762 | ⬇️ 0 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 888 | ⬇️ 36,252 |
+| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 602 | ⬇️ 8,193 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Langu...](http://arxiv.org/abs/2610.22333v1) · `2026-10-15`
 - [Twice Upon a Time: Complementary Representations for Time-Series Reasoning](http://arxiv.org/abs/2610.22327v1) · `2026-10-15`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 16:36 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-17 20:00 MSK</sub>
 
 <!--DIGEST:END-->
 
