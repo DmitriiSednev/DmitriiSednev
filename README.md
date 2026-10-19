@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 1,338 | ⬇️ 10,233 |
-| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 1,008 | ⬇️ 57,935 |
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,662 | ⬇️ 164,339 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,947 | ⬇️ 103,709 |
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 694 | ⬇️ 9,620 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 1,422 | ⬇️ 10,233 |
+| [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) `image-text-to-text` | ❤️ 1,019 | ⬇️ 57,935 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,673 | ⬇️ 164,339 |
+| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 709 | ⬇️ 9,620 |
+| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 1,955 | ⬇️ 103,709 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling](http://arxiv.org/abs/2610.22355v1) · `2026-10-15`
-- [FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1) · `2026-10-15`
-- [MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](http://arxiv.org/abs/2610.22344v1) · `2026-10-15`
-- [Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Langu...](http://arxiv.org/abs/2610.22333v1) · `2026-10-15`
-- [Twice Upon a Time: Complementary Representations for Time-Series Reasoning](http://arxiv.org/abs/2610.22327v1) · `2026-10-15`
+- [Behavioral Couplings: From Formation to Behavioral Emergence in Language Models](http://arxiv.org/abs/2610.23847v1) · `2026-10-16`
+- [AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](http://arxiv.org/abs/2610.23845v1) · `2026-10-16`
+- [DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses](http://arxiv.org/abs/2610.23839v1) · `2026-10-16`
+- [Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation](http://arxiv.org/abs/2610.23831v1) · `2026-10-16`
+- [Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding](http://arxiv.org/abs/2610.23818v1) · `2026-10-16`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-19 04:03 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-19 09:01 MSK</sub>
 
 <!--DIGEST:END-->
 
