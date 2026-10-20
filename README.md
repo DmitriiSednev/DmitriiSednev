@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 1,864 | ⬇️ 27,737 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,042 | ⬇️ 439,528 |
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 805 | ⬇️ 13,495 |
-| [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) `text-generation` | ❤️ 2,016 | ⬇️ 115,341 |
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,749 | ⬇️ 172,474 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 1,910 | ⬇️ 27,737 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,069 | ⬇️ 439,528 |
+| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 821 | ⬇️ 13,495 |
+| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 603 | ⬇️ 2,592 |
+| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,758 | ⬇️ 172,474 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [LatComm: Reusable Context Compression for Latent Communication between Large Language M...](http://arxiv.org/abs/2610.26840v1) · `2026-10-19`
 - [Competing Learning in Hybrid Architectures](http://arxiv.org/abs/2610.26830v1) · `2026-10-19`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-20 17:55 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-20 22:08 MSK</sub>
 
 <!--DIGEST:END-->
 
