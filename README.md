@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 1,962 | ⬇️ 27,737 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,096 | ⬇️ 439,528 |
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 836 | ⬇️ 13,495 |
-| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 610 | ⬇️ 2,592 |
-| [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) `feature-extraction` | ❤️ 2,770 | ⬇️ 172,474 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,025 | ⬇️ 27,737 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,112 | ⬇️ 439,528 |
+| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 850 | ⬇️ 13,495 |
+| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 613 | ⬇️ 2,592 |
+| [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein) `image-to-image` | ❤️ 574 | ⬇️ 78,897 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1) · `2026-10-19`
-- [Can It Actually Work? Synthesizing Functional CAD Mechanisms](http://arxiv.org/abs/2610.26861v1) · `2026-10-19`
-- [WeAct: Dynamic Weight Switching as Agent Actions](http://arxiv.org/abs/2610.26847v1) · `2026-10-19`
-- [LatComm: Reusable Context Compression for Latent Communication between Large Language M...](http://arxiv.org/abs/2610.26840v1) · `2026-10-19`
-- [Competing Learning in Hybrid Architectures](http://arxiv.org/abs/2610.26830v1) · `2026-10-19`
+- [NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classif...](http://arxiv.org/abs/2610.28616v1) · `2026-10-20`
+- [Benchmarking Arabic Dialects for Math Problems](http://arxiv.org/abs/2610.28607v1) · `2026-10-20`
+- [Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distil...](http://arxiv.org/abs/2610.28586v1) · `2026-10-20`
+- [Cache Engineering for Agents](http://arxiv.org/abs/2610.28577v1) · `2026-10-20`
+- [Large Flow Language Models](http://arxiv.org/abs/2610.28559v1) · `2026-10-20`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-21 04:29 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-21 10:27 MSK</sub>
 
 <!--DIGEST:END-->
 
