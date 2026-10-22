@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,169 | ⬇️ 42,122 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,190 | ⬇️ 490,447 |
-| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 637 | ⬇️ 2,891 |
-| [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein) `image-to-image` | ❤️ 601 | ⬇️ 92,604 |
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 888 | ⬇️ 15,274 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,225 | ⬇️ 42,122 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,216 | ⬇️ 490,447 |
+| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 643 | ⬇️ 2,891 |
+| [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein) `image-to-image` | ❤️ 611 | ⬇️ 92,604 |
+| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 896 | ⬇️ 15,274 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classif...](http://arxiv.org/abs/2610.28616v1) · `2026-10-20`
-- [Benchmarking Arabic Dialects for Math Problems](http://arxiv.org/abs/2610.28607v1) · `2026-10-20`
-- [Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distil...](http://arxiv.org/abs/2610.28586v1) · `2026-10-20`
-- [Cache Engineering for Agents](http://arxiv.org/abs/2610.28577v1) · `2026-10-20`
-- [Large Flow Language Models](http://arxiv.org/abs/2610.28559v1) · `2026-10-20`
+- [LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](http://arxiv.org/abs/2610.30132v1) · `2026-10-21`
+- [Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation](http://arxiv.org/abs/2610.30128v1) · `2026-10-21`
+- [Environment Duels: A Microcosm of LLM Co-Evolution](http://arxiv.org/abs/2610.30116v1) · `2026-10-21`
+- [Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research](http://arxiv.org/abs/2610.30113v1) · `2026-10-21`
+- [Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems ...](http://arxiv.org/abs/2610.30103v1) · `2026-10-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-22 04:25 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-22 10:27 MSK</sub>
 
 <!--DIGEST:END-->
 
