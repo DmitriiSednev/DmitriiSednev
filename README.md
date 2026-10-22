@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,148 | ⬇️ 42,122 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,183 | ⬇️ 490,447 |
-| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 635 | ⬇️ 2,891 |
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 885 | ⬇️ 15,274 |
-| [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein) `image-to-image` | ❤️ 598 | ⬇️ 92,604 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,169 | ⬇️ 42,122 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,190 | ⬇️ 490,447 |
+| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 637 | ⬇️ 2,891 |
+| [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein) `image-to-image` | ❤️ 601 | ⬇️ 92,604 |
+| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 888 | ⬇️ 15,274 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Cache Engineering for Agents](http://arxiv.org/abs/2610.28577v1) · `2026-10-20`
 - [Large Flow Language Models](http://arxiv.org/abs/2610.28559v1) · `2026-10-20`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-22 01:14 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-22 04:25 MSK</sub>
 
 <!--DIGEST:END-->
 
