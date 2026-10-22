@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,225 | ⬇️ 42,122 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,216 | ⬇️ 490,447 |
-| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 643 | ⬇️ 2,891 |
-| [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein) `image-to-image` | ❤️ 611 | ⬇️ 92,604 |
-| [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3) `text-to-speech` | ❤️ 896 | ⬇️ 15,274 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,286 | ⬇️ 51,911 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,248 | ⬇️ 512,524 |
+| [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) `image-text-to-text` | ❤️ 651 | ⬇️ 3,163 |
+| [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein) `image-to-image` | ❤️ 621 | ⬇️ 102,903 |
+| [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) `text-to-image` | ❤️ 551 | ⬇️ 6,890 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research](http://arxiv.org/abs/2610.30113v1) · `2026-10-21`
 - [Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems ...](http://arxiv.org/abs/2610.30103v1) · `2026-10-21`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-22 10:27 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-22 16:42 MSK</sub>
 
 <!--DIGEST:END-->
 
