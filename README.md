@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,424 | ⬇️ 51,911 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,326 | ⬇️ 512,524 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 586 | ⬇️ 420 |
-| [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) `text-to-image` | ❤️ 602 | ⬇️ 6,890 |
-| [OpenMOSS-Team/MOSS-Image-Base](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) `text-to-image` | ❤️ 500 | ⬇️ 5,013 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,483 | ⬇️ 57,715 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,349 | ⬇️ 534,837 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 616 | ⬇️ 1,904 |
+| [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) `text-to-image` | ❤️ 619 | ⬇️ 7,658 |
+| [OpenMOSS-Team/MOSS-Image-Base](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) `text-to-image` | ❤️ 510 | ⬇️ 5,618 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2](http://arxiv.org/abs/2610.31636v1) · `2026-10-22`
 - [Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading](http://arxiv.org/abs/2610.31620v1) · `2026-10-22`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-23 10:20 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-23 16:18 MSK</sub>
 
 <!--DIGEST:END-->
 
