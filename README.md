@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,363 | ⬇️ 51,911 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,307 | ⬇️ 512,524 |
-| [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) `text-to-image` | ❤️ 585 | ⬇️ 6,890 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 540 | ⬇️ 420 |
-| [OpenMOSS-Team/MOSS-Image-Base](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) `text-to-image` | ❤️ 489 | ⬇️ 5,013 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 2,424 | ⬇️ 51,911 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,326 | ⬇️ 512,524 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 586 | ⬇️ 420 |
+| [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) `text-to-image` | ❤️ 602 | ⬇️ 6,890 |
+| [OpenMOSS-Team/MOSS-Image-Base](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) `text-to-image` | ❤️ 500 | ⬇️ 5,013 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [When More Metadata Misleads: Probing Field-Level Grounding in LLM-Generated Museum Desc...](http://arxiv.org/abs/2610.31193v1) · `2026-10-22`
-- [Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge ...](http://arxiv.org/abs/2610.31172v1) · `2026-10-22`
-- [Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Rep...](http://arxiv.org/abs/2610.31158v1) · `2026-10-22`
-- [Prompt Sensitivity in Tool-Augmented Model Comparisons](http://arxiv.org/abs/2610.31148v1) · `2026-10-22`
-- [Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question ...](http://arxiv.org/abs/2610.31135v1) · `2026-10-22`
+- [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Te...](http://arxiv.org/abs/2610.31667v1) · `2026-10-22`
+- [Cost-Aware Abstention for LLM-Based IT Ticket Classification](http://arxiv.org/abs/2610.31657v1) · `2026-10-22`
+- [Low-Bit N-Gram Embeddings for Language Models](http://arxiv.org/abs/2610.31646v1) · `2026-10-22`
+- [Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2](http://arxiv.org/abs/2610.31636v1) · `2026-10-22`
+- [Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading](http://arxiv.org/abs/2610.31620v1) · `2026-10-22`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-23 04:23 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-23 10:20 MSK</sub>
 
 <!--DIGEST:END-->
 
