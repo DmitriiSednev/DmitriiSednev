@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,071 | ⬇️ 95,889 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 881 | ⬇️ 8,470 |
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 506 | ⬇️ 2,787 |
-| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 569 | ⬇️ 4,726 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,640 | ⬇️ 700,652 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,138 | ⬇️ 95,889 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 899 | ⬇️ 8,470 |
+| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 558 | ⬇️ 2,787 |
+| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 628 | ⬇️ 4,726 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,672 | ⬇️ 700,652 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structur...](http://arxiv.org/abs/2610.32921v1) · `2026-10-23`
 - [Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simula...](http://arxiv.org/abs/2610.32874v1) · `2026-10-23`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-26 13:57 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-26 20:15 MSK</sub>
 
 <!--DIGEST:END-->
 
