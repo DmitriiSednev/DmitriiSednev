@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,347 | ⬇️ 105,667 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 957 | ⬇️ 10,574 |
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 655 | ⬇️ 4,785 |
-| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 777 | ⬇️ 6,191 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,836 | ⬇️ 750,694 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,374 | ⬇️ 105,667 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 969 | ⬇️ 10,574 |
+| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 665 | ⬇️ 4,785 |
+| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 782 | ⬇️ 6,191 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,853 | ⬇️ 750,694 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models](http://arxiv.org/abs/2610.35804v1) · `2026-10-26`
 - [Quantifying Claim Smoothing by LLM Research Agents](http://arxiv.org/abs/2610.35793v1) · `2026-10-26`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-27 22:59 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-28 02:41 MSK</sub>
 
 <!--DIGEST:END-->
 
