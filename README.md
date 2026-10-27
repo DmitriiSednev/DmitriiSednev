@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,177 | ⬇️ 95,889 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 918 | ⬇️ 8,470 |
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 590 | ⬇️ 2,787 |
-| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 638 | ⬇️ 4,726 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,692 | ⬇️ 700,652 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,197 | ⬇️ 95,889 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 926 | ⬇️ 8,470 |
+| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 602 | ⬇️ 2,787 |
+| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 659 | ⬇️ 4,726 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,704 | ⬇️ 700,652 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1) · `2026-10-23`
-- [Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generati...](http://arxiv.org/abs/2610.32955v1) · `2026-10-23`
-- [Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model](http://arxiv.org/abs/2610.32933v1) · `2026-10-23`
-- [Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structur...](http://arxiv.org/abs/2610.32921v1) · `2026-10-23`
-- [Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simula...](http://arxiv.org/abs/2610.32874v1) · `2026-10-23`
+- [When Does GEPA Merge Help? A Mechanism-Level Diagnostic](http://arxiv.org/abs/2610.34027v1) · `2026-10-25`
+- [The Patient Is Always Right? Evaluating Sycophancy in Medical Diagnosis with Graded Pat...](http://arxiv.org/abs/2610.34013v1) · `2026-10-25`
+- [Reversible Pseudonymisation of Documents Sent to External LLMs: an Open Bilingual Bench...](http://arxiv.org/abs/2610.34012v1) · `2026-10-25`
+- ["High-Quality" Data for Early-Stage Instruction Tuning: An Empirical Study of Data Qual...](http://arxiv.org/abs/2610.33969v1) · `2026-10-25`
+- [Beyond Belief: Evaluating and Mitigating LLM Susceptibility to Misinformation](http://arxiv.org/abs/2610.33962v1) · `2026-10-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-27 01:34 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-27 04:58 MSK</sub>
 
 <!--DIGEST:END-->
 
