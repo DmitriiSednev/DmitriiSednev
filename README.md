@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,420 | ⬇️ 105,667 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 986 | ⬇️ 10,574 |
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 680 | ⬇️ 4,785 |
-| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 812 | ⬇️ 6,191 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,875 | ⬇️ 750,694 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 1,119 | ⬇️ 14,047 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,479 | ⬇️ 116,770 |
+| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 696 | ⬇️ 7,412 |
+| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 830 | ⬇️ 8,222 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,905 | ⬇️ 798,943 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Multi-State Linear Attention with Generalized Second-Order Routing](http://arxiv.org/abs/2610.37645v1) · `2026-10-27`
 - [Metacognitive Decoding: Efficient Inference for Diffusion Language Agents](http://arxiv.org/abs/2610.37642v1) · `2026-10-27`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-28 08:24 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-28 15:39 MSK</sub>
 
 <!--DIGEST:END-->
 
