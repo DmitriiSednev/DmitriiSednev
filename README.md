@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,374 | ⬇️ 105,667 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 969 | ⬇️ 10,574 |
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 665 | ⬇️ 4,785 |
-| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 782 | ⬇️ 6,191 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,853 | ⬇️ 750,694 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,420 | ⬇️ 105,667 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 986 | ⬇️ 10,574 |
+| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 680 | ⬇️ 4,785 |
+| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 812 | ⬇️ 6,191 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) `image-to-image` | ❤️ 1,875 | ⬇️ 750,694 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Center-of-Mass Interpretation of Evolution Strategies](http://arxiv.org/abs/2610.35865v1) · `2026-10-26`
-- [Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Base...](http://arxiv.org/abs/2610.35846v1) · `2026-10-26`
-- [Understanding Jev-Style System One Models: Does Structure Reduce Selection Bias?](http://arxiv.org/abs/2610.35826v1) · `2026-10-26`
-- [Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models](http://arxiv.org/abs/2610.35804v1) · `2026-10-26`
-- [Quantifying Claim Smoothing by LLM Research Agents](http://arxiv.org/abs/2610.35793v1) · `2026-10-26`
+- [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1) · `2026-10-27`
+- [GEPA-Curator: Curated Learning for Self Improving Agents](http://arxiv.org/abs/2610.37651v1) · `2026-10-27`
+- [Can LLMs Uncover Hidden Physical Laws through Free Exploration?](http://arxiv.org/abs/2610.37649v1) · `2026-10-27`
+- [Multi-State Linear Attention with Generalized Second-Order Routing](http://arxiv.org/abs/2610.37645v1) · `2026-10-27`
+- [Metacognitive Decoding: Efficient Inference for Diffusion Language Agents](http://arxiv.org/abs/2610.37642v1) · `2026-10-27`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-28 02:41 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-28 08:24 MSK</sub>
 
 <!--DIGEST:END-->
 
