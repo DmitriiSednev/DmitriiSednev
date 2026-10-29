@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,573 | ⬇️ 116,770 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 1,167 | ⬇️ 14,047 |
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 733 | ⬇️ 7,412 |
-| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 869 | ⬇️ 8,222 |
-| [MiniMaxAI/MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash) `image-text-to-text` | ❤️ 465 | ⬇️ 13,247 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,666 | ⬇️ 116,770 |
+| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 747 | ⬇️ 7,412 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 1,217 | ⬇️ 14,047 |
+| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 882 | ⬇️ 8,222 |
+| [tencent/Hy-SimulMT-30B-A3B-FP8](https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8) `translation` | ❤️ 451 | ⬇️ 165 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Multi-State Linear Attention with Generalized Second-Order Routing](http://arxiv.org/abs/2610.37645v1) · `2026-10-27`
 - [Metacognitive Decoding: Efficient Inference for Diffusion Language Agents](http://arxiv.org/abs/2610.37642v1) · `2026-10-27`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-29 05:21 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-29 12:47 MSK</sub>
 
 <!--DIGEST:END-->
 
