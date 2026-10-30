@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,783 | ⬇️ 131,062 |
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 777 | ⬇️ 9,655 |
-| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 1,244 | ⬇️ 16,598 |
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 485 | ⬇️ 15,885 |
-| [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) `text-generation` | ❤️ 908 | ⬇️ 10,163 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 3,909 | ⬇️ 131,062 |
+| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 782 | ⬇️ 9,655 |
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 506 | ⬇️ 15,885 |
+| [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) `text-generation` | ❤️ 1,248 | ⬇️ 16,598 |
+| [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF) `text-generation` | ❤️ 486 | ⬇️ 1,578,937 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1) · `2026-10-27`
-- [GEPA-Curator: Curated Learning for Self Improving Agents](http://arxiv.org/abs/2610.37651v1) · `2026-10-27`
-- [Can LLMs Uncover Hidden Physical Laws through Free Exploration?](http://arxiv.org/abs/2610.37649v1) · `2026-10-27`
-- [Multi-State Linear Attention with Generalized Second-Order Routing](http://arxiv.org/abs/2610.37645v1) · `2026-10-27`
-- [Metacognitive Decoding: Efficient Inference for Diffusion Language Agents](http://arxiv.org/abs/2610.37642v1) · `2026-10-27`
+- [Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1) · `2026-10-29`
+- [ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](http://arxiv.org/abs/2610.40627v1) · `2026-10-29`
+- [Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical H...](http://arxiv.org/abs/2610.40619v1) · `2026-10-29`
+- [TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races](http://arxiv.org/abs/2610.40613v1) · `2026-10-29`
+- [When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in...](http://arxiv.org/abs/2610.40611v1) · `2026-10-29`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-10-30 04:51 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-10-30 11:29 MSK</sub>
 
 <!--DIGEST:END-->
 
