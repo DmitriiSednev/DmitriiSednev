@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 935 | ⬇️ 13,832 |
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,145 | ⬇️ 156,373 |
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 646 | ⬇️ 32,933 |
-| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 560 | ⬇️ 24,357 |
-| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,414 | ⬇️ 4,576 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,186 | ⬇️ 170,353 |
+| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 961 | ⬇️ 15,795 |
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 664 | ⬇️ 37,568 |
+| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 577 | ⬇️ 29,364 |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,427 | ⬇️ 4,576 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races](http://arxiv.org/abs/2610.40613v1) · `2026-10-29`
 - [When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in...](http://arxiv.org/abs/2610.40611v1) · `2026-10-29`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-01 12:06 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-01 18:57 MSK</sub>
 
 <!--DIGEST:END-->
 
