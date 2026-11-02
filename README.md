@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,302 | ⬇️ 170,353 |
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 695 | ⬇️ 37,568 |
-| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 597 | ⬇️ 29,364 |
-| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,451 | ⬇️ 4,576 |
-| [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) `text-generation` | ❤️ 970 | ⬇️ 15,795 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,426 | ⬇️ 170,353 |
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 741 | ⬇️ 37,568 |
+| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 623 | ⬇️ 29,364 |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,466 | ⬇️ 4,576 |
+| [baidu/Unlimited-OCR-2](https://huggingface.co/baidu/Unlimited-OCR-2) `image-text-to-text` | ❤️ 537 | ⬇️ 109,519 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1) · `2026-10-29`
-- [ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](http://arxiv.org/abs/2610.40627v1) · `2026-10-29`
-- [Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical H...](http://arxiv.org/abs/2610.40619v1) · `2026-10-29`
-- [TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races](http://arxiv.org/abs/2610.40613v1) · `2026-10-29`
-- [When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in...](http://arxiv.org/abs/2610.40611v1) · `2026-10-29`
+- [Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1) · `2026-10-30`
+- [Flide: Accelerating Decision Inference with Exact State Forking](http://arxiv.org/abs/2610.42148v1) · `2026-10-30`
+- [DecisionRank: On-Policy Distillation for Decision-Model Rerankers](http://arxiv.org/abs/2610.42128v1) · `2026-10-30`
+- [Subquadratic Attention with a Hierarchical Tree-Structured Indexer](http://arxiv.org/abs/2610.42112v1) · `2026-10-30`
+- [RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models](http://arxiv.org/abs/2610.42084v1) · `2026-10-30`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-02 03:32 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-02 10:34 MSK</sub>
 
 <!--DIGEST:END-->
 
