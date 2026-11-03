@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,377 | ⬇️ 47,817 |
-| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 720 | ⬇️ 38,942 |
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,827 | ⬇️ 187,260 |
-| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,530 | ⬇️ 6,556 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 486 | ⬇️ 10,742 |
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,398 | ⬇️ 47,817 |
+| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 736 | ⬇️ 38,942 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,845 | ⬇️ 187,260 |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,542 | ⬇️ 6,556 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 508 | ⬇️ 10,742 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Tracing the Scientific Discovery Capacity of LLMs to Their Training Data](http://arxiv.org/abs/2611.03617v1) · `2026-11-02`
 - [ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer fro...](http://arxiv.org/abs/2611.03605v1) · `2026-11-02`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-03 20:42 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-04 02:11 MSK</sub>
 
 <!--DIGEST:END-->
 
