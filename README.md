@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,062 | ⬇️ 42,384 |
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,704 | ⬇️ 177,009 |
-| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 684 | ⬇️ 32,439 |
-| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,501 | ⬇️ 5,500 |
-| [baidu/Unlimited-OCR-2](https://huggingface.co/baidu/Unlimited-OCR-2) `image-text-to-text` | ❤️ 562 | ⬇️ 147,588 |
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,265 | ⬇️ 42,384 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,763 | ⬇️ 177,009 |
+| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 701 | ⬇️ 32,439 |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,515 | ⬇️ 5,500 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 451 | ⬇️ 7,787 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1) · `2026-10-30`
-- [Flide: Accelerating Decision Inference with Exact State Forking](http://arxiv.org/abs/2610.42148v1) · `2026-10-30`
-- [DecisionRank: On-Policy Distillation for Decision-Model Rerankers](http://arxiv.org/abs/2610.42128v1) · `2026-10-30`
-- [Subquadratic Attention with a Hierarchical Tree-Structured Indexer](http://arxiv.org/abs/2610.42112v1) · `2026-10-30`
-- [RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models](http://arxiv.org/abs/2610.42084v1) · `2026-10-30`
+- [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1) · `2026-11-02`
+- [D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models](http://arxiv.org/abs/2611.03622v1) · `2026-11-02`
+- [Strategist: Evolving Reasoning with Agents](http://arxiv.org/abs/2611.03618v1) · `2026-11-02`
+- [Tracing the Scientific Discovery Capacity of LLMs to Their Training Data](http://arxiv.org/abs/2611.03617v1) · `2026-11-02`
+- [ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer fro...](http://arxiv.org/abs/2611.03605v1) · `2026-11-02`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-03 04:30 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-03 12:25 MSK</sub>
 
 <!--DIGEST:END-->
 
