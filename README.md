@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,398 | ⬇️ 47,817 |
-| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 736 | ⬇️ 38,942 |
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,845 | ⬇️ 187,260 |
-| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,542 | ⬇️ 6,556 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 508 | ⬇️ 10,742 |
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,418 | ⬇️ 47,817 |
+| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 743 | ⬇️ 38,942 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 4,874 | ⬇️ 187,260 |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,554 | ⬇️ 6,556 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 527 | ⬇️ 10,742 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1) · `2026-11-02`
-- [D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models](http://arxiv.org/abs/2611.03622v1) · `2026-11-02`
-- [Strategist: Evolving Reasoning with Agents](http://arxiv.org/abs/2611.03618v1) · `2026-11-02`
-- [Tracing the Scientific Discovery Capacity of LLMs to Their Training Data](http://arxiv.org/abs/2611.03617v1) · `2026-11-02`
-- [ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer fro...](http://arxiv.org/abs/2611.03605v1) · `2026-11-02`
+- [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](http://arxiv.org/abs/2611.05376v1) · `2026-11-03`
+- [Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Op...](http://arxiv.org/abs/2611.05373v1) · `2026-11-03`
+- [Suppressing Misaligned Behaviors in Language Models, Durably](http://arxiv.org/abs/2611.05358v1) · `2026-11-03`
+- [Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits](http://arxiv.org/abs/2611.05355v1) · `2026-11-03`
+- [A Circuit for In-Context Learning](http://arxiv.org/abs/2611.05344v1) · `2026-11-03`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-04 02:11 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-04 09:00 MSK</sub>
 
 <!--DIGEST:END-->
 
