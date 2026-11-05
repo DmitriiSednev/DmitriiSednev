@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 1,627 | ⬇️ 44,939 |
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 5,276 | ⬇️ 221,621 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 621 | ⬇️ 14,613 |
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,487 | ⬇️ 54,959 |
-| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,591 | ⬇️ 8,200 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 704 | ⬇️ 11,658 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 663 | ⬇️ 17,180 |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,597 | ⬇️ 9,592 |
+| [Pika-Labs/Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex) `image-to-video` | ❤️ 440 | ⬇️ 863 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 10,655 | ⬇️ 2,561,845 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](http://arxiv.org/abs/2611.05376v1) · `2026-11-03`
-- [Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Op...](http://arxiv.org/abs/2611.05373v1) · `2026-11-03`
-- [Suppressing Misaligned Behaviors in Language Models, Durably](http://arxiv.org/abs/2611.05358v1) · `2026-11-03`
-- [Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits](http://arxiv.org/abs/2611.05355v1) · `2026-11-03`
-- [A Circuit for In-Context Learning](http://arxiv.org/abs/2611.05344v1) · `2026-11-03`
+- [A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1) · `2026-11-04`
+- [SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Spec...](http://arxiv.org/abs/2611.06876v1) · `2026-11-04`
+- [Balancing hierarchical representation and quantization: A performance trade-off in text...](http://arxiv.org/abs/2611.06859v1) · `2026-11-04`
+- [LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis](http://arxiv.org/abs/2611.06856v1) · `2026-11-04`
+- [Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs](http://arxiv.org/abs/2611.06848v1) · `2026-11-04`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-05 05:14 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-05 13:41 MSK</sub>
 
 <!--DIGEST:END-->
 
