@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 1,473 | ⬇️ 44,939 |
-| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 5,255 | ⬇️ 221,621 |
-| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,477 | ⬇️ 54,959 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 607 | ⬇️ 14,613 |
-| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,587 | ⬇️ 8,200 |
+| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) `automatic-speech-recognition` | ❤️ 1,627 | ⬇️ 44,939 |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `image-text-to-text` | ❤️ 5,276 | ⬇️ 221,621 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 621 | ⬇️ 14,613 |
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) `text-generation` | ❤️ 1,487 | ⬇️ 54,959 |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,591 | ⬇️ 8,200 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits](http://arxiv.org/abs/2611.05355v1) · `2026-11-03`
 - [A Circuit for In-Context Learning](http://arxiv.org/abs/2611.05344v1) · `2026-11-03`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-05 00:13 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-05 05:14 MSK</sub>
 
 <!--DIGEST:END-->
 
