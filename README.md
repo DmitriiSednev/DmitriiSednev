@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 704 | ⬇️ 11,658 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 663 | ⬇️ 17,180 |
-| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,597 | ⬇️ 9,592 |
-| [Pika-Labs/Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex) `image-to-video` | ❤️ 440 | ⬇️ 863 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 10,655 | ⬇️ 2,561,845 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 852 | ⬇️ 11,658 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 722 | ⬇️ 17,180 |
+| [Pika-Labs/Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex) `image-to-video` | ❤️ 459 | ⬇️ 863 |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) `image-text-to-text` | ❤️ 1,607 | ⬇️ 9,592 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 10,697 | ⬇️ 2,561,845 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis](http://arxiv.org/abs/2611.06856v1) · `2026-11-04`
 - [Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs](http://arxiv.org/abs/2611.06848v1) · `2026-11-04`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-05 13:41 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-05 21:39 MSK</sub>
 
 <!--DIGEST:END-->
 
