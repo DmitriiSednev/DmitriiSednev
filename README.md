@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,550 | ⬇️ 18,432 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 972 | ⬇️ 19,139 |
-| [ccore/Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) | ❤️ 805 | ⬇️ 190,243 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 10,892 | ⬇️ 2,607,491 |
-| [burner22/numbat](https://huggingface.co/burner22/numbat) | ❤️ 373 | ⬇️ 9,066 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,023 | ⬇️ 20,689 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,592 | ⬇️ 22,571 |
+| [ccore/Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) | ❤️ 834 | ⬇️ 221,506 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 10,924 | ⬇️ 2,643,778 |
+| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 350 | ⬇️ 3,803 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](http://arxiv.org/abs/2611.08438v1) · `2026-11-05`
 - [MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue](http://arxiv.org/abs/2611.08433v1) · `2026-11-05`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-07 09:59 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-07 16:53 MSK</sub>
 
 <!--DIGEST:END-->
 
