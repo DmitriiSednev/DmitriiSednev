@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,380 | ⬇️ 22,854 |
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 837 | ⬇️ 7,088 |
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,729 | ⬇️ 25,569 |
-| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 401 | ⬇️ 5,087 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,132 | ⬇️ 2,661,026 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,445 | ⬇️ 22,854 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 926 | ⬇️ 7,088 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,745 | ⬇️ 25,569 |
+| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 418 | ⬇️ 5,087 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,156 | ⬇️ 2,661,026 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1) · `2026-11-05`
-- [Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO](http://arxiv.org/abs/2611.08453v1) · `2026-11-05`
-- [Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not ...](http://arxiv.org/abs/2611.08439v1) · `2026-11-05`
-- [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](http://arxiv.org/abs/2611.08438v1) · `2026-11-05`
-- [MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue](http://arxiv.org/abs/2611.08433v1) · `2026-11-05`
+- [CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs](http://arxiv.org/abs/2611.09868v1) · `2026-11-06`
+- [How far does a hash-only sender go? A pre-registered map of sender memory versus bits f...](http://arxiv.org/abs/2611.09848v1) · `2026-11-06`
+- [BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](http://arxiv.org/abs/2611.09825v1) · `2026-11-06`
+- [Compaction, decay and reinforcement in a two-tier conversational memory: a paired evalu...](http://arxiv.org/abs/2611.09807v1) · `2026-11-06`
+- [Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a ...](http://arxiv.org/abs/2611.09803v1) · `2026-11-06`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-09 03:44 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-09 10:51 MSK</sub>
 
 <!--DIGEST:END-->
 
