@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,639 | ⬇️ 24,747 |
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 1,051 | ⬇️ 11,755 |
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,800 | ⬇️ 27,926 |
-| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 455 | ⬇️ 5,835 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,269 | ⬇️ 2,720,096 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,704 | ⬇️ 24,747 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 1,096 | ⬇️ 11,755 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,820 | ⬇️ 27,926 |
+| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 465 | ⬇️ 5,835 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,302 | ⬇️ 2,720,096 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs](http://arxiv.org/abs/2611.09868v1) · `2026-11-06`
-- [How far does a hash-only sender go? A pre-registered map of sender memory versus bits f...](http://arxiv.org/abs/2611.09848v1) · `2026-11-06`
-- [BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](http://arxiv.org/abs/2611.09825v1) · `2026-11-06`
-- [Compaction, decay and reinforcement in a two-tier conversational memory: a paired evalu...](http://arxiv.org/abs/2611.09807v1) · `2026-11-06`
-- [Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a ...](http://arxiv.org/abs/2611.09803v1) · `2026-11-06`
+- [HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition fo...](http://arxiv.org/abs/2611.12872v1) · `2026-11-09`
+- [Is Persona Generalization Predictable?](http://arxiv.org/abs/2611.12864v1) · `2026-11-09`
+- [WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent ...](http://arxiv.org/abs/2611.12856v1) · `2026-11-09`
+- [How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors](http://arxiv.org/abs/2611.12820v1) · `2026-11-09`
+- [Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recom...](http://arxiv.org/abs/2611.12814v1) · `2026-11-09`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-10 04:58 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-10 12:37 MSK</sub>
 
 <!--DIGEST:END-->
 
