@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 1,245 | ⬇️ 14,378 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,897 | ⬇️ 26,470 |
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,876 | ⬇️ 30,721 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 489 | ⬇️ 667 |
-| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 490 | ⬇️ 6,480 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 1,361 | ⬇️ 16,693 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,940 | ⬇️ 28,250 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,901 | ⬇️ 33,617 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 610 | ⬇️ 142,989 |
+| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 498 | ⬇️ 7,112 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Mechanistic Interpretability Needs a Logic of Inference](http://arxiv.org/abs/2611.14483v1) · `2026-11-10`
 - [Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation](http://arxiv.org/abs/2611.14480v1) · `2026-11-10`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-11 08:55 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-11 17:01 MSK</sub>
 
 <!--DIGEST:END-->
 
