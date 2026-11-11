@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,866 | ⬇️ 26,470 |
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 1,184 | ⬇️ 14,378 |
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,867 | ⬇️ 30,721 |
-| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 485 | ⬇️ 6,480 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,371 | ⬇️ 2,791,606 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 1,245 | ⬇️ 14,378 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 1,897 | ⬇️ 26,470 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) `image-text-to-text` | ❤️ 1,876 | ⬇️ 30,721 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 489 | ⬇️ 667 |
+| [ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) | ❤️ 490 | ⬇️ 6,480 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition fo...](http://arxiv.org/abs/2611.12872v1) · `2026-11-09`
-- [Is Persona Generalization Predictable?](http://arxiv.org/abs/2611.12864v1) · `2026-11-09`
-- [WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent ...](http://arxiv.org/abs/2611.12856v1) · `2026-11-09`
-- [How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors](http://arxiv.org/abs/2611.12820v1) · `2026-11-09`
-- [Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recom...](http://arxiv.org/abs/2611.12814v1) · `2026-11-09`
+- [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1) · `2026-11-10`
+- [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1) · `2026-11-10`
+- [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discover...](http://arxiv.org/abs/2611.14493v1) · `2026-11-10`
+- [Mechanistic Interpretability Needs a Logic of Inference](http://arxiv.org/abs/2611.14483v1) · `2026-11-10`
+- [Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation](http://arxiv.org/abs/2611.14480v1) · `2026-11-10`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-11 02:09 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-11 08:55 MSK</sub>
 
 <!--DIGEST:END-->
 
