@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 4,597 | ⬇️ 18,933 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 798 | ⬇️ 306,718 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 2,184 | ⬇️ 29,904 |
-| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) `text-generation` | ❤️ 455 | ⬇️ 4,669 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,564 | ⬇️ 2,782,513 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 4,665 | ⬇️ 18,933 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 840 | ⬇️ 306,718 |
+| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) `text-generation` | ❤️ 471 | ⬇️ 4,669 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 2,216 | ⬇️ 29,904 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,598 | ⬇️ 2,782,513 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Mechanistic Interpretability Needs a Logic of Inference](http://arxiv.org/abs/2611.14483v1) · `2026-11-10`
 - [Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation](http://arxiv.org/abs/2611.14480v1) · `2026-11-10`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-12 13:53 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-12 21:47 MSK</sub>
 
 <!--DIGEST:END-->
 
