@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 4,719 | ⬇️ 18,933 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 866 | ⬇️ 306,718 |
-| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) `text-generation` | ❤️ 484 | ⬇️ 4,669 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 2,230 | ⬇️ 29,904 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,629 | ⬇️ 2,782,513 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 4,786 | ⬇️ 18,933 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 905 | ⬇️ 306,718 |
+| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) `text-generation` | ❤️ 500 | ⬇️ 4,669 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) `image-to-3d` | ❤️ 2,248 | ⬇️ 29,904 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 11,657 | ⬇️ 2,782,513 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1) · `2026-11-10`
-- [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1) · `2026-11-10`
-- [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discover...](http://arxiv.org/abs/2611.14493v1) · `2026-11-10`
-- [Mechanistic Interpretability Needs a Logic of Inference](http://arxiv.org/abs/2611.14483v1) · `2026-11-10`
-- [Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation](http://arxiv.org/abs/2611.14480v1) · `2026-11-10`
+- [When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision](http://arxiv.org/abs/2611.16694v1) · `2026-11-12`
+- [MuSeToM: Multi-Sensory Evaluation of Belief Revision with Textual Cues Across Six Senses](http://arxiv.org/abs/2611.16662v1) · `2026-11-12`
+- [Unibuc - NLP at "Voight-Kampff" Generative AI Detection PAN 2025](http://arxiv.org/abs/2611.16612v1) · `2026-11-12`
+- [Do the Details Help the Whole? One-Way Transfer from Person Actions to Group Intent in ...](http://arxiv.org/abs/2611.16581v1) · `2026-11-12`
+- [Lost in Delegation: Studying the Effectiveness of Task Orchestration in Generative Search](http://arxiv.org/abs/2611.16526v1) · `2026-11-12`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-13 03:06 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-13 09:29 MSK</sub>
 
 <!--DIGEST:END-->
 
