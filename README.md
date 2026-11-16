@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 7,510 | ⬇️ 27,037 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,174 | ⬇️ 571,067 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,106 | ⬇️ 6,547,772 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,046 | ⬇️ 2,754,355 |
-| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) `text-to-image` | ❤️ 408 | ⬇️ 1,973,388 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 7,541 | ⬇️ 27,037 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,187 | ⬇️ 571,067 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,127 | ⬇️ 6,547,772 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,067 | ⬇️ 2,754,355 |
+| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) `text-to-image` | ❤️ 411 | ⬇️ 1,973,388 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Add...](http://arxiv.org/abs/2611.17314v1) · `2026-11-12`
 - [Goal Encoding in LLMs](http://arxiv.org/abs/2611.17297v1) · `2026-11-12`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-16 00:39 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-16 04:50 MSK</sub>
 
 <!--DIGEST:END-->
 
