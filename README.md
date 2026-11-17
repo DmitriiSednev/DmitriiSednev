@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,372 | ⬇️ 727,110 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,337 | ⬇️ 6,942,530 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,320 | ⬇️ 2,828,071 |
-| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) `text-to-image` | ❤️ 509 | ⬇️ 2,660,341 |
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 468 | ⬇️ 4,445 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,441 | ⬇️ 727,110 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,404 | ⬇️ 6,942,530 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,388 | ⬇️ 2,828,071 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 493 | ⬇️ 4,445 |
+| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) `image-text-to-text` | ❤️ 438 | ⬇️ 18,359 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoder...](http://arxiv.org/abs/2611.21586v1) · `2026-11-16`
 - [Reading or Remembering? Measuring Temporal Contamination in Language Models](http://arxiv.org/abs/2611.21554v1) · `2026-11-16`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-17 16:05 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-18 00:42 MSK</sub>
 
 <!--DIGEST:END-->
 
