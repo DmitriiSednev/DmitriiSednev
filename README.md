@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) `text-generation` | ❤️ 9,028 | ⬇️ 29,567 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,327 | ⬇️ 609,130 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,285 | ⬇️ 6,763,402 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,264 | ⬇️ 2,789,021 |
-| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) `text-to-image` | ❤️ 496 | ⬇️ 2,294,065 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,372 | ⬇️ 727,110 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,337 | ⬇️ 6,942,530 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,320 | ⬇️ 2,828,071 |
+| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) `text-to-image` | ❤️ 509 | ⬇️ 2,660,341 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 468 | ⬇️ 4,445 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Omni-Workspace: Benchmarking Omni-Modal AI Assistants on Multimodal Workspace Tasks](http://arxiv.org/abs/2611.19202v1) · `2026-11-14`
-- [Isolating Perception for Multi-View Planning under Occlusion-Induced Partial Observability](http://arxiv.org/abs/2611.19179v1) · `2026-11-14`
-- [A Bag of Concepts? Testing Role-Filler Binding in the Verbalizable Workspace](http://arxiv.org/abs/2611.19176v1) · `2026-11-14`
-- [Personalized Language Models for One-to-Many Private Communications](http://arxiv.org/abs/2611.19155v1) · `2026-11-14`
-- [MarineSparkLM-4B: A Lightweight Language Model for Marine and Offshore Engineering Buil...](http://arxiv.org/abs/2611.19151v1) · `2026-11-14`
+- [Latent Lattice Language Models](http://arxiv.org/abs/2611.21608v1) · `2026-11-16`
+- [Quantifying the added value of human forecaster discussions for tropical cyclone intens...](http://arxiv.org/abs/2611.21602v1) · `2026-11-16`
+- [How VLMs Plan What's Next](http://arxiv.org/abs/2611.21600v1) · `2026-11-16`
+- [Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoder...](http://arxiv.org/abs/2611.21586v1) · `2026-11-16`
+- [Reading or Remembering? Measuring Temporal Contamination in Language Models](http://arxiv.org/abs/2611.21554v1) · `2026-11-16`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-17 06:40 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-17 16:05 MSK</sub>
 
 <!--DIGEST:END-->
 
