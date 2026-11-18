@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,481 | ⬇️ 727,110 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,447 | ⬇️ 6,942,530 |
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 517 | ⬇️ 4,445 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,414 | ⬇️ 2,828,071 |
-| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) `image-text-to-text` | ❤️ 442 | ⬇️ 18,359 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 589 | ⬇️ 5,314 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,484 | ⬇️ 2,871,190 |
+| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) `image-text-to-text` | ❤️ 477 | ⬇️ 30,082 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,567 | ⬇️ 759,661 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 281 | ⬇️ 377 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Cross-cultural Adaptation of Recipes for Low-Resource Languages: A Benchmark and Multil...](http://arxiv.org/abs/2611.22708v1) · `2026-11-17`
-- [Route Optimization under Port Congestion and Carbon Reduction: An NSGA-II Approach](http://arxiv.org/abs/2611.22705v1) · `2026-11-17`
-- [Visibility Graph Representations of Word Embeddings for Text Classification](http://arxiv.org/abs/2611.22685v1) · `2026-11-17`
-- [Contract-Explicit Evaluation: From Auditing Learned Readers to Scoped Certificates](http://arxiv.org/abs/2611.22665v1) · `2026-11-17`
-- [The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Who...](http://arxiv.org/abs/2611.22661v1) · `2026-11-17`
+- [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](http://arxiv.org/abs/2611.23229v1) · `2026-11-17`
+- [What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution](http://arxiv.org/abs/2611.23218v1) · `2026-11-17`
+- [Structure--Residual Inductive Biases for Language Model Pretraining](http://arxiv.org/abs/2611.23197v1) · `2026-11-17`
+- [Polarity Composition Hypothesis: Causal Evidence from Negation in NLI](http://arxiv.org/abs/2611.23185v1) · `2026-11-17`
+- [MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study](http://arxiv.org/abs/2611.23158v1) · `2026-11-17`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-18 06:36 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-18 15:55 MSK</sub>
 
 <!--DIGEST:END-->
 
