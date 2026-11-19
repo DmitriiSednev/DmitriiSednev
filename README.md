@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 2,101 | ⬇️ 6,266 |
-| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) `image-text-to-text` | ❤️ 289 | ⬇️ 2,053 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,615 | ⬇️ 6,647,301 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,608 | ⬇️ 821,710 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 664 | ⬇️ 1,320 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 3,611 | ⬇️ 6,266 |
+| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) `image-text-to-text` | ❤️ 332 | ⬇️ 2,053 |
+| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) `text-to-video` | ❤️ 319 | ⬇️ 0 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 726 | ⬇️ 1,320 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,670 | ⬇️ 6,647,301 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient R...](http://arxiv.org/abs/2611.24849v1) · `2026-11-18`
 - [Vibe-Trading: Towards Agent-Native Trading](http://arxiv.org/abs/2611.24845v1) · `2026-11-18`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-19 15:48 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-20 00:21 MSK</sub>
 
 <!--DIGEST:END-->
 
