@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 655 | ⬇️ 5,314 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,538 | ⬇️ 2,871,190 |
-| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) `image-text-to-text` | ❤️ 488 | ⬇️ 30,082 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 378 | ⬇️ 377 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,576 | ⬇️ 759,661 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 701 | ⬇️ 5,314 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 426 | ⬇️ 377 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,570 | ⬇️ 2,871,190 |
+| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) `image-text-to-text` | ❤️ 495 | ⬇️ 30,082 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,585 | ⬇️ 759,661 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](http://arxiv.org/abs/2611.23229v1) · `2026-11-17`
-- [What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution](http://arxiv.org/abs/2611.23218v1) · `2026-11-17`
-- [Structure--Residual Inductive Biases for Language Model Pretraining](http://arxiv.org/abs/2611.23197v1) · `2026-11-17`
-- [Polarity Composition Hypothesis: Causal Evidence from Negation in NLI](http://arxiv.org/abs/2611.23185v1) · `2026-11-17`
-- [MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study](http://arxiv.org/abs/2611.23158v1) · `2026-11-17`
+- [NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding](http://arxiv.org/abs/2611.23835v1) · `2026-11-18`
+- [A System 1 Decision Model for Medical Multiple-Choice Questions Built on Frozen Languag...](http://arxiv.org/abs/2611.23832v1) · `2026-11-18`
+- [Sightline: Long-Window Speculative Decoding for Fast SVG Generation](http://arxiv.org/abs/2611.23807v1) · `2026-11-18`
+- [Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT](http://arxiv.org/abs/2611.23788v1) · `2026-11-18`
+- [Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow](http://arxiv.org/abs/2611.23751v1) · `2026-11-18`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-19 00:18 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-19 06:09 MSK</sub>
 
 <!--DIGEST:END-->
 
