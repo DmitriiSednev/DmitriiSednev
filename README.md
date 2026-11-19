@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 701 | ⬇️ 5,314 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 426 | ⬇️ 377 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,570 | ⬇️ 2,871,190 |
-| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) `image-text-to-text` | ❤️ 495 | ⬇️ 30,082 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,585 | ⬇️ 759,661 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 2,101 | ⬇️ 6,266 |
+| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) `image-text-to-text` | ❤️ 289 | ⬇️ 2,053 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,615 | ⬇️ 6,647,301 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,608 | ⬇️ 821,710 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 664 | ⬇️ 1,320 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding](http://arxiv.org/abs/2611.23835v1) · `2026-11-18`
-- [A System 1 Decision Model for Medical Multiple-Choice Questions Built on Frozen Languag...](http://arxiv.org/abs/2611.23832v1) · `2026-11-18`
-- [Sightline: Long-Window Speculative Decoding for Fast SVG Generation](http://arxiv.org/abs/2611.23807v1) · `2026-11-18`
-- [Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT](http://arxiv.org/abs/2611.23788v1) · `2026-11-18`
-- [Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow](http://arxiv.org/abs/2611.23751v1) · `2026-11-18`
+- [Jailbreak Detection on Large Language Models via Contrastive Prototype Structures](http://arxiv.org/abs/2611.24936v1) · `2026-11-18`
+- [Who are you? The Personal Imitation Game](http://arxiv.org/abs/2611.24888v1) · `2026-11-18`
+- [Ground, Iterate, Trace: Decomposing AI Research Ideation](http://arxiv.org/abs/2611.24887v1) · `2026-11-18`
+- [Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient R...](http://arxiv.org/abs/2611.24849v1) · `2026-11-18`
+- [Vibe-Trading: Towards Agent-Native Trading](http://arxiv.org/abs/2611.24845v1) · `2026-11-18`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-19 06:09 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-19 15:48 MSK</sub>
 
 <!--DIGEST:END-->
 
