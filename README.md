@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 3,648 | ⬇️ 6,266 |
-| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) `image-text-to-text` | ❤️ 350 | ⬇️ 2,053 |
-| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) `text-to-video` | ❤️ 340 | ⬇️ 0 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 744 | ⬇️ 1,320 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 276 | ⬇️ 0 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 3,729 | ⬇️ 7,323 |
+| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) `text-to-video` | ❤️ 367 | ⬇️ 0 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 314 | ⬇️ 0 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 779 | ⬇️ 1,874 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,714 | ⬇️ 6,454,419 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [When Should a Voice Agent Speak? End-of-Turn Detection in Turkish](http://arxiv.org/abs/2611.25489v1) · `2026-11-19`
-- [PILAPS: A Bilingual Benchmark for Evaluating Pragmatic Inference across Phenomena and S...](http://arxiv.org/abs/2611.25459v1) · `2026-11-19`
-- [PAIR-MED: Policy-reward Alternation for Iterative Refinement in Multilingual Medical Re...](http://arxiv.org/abs/2611.25446v1) · `2026-11-19`
-- [RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV ...](http://arxiv.org/abs/2611.25433v1) · `2026-11-19`
-- [Evolve Where It Matters: Coverage-Guided Self-Evolution of Agent Skills](http://arxiv.org/abs/2611.25429v1) · `2026-11-19`
+- [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](http://arxiv.org/abs/2611.26613v1) · `2026-11-19`
+- [Represented but misread: Post-training changes how language models read out what they r...](http://arxiv.org/abs/2611.26584v1) · `2026-11-19`
+- [Hybrid Retrieval for Government Scheme Search in English and Marathi](http://arxiv.org/abs/2611.26514v1) · `2026-11-19`
+- [AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher](http://arxiv.org/abs/2611.26510v1) · `2026-11-19`
+- [GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers](http://arxiv.org/abs/2611.26509v1) · `2026-11-19`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-20 05:58 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-20 14:19 MSK</sub>
 
 <!--DIGEST:END-->
 
