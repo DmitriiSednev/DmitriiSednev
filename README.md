@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 3,729 | ⬇️ 7,323 |
-| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) `text-to-video` | ❤️ 367 | ⬇️ 0 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 314 | ⬇️ 0 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 779 | ⬇️ 1,874 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,714 | ⬇️ 6,454,419 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 4,862 | ⬇️ 7,323 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 851 | ⬇️ 1,874 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,788 | ⬇️ 6,454,419 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,860 | ⬇️ 2,964,523 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) `text-to-image` | ❤️ 1,698 | ⬇️ 876,986 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher](http://arxiv.org/abs/2611.26510v1) · `2026-11-19`
 - [GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers](http://arxiv.org/abs/2611.26509v1) · `2026-11-19`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-20 14:19 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-20 22:57 MSK</sub>
 
 <!--DIGEST:END-->
 
