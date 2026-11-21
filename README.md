@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 5,471 | ⬇️ 7,323 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 863 | ⬇️ 1,874 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) `image-text-to-text` | ❤️ 20,806 | ⬇️ 6,454,419 |
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 636 | ⬇️ 136 |
-| [Sentinel7/h3](https://huggingface.co/Sentinel7/h3) | ❤️ 273 | ⬇️ 0 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 1,086 | ⬇️ 136 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) `audio-to-audio` | ❤️ 5,710 | ⬇️ 7,323 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 834 | ⬇️ 1,874 |
+| [Sentinel7/h3](https://huggingface.co/Sentinel7/h3) | ❤️ 554 | ⬇️ 0 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 12,843 | ⬇️ 2,964,523 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher](http://arxiv.org/abs/2611.26510v1) · `2026-11-19`
 - [GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers](http://arxiv.org/abs/2611.26509v1) · `2026-11-19`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-21 04:21 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-21 12:35 MSK</sub>
 
 <!--DIGEST:END-->
 
