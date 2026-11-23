@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 4,959 | ⬇️ 23,543 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 876 | ⬇️ 805,993 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 633 | ⬇️ 0 |
-| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) `image-text-to-text` | ❤️ 620 | ⬇️ 6,617 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 991 | ⬇️ 2,831 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 5,179 | ⬇️ 23,543 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 952 | ⬇️ 805,993 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 667 | ⬇️ 0 |
+| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) `image-text-to-text` | ❤️ 630 | ⬇️ 6,617 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 1,005 | ⬇️ 2,831 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](http://arxiv.org/abs/2611.26613v1) · `2026-11-19`
-- [Represented but misread: Post-training changes how language models read out what they r...](http://arxiv.org/abs/2611.26584v1) · `2026-11-19`
-- [Hybrid Retrieval for Government Scheme Search in English and Marathi](http://arxiv.org/abs/2611.26514v1) · `2026-11-19`
-- [AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher](http://arxiv.org/abs/2611.26510v1) · `2026-11-19`
-- [GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers](http://arxiv.org/abs/2611.26509v1) · `2026-11-19`
+- [MemOnce: A Scalable Memory Architecture for Large Language Models](http://arxiv.org/abs/2611.27973v1) · `2026-11-20`
+- [TEA-Bench-BR: Can Coding Agents Turn a Branching Clinical Specification into Correct Code?](http://arxiv.org/abs/2611.27895v1) · `2026-11-20`
+- [DistDNA: Language Model Fingerprinting under Stochastic Decoding](http://arxiv.org/abs/2611.27831v1) · `2026-11-20`
+- [SLP-Bench: Evaluating and Improving Acoustic Claims of Reasoning Audio Language Models ...](http://arxiv.org/abs/2611.27810v1) · `2026-11-20`
+- [Evaluating Prompting Strategies for Zero-Shot Multilingual Aspect-Based Sentiment Analy...](http://arxiv.org/abs/2611.27807v1) · `2026-11-20`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-23 03:09 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-23 11:53 MSK</sub>
 
 <!--DIGEST:END-->
 
