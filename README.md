@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 5,179 | ⬇️ 23,543 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 952 | ⬇️ 805,993 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 667 | ⬇️ 0 |
-| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) `image-text-to-text` | ❤️ 630 | ⬇️ 6,617 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 1,005 | ⬇️ 2,831 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 5,448 | ⬇️ 41,888 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,089 | ⬇️ 1,292,888 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 724 | ⬇️ 0 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 636 | ⬇️ 329,497 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 1,031 | ⬇️ 3,132 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [SLP-Bench: Evaluating and Improving Acoustic Claims of Reasoning Audio Language Models ...](http://arxiv.org/abs/2611.27810v1) · `2026-11-20`
 - [Evaluating Prompting Strategies for Zero-Shot Multilingual Aspect-Based Sentiment Analy...](http://arxiv.org/abs/2611.27807v1) · `2026-11-20`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-23 11:53 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-24 00:11 MSK</sub>
 
 <!--DIGEST:END-->
 
