@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 5,700 | ⬇️ 69,042 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,214 | ⬇️ 1,913,407 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 785 | ⬇️ 12,733 |
-| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) `image-text-to-text` | ❤️ 668 | ⬇️ 9,167 |
-| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 713 | ⬇️ 573,775 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 5,791 | ⬇️ 69,042 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,259 | ⬇️ 1,913,407 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 818 | ⬇️ 12,733 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 758 | ⬇️ 573,775 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 1,073 | ⬇️ 3,529 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Deneb-Vritra: Descriptions, Edges and Names Examined by Blocking Via Restoring Token Re...](http://arxiv.org/abs/2611.31139v1) · `2026-11-23`
 - [Serialization and the Character-System: Measuring Narrative Concentration in French Fic...](http://arxiv.org/abs/2611.31133v1) · `2026-11-23`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-24 20:28 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-25 05:14 MSK</sub>
 
 <!--DIGEST:END-->
 
