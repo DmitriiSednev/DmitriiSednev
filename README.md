@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 5,888 | ⬇️ 96,527 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,309 | ⬇️ 2,445,633 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 848 | ⬇️ 15,244 |
-| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 791 | ⬇️ 762,491 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 13,360 | ⬇️ 3,041,405 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 6,013 | ⬇️ 96,527 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,364 | ⬇️ 2,445,633 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 891 | ⬇️ 15,244 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 834 | ⬇️ 762,491 |
+| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | ❤️ 1,056 | ⬇️ 189,735 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops an...](http://arxiv.org/abs/2611.33133v1) · `2026-11-24`
 - [SAG-Mem-1.0 Technical Report](http://arxiv.org/abs/2611.33124v1) · `2026-11-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-25 15:34 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-26 01:23 MSK</sub>
 
 <!--DIGEST:END-->
 
