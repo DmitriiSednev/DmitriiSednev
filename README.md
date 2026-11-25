@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 5,791 | ⬇️ 69,042 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,259 | ⬇️ 1,913,407 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 818 | ⬇️ 12,733 |
-| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 758 | ⬇️ 573,775 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) `image-text-to-text` | ❤️ 1,073 | ⬇️ 3,529 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 5,888 | ⬇️ 96,527 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,309 | ⬇️ 2,445,633 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 848 | ⬇️ 15,244 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 791 | ⬇️ 762,491 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) `image-to-video` | ❤️ 13,360 | ⬇️ 3,041,405 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents](http://arxiv.org/abs/2611.31198v1) · `2026-11-23`
-- [CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Poli...](http://arxiv.org/abs/2611.31185v1) · `2026-11-23`
-- [Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training](http://arxiv.org/abs/2611.31166v1) · `2026-11-23`
-- [Deneb-Vritra: Descriptions, Edges and Names Examined by Blocking Via Restoring Token Re...](http://arxiv.org/abs/2611.31139v1) · `2026-11-23`
-- [Serialization and the Character-System: Measuring Narrative Concentration in French Fic...](http://arxiv.org/abs/2611.31133v1) · `2026-11-23`
+- [DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](http://arxiv.org/abs/2611.33153v1) · `2026-11-24`
+- [CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](http://arxiv.org/abs/2611.33148v1) · `2026-11-24`
+- [BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Gene...](http://arxiv.org/abs/2611.33135v1) · `2026-11-24`
+- [A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops an...](http://arxiv.org/abs/2611.33133v1) · `2026-11-24`
+- [SAG-Mem-1.0 Technical Report](http://arxiv.org/abs/2611.33124v1) · `2026-11-24`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-25 05:14 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-25 15:34 MSK</sub>
 
 <!--DIGEST:END-->
 
