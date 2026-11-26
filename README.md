@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 6,155 | ⬇️ 96,527 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,428 | ⬇️ 2,445,633 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 929 | ⬇️ 15,244 |
-| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 879 | ⬇️ 762,491 |
-| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | ❤️ 1,170 | ⬇️ 189,735 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 6,239 | ⬇️ 96,527 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,491 | ⬇️ 2,445,633 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 931 | ⬇️ 762,491 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 960 | ⬇️ 15,244 |
+| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | ❤️ 1,211 | ⬇️ 189,735 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Mixture-of-Loops Transformer](http://arxiv.org/abs/2611.34923v1) · `2026-11-25`
 - [$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents](http://arxiv.org/abs/2611.34920v1) · `2026-11-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-26 17:57 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-27 02:42 MSK</sub>
 
 <!--DIGEST:END-->
 
