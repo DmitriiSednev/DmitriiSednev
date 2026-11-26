@@ -16,21 +16,21 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 6,067 | ⬇️ 96,527 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,384 | ⬇️ 2,445,633 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 903 | ⬇️ 15,244 |
-| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 850 | ⬇️ 762,491 |
-| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | ❤️ 1,108 | ⬇️ 189,735 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 6,155 | ⬇️ 96,527 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,428 | ⬇️ 2,445,633 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) `audio-to-audio` | ❤️ 929 | ⬇️ 15,244 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 879 | ⬇️ 762,491 |
+| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | ❤️ 1,170 | ⬇️ 189,735 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
-- [MedSkill-E$^{2}$: Evaluating and Evolving Skills for Medical Agents](http://arxiv.org/abs/2611.34250v1) · `2026-11-25`
-- [SOLO: Towards Sample-Faithful and Detectable LLM Watermarking under Repeated Sampling v...](http://arxiv.org/abs/2611.34190v1) · `2026-11-25`
-- [MINE: A Training-Free Defense against Indirect Prompt Injection via Mutual Information ...](http://arxiv.org/abs/2611.34188v1) · `2026-11-25`
-- [Lightweight Reasoning Transfer via Chain-of-Thought Vector Projection](http://arxiv.org/abs/2611.34183v1) · `2026-11-25`
-- [Familiar Words, Unfamiliar Minds: Conventionalization without Calibration in the Vocabu...](http://arxiv.org/abs/2611.34179v1) · `2026-11-25`
+- [Tokenisation is not in APX](http://arxiv.org/abs/2611.34938v1) · `2026-11-25`
+- [Can image generation help visual reasoning? An empirical study](http://arxiv.org/abs/2611.34935v1) · `2026-11-25`
+- [Diverse Alternative Reasoning Traces for Hard Math Problems](http://arxiv.org/abs/2611.34928v1) · `2026-11-25`
+- [Mixture-of-Loops Transformer](http://arxiv.org/abs/2611.34923v1) · `2026-11-25`
+- [$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents](http://arxiv.org/abs/2611.34920v1) · `2026-11-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-26 07:54 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-26 17:57 MSK</sub>
 
 <!--DIGEST:END-->
 
