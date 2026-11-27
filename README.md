@@ -16,11 +16,11 @@
 
 | Model | Likes | Downloads |
 |---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 6,325 | ⬇️ 96,527 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,518 | ⬇️ 2,445,633 |
-| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | ❤️ 1,258 | ⬇️ 189,735 |
-| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 957 | ⬇️ 762,491 |
-| [prism-ml/Ternary-Bonsai-2.5-27B-GGUF](https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF) `text-generation` | ❤️ 556 | ⬇️ 59,366 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) `image-text-to-text` | ❤️ 6,410 | ⬇️ 155,741 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) `image-text-to-text` | ❤️ 1,560 | ⬇️ 3,302,340 |
+| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | ❤️ 1,328 | ⬇️ 539,421 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) `image-text-to-text` | ❤️ 992 | ⬇️ 1,059,763 |
+| [prism-ml/Ternary-Bonsai-2.5-27B-GGUF](https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF) `text-generation` | ❤️ 597 | ⬇️ 382,546 |
 
 ### 📄 Fresh LLM/NLP papers (arXiv cs.CL)
 
@@ -30,7 +30,7 @@
 - [Mixture-of-Loops Transformer](http://arxiv.org/abs/2611.34923v1) · `2026-11-25`
 - [$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents](http://arxiv.org/abs/2611.34920v1) · `2026-11-25`
 
-<sub>🕐 Auto-updated hourly · last refresh: 2026-11-27 11:05 MSK</sub>
+<sub>🕐 Auto-updated hourly · last refresh: 2026-11-27 21:06 MSK</sub>
 
 <!--DIGEST:END-->
 
